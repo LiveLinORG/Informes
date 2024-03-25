@@ -2,8 +2,8 @@
 # Contenido
 
 ## Tabla de contenidos
-
-### 1. Student Outcome Capítulo I: Introducción
+- Student Outcome 
+### 1. Capítulo I: Introducción
 
 1.1. Startup Profile
    1.1.1. Descripción de la Startup
