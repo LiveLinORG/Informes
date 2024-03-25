@@ -18,13 +18,14 @@
     - LiveLin Es una Startup orientada a la creación de aplicaciones web innovadoras enfocadas en solucionar problemas específicos pero comunes en la sociedad, somos un grupo de estudiantes de la Universidad De Ciencias Aplicadas (UPC) la mayoría cursamos el Quinto Ciclo de la carrera de Ingeniería de Software. Procuramos un ambiente sano y divertido para propiciar las ideas innovadoras tal y como el lema de nuestra alma máter. 
   - 1.1.2. Perfiles de integrantes del equipo
 
-| Integrante                           | Descripción del Perfil                                                                                          |
-|-------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Adrián Enrique Jesús Palma Obispo   | Curso la carrera de Ingeniería de Software de 5to Ciclo. Experiencia trabajando en equipo, aportando en diversas áreas y ayudando en tecnologías. Capacidad para aprender rápido. Curioso y puntual. |
-| Erick                               |                                                                                                                  |
-| Joaquín Alonso Carbajal Pozzo       | Actualmente curso la carrera de Ingeniería de Software. Me gusta aprender sobre nuevas tecnologías y ponerlas en práctica lo antes posible. |
-|                                      |                                                                                                                  |
-|                                      |                                                                                                                  |
+| Integrante                         | Descripción del Perfil                                                                                          |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Adrián Enrique Jesús Palma Obispo | Curso la carrera de Ingeniería de Software de 5to Ciclo. Experiencia trabajando en equipo, aportando en diversas áreas y ayudando en tecnologías. Capacidad para aprender rápido. Curioso y puntual. |
+| Erick                             |                                                                                                                  |
+| Joaquín Alonso Carbajal Pozzo     | Actualmente curso la carrera de Ingeniería de Software. Me gusta aprender sobre nuevas tecnologías y ponerlas en práctica lo antes posible. |
+|                                   |                                                                                                                  |
+|                                   |                                                                                                                  |
+
 
 
 - 1.2. Solution Profile
