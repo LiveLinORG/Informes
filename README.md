@@ -21,8 +21,8 @@
 | Integrante                           | Descripción del Perfil                                                                                          |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | Adrián Enrique Jesús Palma Obispo   | Curso la carrera de Ingeniería de Software de 5to Ciclo. Experiencia trabajando en equipo, aportando en diversas áreas y ayudando en tecnologías. Capacidad para aprender rápido. Curioso y puntual. |
-| Erick                                |                                                                                                                  |
-|                                      |                                                                                                                  |
+| Erick                               |                                                                                                                  |
+| Joaquín Alonso Carbajal Pozzo       | Actualmente curso la carrera de Ingeniería de Software. Me gusta aprender sobre nuevas tecnologías y ponerlas en práctica lo antes posible. |
 |                                      |                                                                                                                  |
 |                                      |                                                                                                                  |
 
