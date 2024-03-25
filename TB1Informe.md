@@ -1,12 +1,31 @@
+
 # Contenido
 
 ## Tabla de contenidos
+  - [1. Student Outcome Capítulo I: Introducción](#1-student-outcome-cap%C3%ADtulo-i-introducci%C3%B3n)
+  - [2. Capítulo II: Requirements Elicitation & Analysis](#2-cap%C3%ADtulo-ii-requirements-elicitation--analysis)
+  - [3. Capítulo III: Requirements Specification](#3-cap%C3%ADtulo-iii-requirements-specification)
+  - [4. Capítulo IV: Product Design](#4-cap%C3%ADtulo-iv-product-design)
+  - [5. Capítulo V: Product Implementation, Validation & Deployment](#5-cap%C3%ADtulo-v-product-implementation-validation--deployment)
+- [Conclusiones](#conclusiones)
+- [Bibliografía](#bibliograf%C3%ADa)
+- [Anexos](#anexos)
 
 ### 1. Student Outcome Capítulo I: Introducción
 
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
+    - LiveLin Es una Startup orientada a la creación de aplicaciones web innovadoras enfocadas en solucionar problemas específicos pero comunes en la sociedad, somos un grupo de estudiantes de la Universidad De Ciencias Aplicadas (UPC) la mayoría cursamos el Quinto Ciclo de la carrera de Ingeniería de Software. Procuramos un ambiente sano y divertido para propiciar las ideas innovadoras tal y como el lema de nuestra alma máter. 
   - 1.1.2. Perfiles de integrantes del equipo
+
+| Integrante                           | Descripción del Perfil                                                                                          |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Adrián Enrique Jesús Palma Obispo   | Curso la carrera de Ingeniería de Software de 5to Ciclo. Experiencia trabajando en equipo, aportando en diversas áreas y ayudando en tecnologías. Capacidad para aprender rápido. Curioso y puntual. |
+| Erick                                |                                                                                                                  |
+|                                      |                                                                                                                  |
+|                                      |                                                                                                                  |
+|                                      |                                                                                                                  |
+
 
 - 1.2. Solution Profile
   - 1.2.1. Antecedentes y problemática
