@@ -86,6 +86,25 @@
     - 1.2.2.3. Lean UX Hypothesis Statements.
     - 1.2.2.4. Lean UX Canvas.
 - 1.3. Segmentos objetivo.
+  
+1. **Estudiantes Universitarios**:
+   - Buscan herramientas que faciliten la interacción en el aula durante clases presenciales.
+   - Valorizan la posibilidad de acceder a la plataforma sin necesidad de instalar software adicional.
+   - Necesitan una forma de hacer preguntas de manera anónima para aclarar dudas sin temor a ser juzgados.
+   - Quieren una plataforma que les permita seguir la presentación del profesor desde sus dispositivos móviles.
+   
+2. **Profesores y Educadores**:
+   - Buscan una herramienta que facilite la interacción y participación de los alumnos durante las clases.
+   - Valorizan la capacidad de integrar la plataforma con sus presentaciones de diapositivas.
+   - Necesitan una forma de priorizar y responder a las preguntas más relevantes de los estudiantes.
+   - Quieren una plataforma que les permita gestionar múltiples sesiones de manera eficiente.
+   
+3. **Instituciones Educativas y Empresas de Capacitación**:
+   - Buscan una solución que facilite la interacción entre profesores y alumnos durante sesiones presenciales.
+   - Valorizan la posibilidad de personalizar la plataforma según sus necesidades, incluyendo la opción de contar con cuentas premium para un mayor número de usuarios.
+   - Necesitan una herramienta que garantice la seguridad y privacidad de los datos de los usuarios.
+   - Quieren una plataforma que facilite la recopilación y revisión de preguntas formuladas durante las sesiones de clase.
+
 
 ### 2. Capítulo II: Requirements Elicitation & Analysis
 
@@ -97,12 +116,97 @@
   - 2.4.2. Registro de entrevistas.
   - 2.4.3. Análisis de entrevistas.
 - 2.5. Needfinding.
+  
+#### Problemas Identificados:
+
+1. **Dificultad para la Interacción en el Aula**:
+   - Los estudiantes encuentran desafiante participar activamente en las clases presenciales debido a barreras de comunicación o miedo al juicio de sus pares.
+
+2. **Limitaciones en la Participación de los Alumnos**:
+   - Algunos alumnos pueden sentirse reacios a hacer preguntas o expresar dudas en público durante las clases, lo que puede afectar su comprensión del material.
+
+3. **Falta de Sincronización en la Presentación de Diapositivas**:
+   - La falta de sincronización entre la presentación del profesor y los dispositivos de los alumnos puede dificultar seguir el ritmo de la clase y afectar la comprensión del contenido.
+
+4. **Desafíos en la Priorización de Preguntas Relevantes**:
+   - Los profesores pueden enfrentar dificultades para identificar y responder a las preguntas más importantes de los alumnos debido a la falta de un sistema de priorización claro.
+
+5. **Necesidad de Recursos de Revisión y Repaso**:
+   - Los estudiantes pueden carecer de herramientas efectivas para revisar y repasar el material discutido en clase, lo que puede afectar su rendimiento académico.
+
+#### Soluciones Propuestas:
+
+1. **Facilitar la Interacción en el Aula**:
+   - Proporcionar una plataforma que permita a los estudiantes participar activamente en la clase desde sus dispositivos móviles, eliminando barreras de comunicación.
+
+2. **Fomentar la Participación de los Alumnos**:
+   - Permitir a los estudiantes hacer preguntas de forma anónima para fomentar un entorno de aprendizaje inclusivo y sin miedo al juicio.
+
+3. **Sincronización en Tiempo Real**:
+   - Garantizar que la presentación del profesor esté sincronizada con los dispositivos de los estudiantes para facilitar el seguimiento del contenido de la clase.
+
+4. **Priorización de Preguntas Relevantes**:
+   - Implementar un sistema de votación o "me gusta" para que los estudiantes puedan destacar las preguntas más importantes, ayudando así a los profesores a priorizarlas y responderlas de manera efectiva.
+
+5. **Recursos de Revisión y Repaso**:
+   - Permitir a los estudiantes exportar un registro detallado de preguntas formuladas durante la clase para facilitar la revisión y repaso del material discutido.
 - 2.6. User Personas.
 - 2.7. User Task Matrix.
 - 2.8. User Journey Mapping.
 - 2.9. Empathy Mapping.
 - 2.10. As-is Scenario Mapping.
 - 2.11. Ubiquitous Language.
+  ## Términos y Conceptos
+
+1. **Sesión Presencial**:
+   - Definición: Una reunión física entre profesores y alumnos donde se utiliza NoteLive para facilitar la interacción en tiempo real.
+   - Ejemplo de Uso: "Hoy tendremos una sesión presencial de matemáticas utilizando NoteLive."
+
+2. **Inicio de Sesión Simple**:
+   - Definición: Proceso de acceso a la plataforma NoteLive sin requerir instalación de software adicional.
+   - Ejemplo de Uso: "Gracias a la función de inicio de sesión simple, los usuarios pueden acceder a NoteLive con solo ingresar un código proporcionado por el profesor."
+
+3. **Interacción en Tiempo Real**:
+   - Definición: La capacidad de los alumnos para seguir la presentación del profesor en tiempo real desde sus dispositivos móviles durante una sesión presencial.
+   - Ejemplo de Uso: "La interacción en tiempo real de NoteLive permite a los estudiantes seguir el ritmo de la clase desde cualquier lugar en el aula."
+
+4. **Preguntas Anónimas**:
+   - Definición: La capacidad de los alumnos para enviar preguntas de forma anónima a través de la aplicación.
+   - Ejemplo de Uso: "Con la función de preguntas anónimas, los estudiantes pueden aclarar sus dudas sin temor a ser juzgados."
+
+5. **Destaque de Preguntas Relevantes**:
+   - Definición: La función que permite a los alumnos destacar preguntas importantes mediante la opción de "me gusta".
+   - Ejemplo de Uso: "Los profesores pueden identificar las preguntas más relevantes gracias al destaque de preguntas implementado en NoteLive."
+
+6. **Integración con Presentaciones**:
+   - Definición: La capacidad de los profesores para vincular sus presentaciones de diapositivas a NoteLive para una visualización sincronizada.
+   - Ejemplo de Uso: "La integración con presentaciones de NoteLive garantiza que todos los participantes estén en la misma página durante la clase."
+
+7. **Exportación de Registro de Preguntas**:
+   - Definición: La opción para que los alumnos exporten un archivo detallado que contiene un registro de todas las preguntas formuladas durante la sesión.
+   - Ejemplo de Uso: "Al finalizar la sesión, los alumnos pueden exportar el registro de preguntas para su revisión y repaso posterior."
+
+## Planes de Suscripción
+
+- **Plan Gratuito**:
+  - Límite de personas en la sesión: 30
+  - Límite de tiempo: 40 min
+  - Límite de diapositivas: 100
+  - Sin opción de preguntas destacadas
+  - Solo puede crear una sesión a la vez
+
+- **Plan Premium**:
+  - 1 cuenta premium
+  - Límite de personas en la sesión: 100
+  - Tiempo ilimitado
+  - Diapositivas: 500
+  - Preguntas destacadas con CSS
+  - Múltiples sesiones
+
+- **Plan Empresarial**:
+  - Hasta 1000 cuentas
+  - Límite de personas en la sesión: 200
+  - Todas las ventajas del plan premium
 
 ### 3. Capítulo III: Requirements Specification
 
@@ -150,8 +254,8 @@
   - 5.1.4. Software Deployment Configuration.
 - 5.2. Landing Page, Services & Applications Implementation.
   - 5.2.1. Sprint n
-    - 5.2.1.1. Sprint Planning n.
-    - 5.2.1.2. Sprint Backlog n.
+    - 5.2.1.1. Sprint Planning.
+    - 5.2.1.2. Sprint Backlog.
     - 5.2.1.3. Development Evidence for Sprint Review.
     - 5.2.1.4. Testing Suite Evidence for Sprint Review.
     - 5.2.1.5. Execution Evidence for Sprint Review.
