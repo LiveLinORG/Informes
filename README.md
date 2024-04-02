@@ -111,6 +111,24 @@
 - 2.1. Competidores.
 - 2.2. Análisis competitivo.
 - 2.3. Estrategias y tácticas frente a competidores.
+  ## Estrategias:
+
+| Estrategia                           | Descripción                                                                                                                         |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Diferenciación del Producto          | Enfocarse en las características únicas de NoteLive para diferenciarse de otras plataformas en el mercado.                        |
+| Enfoque en la Experiencia del Usuario| Priorizar la facilidad de uso y la experiencia del usuario para garantizar una experiencia satisfactoria durante las sesiones.       |
+| Integración con Herramientas de Presentación | Mejorar la integración con herramientas de presentación populares para facilitar su adopción por parte de los usuarios.         |
+
+## Tácticas:
+
+| Táctica                                          | Descripción                                                                                                                            |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Ofrecer un Plan Gratuito Atractivo               | Mantener un plan gratuito con funcionalidades básicas para atraer a usuarios potenciales y darles la oportunidad de experimentar.     |
+| Desarrollar y Promover Funcionalidades Exclusivas| Crear funcionalidades exclusivas para planes de pago y promover activamente estas características para captar usuarios dispuestos a pagar.|
+| Crear Alianzas Estratégicas con Instituciones Educativas | Establecer alianzas con instituciones educativas para promover el uso de NoteLive en entornos académicos.                      |
+| Realizar Campañas de Marketing Dirigidas        | Llevar a cabo campañas de marketing dirigidas a profesores y administradores educativos para destacar los beneficios de NoteLive.   |
+| Mantenerse al Tanto de las Tendencias del Mercado| Permanecer atento a las tendencias del mercado y adaptar la plataforma para satisfacer las necesidades cambiantes de los usuarios.   |
+
 - 2.4. Entrevistas.
   - 2.4.1. Diseño de entrevistas.
   - 2.4.2. Registro de entrevistas.
