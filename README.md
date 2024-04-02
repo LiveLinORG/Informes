@@ -311,6 +311,38 @@
 |Integración con Plataformas de Aprendizaje|Como usuario, me gustaría que NoteLive se integre con otras plataformas de aprendizaje en línea para facilitar la gestión de contenido y la comunicación con mis profesores y compañeros de clase.|
 |Sincronización de Notas y Comentarios|Como usuario, quiero que mis notas y comentarios realizados en NoteLive se sincronicen automáticamente en todos mis dispositivos para poder acceder a ellos desde cualquier lugar y en cualquier momento.|
 |Protección de Datos Personales|Como usuario, deseo que NoteLive garantice la protección de mis datos personales y la privacidad de mis interacciones en la plataforma mediante medidas de seguridad robustas y cumplimiento de regulaciones de privacidad.|
+- Product Backlog de Landing Page:
+| User Story                           | Descripción                                                                                                          |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Optimización de Responsividad        | Asegurarse de que el sitio web sea completamente responsive en diferentes dispositivos y tamaños de pantalla.      |
+| Mejoras de Accesibilidad             | Garantizar que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla. |
+| Validación de HTML y CSS             | Validar el código HTML y CSS para asegurar que cumple con los estándares y no contiene errores.                     |
+| Optimización de Carga                | Optimizar el tiempo de carga del sitio web para mejorar la experiencia del usuario.                                |
+| Añadir Interactividad                | Implementar interactividad en elementos como botones y enlaces para mejorar la usabilidad.                          |
+| Mejoras de SEO                       | Optimizar el sitio web para mejorar su visibilidad en los motores de búsqueda.                                        |
+| Refactorización de Clases y Selectores | Revisar y refactorizar las clases y selectores en el CSS para mejorar la legibilidad y mantenibilidad del código.  |
+| Pruebas de Cross-Browser             | Realizar pruebas exhaustivas en diferentes navegadores para asegurar la compatibilidad y el rendimiento del sitio web.|
+| Documentación                        | Documentar el código HTML y CSS para facilitar el mantenimiento futuro y la colaboración entre desarrolladores.     |
+| Implementación de Funcionalidades Faltantes | Completar la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web. |
+| Seguridad                            | Implementar medidas de seguridad apropiadas para proteger el sitio web contra vulnerabilidades y ataques maliciosos.|
+| Actualización de Contenido           | Actualizar el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.                       |
+| Gestión de Errores y Excepciones     | Implementar manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.     |
+| Integración de Diseño de Interfaces | Integrar el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web. |
+| Cabecera (Header)                    | La estructura de la cabecera está definida con secciones como el logo y los elementos de navegación.                  |
+| Diseño Responsivo                    | El diseño del sitio web utiliza técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla. |
+| Estilos de Navegación                | Se han aplicado estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.                 |
+| Contenedor Principal                 | El contenedor principal del sitio web se ha definido con una estructura de grid y secciones para organizar el contenido. |
+| Sección de Aterrizaje (Landing)      | Se ha creado una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.                     |
+| Estilos de Botón                     | Los botones tienen estilos CSS aplicados, incluyendo colores, sombras y efectos de hover.                           |
+| Tarjetas de Notas (Note Live Cards)  | Se han definido tarjetas para mostrar información sobre las características de NoteLive, con diferentes estilos según el tamaño de la tarjeta. |
+| Sección de Características Adicionales | Se ha creado una sección para mostrar las características de los diferentes planes de NoteLive, con estilos y colores específicos para cada plan. |
+| Estilos de Testimonios de Usuarios   | Los testimonios de usuarios tienen estilos aplicados, incluyendo colores de fondo, tipografía y efectos de hover. |
+| Sección de Recursos Educativos       | Se ha añadido una sección para mostrar recursos educativos relacionados con NoteLive.                                |
+| Sección de Soporte y Contacto        | Se ha creado una sección para proporcionar información de contacto y soporte, con estilos aplicados para resaltar la información. |
+| Sección de Integraciones y Compatibilidad | Se ha añadido una sección para destacar las integraciones y compatibilidad de NoteLive con otras plataformas.        |
+| Sección de Actualizaciones y Novedades | Se ha incluido una sección para informar a los usuarios sobre las últimas actualizaciones y noticias relacionadas con NoteLive. |
+| Estilos del Footer                   | El footer tiene estilos aplicados para el color de fondo, el color del texto y el espaciado interno.                |
+| Consulta de Medios (Media Queries)   | Se han implementado consultas de medios para ajustar el diseño y los estilos en diferentes tamaños de pantalla.     |
 
   
 
