@@ -419,7 +419,6 @@
     - 5.2.1.1. Sprint Planning.
     - 5.2.1.2. Sprint Backlog.
 | | User Story                           | Descripción                                                                                                          | Horas Estimadas | Asignación | Fecha Límite   | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | | Mejoras de Accesibilidad             | Garantizar que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla. | 8 horas | [Por Asignar] | 30 de marzo de 2024 | |
 | | Validación de HTML y CSS             | Validar el código HTML y CSS para asegurar que cumple con los estándares y no contiene errores.                     | 6 horas | [Por Asignar] | 31 de marzo de 2024 | |
 | | Optimización de Carga                | Optimizar el tiempo de carga del sitio web para mejorar la experiencia del usuario.                                | 10 horas | [Por Asignar] | 1 de abril de 2024 | |
