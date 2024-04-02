@@ -233,7 +233,7 @@
 - 3.3. Impact Mapping.
 - 3.4. Product Backlog.
 
-|Nombre|Descripción|
+|Historia De Usuario|Descripción|
 |:----|:----|
 |Inicio de Sesión Simple|Como usuario, quiero poder iniciar sesión de manera sencilla en NoteLive a través de un código único proporcionado por el profesor para acceder a la sesión.|
 |Interacción en Tiempo Real|Como alumno, deseo ver la presentación del profesor en tiempo real en mi dispositivo móvil mientras estoy en clase para poder seguir el ritmo de la lección desde cualquier lugar en el aula.|
