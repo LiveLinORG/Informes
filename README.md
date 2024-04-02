@@ -112,15 +112,17 @@
    En el mercado de aplicaciones para la interacción en tiempo real durante sesiones de enseñanza, existen varios productos que compiten ofreciendo soluciones similares para profesores y alumnos. A continuación, se mencionan algunos de los competidores clave identificados:
 
 	 **Zoom for Education:** Zoom for Education es una plataforma de videoconferencia popular, diseñada específicamente para entornos educativos. Ofrece herramientas como salas de reuniones virtuales, compartición de pantalla, pizarra virtual y chats en vivo. Además, cuenta con características de seguridad, como control de sala de espera y autenticación de usuarios, para proteger la privacidad de los estudiantes.
-  	![image](https://github.com/LiveLinORG/Informes/assets/48342953/b30438de-d761-481e-a966-28db3ebde976)
-
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/LiveLinORG/Informes/assets/48342953/b30438de-d761-481e-a966-28db3ebde976">
+</p>
 	**Google Classroom:** Google Classroom es una plataforma de gestión del aprendizaje que permite a los profesores crear clases virtuales, asignar tareas, evaluar el trabajo de los alumnos y facilitar la comunicación entre estudiantes y profesores. La integración con otras herramientas de Google, como Google Drive y Google Meet, proporciona una experiencia educativa integrada y colaborativa. Google Classroom también ofrece funciones de seguimiento del progreso del alumno y retroalimentación personalizada.
-	![image](https://github.com/LiveLinORG/Informes/assets/48342953/5cb364ec-a8fe-462c-9083-d35603ce1342)
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/LiveLinORG/Informes/assets/48342953/5cb364ec-a8fe-462c-9083-d35603ce1342">
+</p>
 	**Microsoft Teams for Education:** Microsoft Teams es una plataforma de colaboración que ofrece herramientas para la comunicación en tiempo real, la colaboración en documentos y la organización de equipos. La versión para educación de Microsoft Teams incluye características específicas para la enseñanza, como asignaciones integradas, cuadernos de clase de OneNote y la capacidad de realizar reuniones virtuales con estudiantes y profesores. Microsoft Teams for Education también ofrece integración con otras herramientas de Microsoft, como Office 365 y SharePoint.
-  	![image](https://github.com/LiveLinORG/Informes/assets/48342953/143458cf-3ce5-4b14-9f7c-fcd5a849de97)
-	
+<p align="center">
+  <img width="460" height="300" src="https://github.com/LiveLinORG/Informes/assets/48342953/143458cf-3ce5-4b14-9f7c-fcd5a849de97">
+</p>	
 	Estos competidores, al igual que NoteLive, se centran en ofrecer soluciones completas para la interacción en tiempo real durante clases, proporcionando una diversidad de herramientas y recursos para facilitar la comunicación, colaboración y aprendizaje entre profesores y alumnos. Cada plataforma presenta características únicas y ventajas competitivas, por lo que es esencial que los usuarios analicen sus necesidades y preferencias individuales al seleccionar la aplicación que más se ajuste a sus requerimientos.
 - 2.2. Análisis competitivo.
 
