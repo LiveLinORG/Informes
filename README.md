@@ -511,63 +511,63 @@
       <td>Implementar manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.</td>
       <td>8 horas</td>
       <td>[Por Asignar]</td>
-      <td>10 de abril de 2024</td>
+      <td>7 de abril de 2024</td>
     </tr>
     <tr>
       <td>Integración de Diseño de Interfaces</td>
       <td>Integrar el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web.</td>
       <td>10 horas</td>
       <td>[Por Asignar]</td>
-      <td>11 de abril de 2024</td>
+      <td>1 de abril de 2024</td>
     </tr>
     <tr>
       <td>Cabecera (Header)</td>
       <td>La estructura de la cabecera está definida con secciones como el logo y los elementos de navegación.</td>
       <td>4 horas</td>
       <td>[Por Asignar]</td>
-      <td>12 de abril de 2024</td>
+      <td>1 de abril de 2024</td>
     </tr>
     <tr>
       <td>Diseño Responsivo</td>
       <td>El diseño del sitio web utiliza técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla.</td>
       <td>8 horas</td>
       <td>[Por Asignar]</td>
-      <td>13 de abril de 2024</td>
+      <td>3 de abril de 2024</td>
     </tr>
     <tr>
       <td>Estilos de Navegación</td>
       <td>Se han aplicado estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.</td>
       <td>6 horas</td>
       <td>[Por Asignar]</td>
-      <td>14 de abril de 2024</td>
+      <td>4 de abril de 2024</td>
     </tr>
     <tr>
       <td>Contenedor Principal</td>
       <td>El contenedor principal del sitio web se ha definido con una estructura de grid y secciones para organizar el contenido.</td>
       <td>6 horas</td>
       <td>[Por Asignar]</td>
-      <td>15 de abril de 2024</td>
+      <td>5 de abril de 2024</td>
     </tr>
     <tr>
       <td>Sección de Aterrizaje (Landing)</td>
       <td>Se ha creado una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.</td>
       <td>8 horas</td>
       <td>[Por Asignar]</td>
-      <td>16 de abril de 2024</td>
+      <td>6 de abril de 2024</td>
     </tr>
     <tr>
       <td>Estilos de Botón</td>
       <td>Los botones tienen estilos CSS aplicados, incluyendo colores, sombras y efectos de hover.</td>
       <td>4 horas</td>
       <td>[Por Asignar]</td>
-      <td>17 de abril de 2024</td>
+      <td>7 de abril de 2024</td>
     </tr>
     <tr>
       <td>Tarjetas de Notas (Note Live Cards)</td>
       <td>Se han definido tarjetas de notas para mostrar información relevante de manera visualmente atractiva.</td>
       <td>8 horas</td>
       <td>[Por Asignar]</td>
-      <td>18 de abril de 2024</td>
+      <td>5 de abril de 2024</td>
     </tr>
   </tbody>
 </table>
