@@ -418,29 +418,28 @@
   - 5.2.1. Sprint n
     - 5.2.1.1. Sprint Planning.
     - 5.2.1.2. Sprint Backlog.
-      | User Story                           | Descripción                                                                                                          | Horas Estimadas | Asignación | Fecha Límite   |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------|------------|----------------|
-| Mejoras de Accesibilidad             | Garantizar que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla. | 8 horas | [Por Asignar] | 30 de marzo de 2024 |
-| Validación de HTML y CSS             | Validar el código HTML y CSS para asegurar que cumple con los estándares y no contiene errores.                     | 6 horas | [Por Asignar] | 31 de marzo de 2024 |
-| Optimización de Carga                | Optimizar el tiempo de carga del sitio web para mejorar la experiencia del usuario.                                | 10 horas | [Por Asignar] | 1 de abril de 2024 |
-| Añadir Interactividad                | Implementar interactividad en elementos como botones y enlaces para mejorar la usabilidad.                          | 8 horas | [Por Asignar] | 2 de abril de 2024 |
-| Mejoras de SEO                       | Optimizar el sitio web para mejorar su visibilidad en los motores de búsqueda.                                        | 6 horas | [Por Asignar] | 3 de abril de 2024 |
-| Refactorización de Clases y Selectores | Revisar y refactorizar las clases y selectores en el CSS para mejorar la legibilidad y mantenibilidad del código.  | 8 horas | [Por Asignar] | 4 de abril de 2024 |
-| Pruebas de Cross-Browser             | Realizar pruebas exhaustivas en diferentes navegadores para asegurar la compatibilidad y el rendimiento del sitio web.| 12 horas | [Por Asignar] | 5 de abril de 2024 |
-| Documentación                        | Documentar el código HTML y CSS para facilitar el mantenimiento futuro y la colaboración entre desarrolladores.     | 6 horas | [Por Asignar] | 6 de abril de 2024 |
-| Implementación de Funcionalidades Faltantes | Completar la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web. | 14 horas | [Por Asignar] | 7 de abril de 2024 |
-| Seguridad                            | Implementar medidas de seguridad apropiadas para proteger el sitio web contra vulnerabilidades y ataques maliciosos.| 10 horas | [Por Asignar] | 8 de abril de 2024 |
-| Actualización de Contenido           | Actualizar el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.                       | 6 horas | [Por Asignar] | 9 de abril de 2024 |
-| Gestión de Errores y Excepciones     | Implementar manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.     | 8 horas | [Por Asignar] | 10 de abril de 2024 |
-| Integración de Diseño de Interfaces | Integrar el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web. | 10 horas | [Por Asignar] | 11 de abril de 2024 |
-| Cabecera (Header)                    | La estructura de la cabecera está definida con secciones como el logo y los elementos de navegación.                  | 4 horas | [Por Asignar] | 12 de abril de 2024 |
-| Diseño Responsivo                    | El diseño del sitio web utiliza técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla. | 8 horas | [Por Asignar] | 13 de abril de 2024 |
-| Estilos de Navegación                | Se han aplicado estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.                 | 6 horas | [Por Asignar] | 14 de abril de 2024 |
-| Contenedor Principal                 | El contenedor principal del sitio web se ha definido con una estructura de grid y secciones para organizar el contenido. | 6 horas | [Por Asignar] | 15 de abril de 2024 |
-| Sección de Aterrizaje (Landing)      | Se ha creado una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.                     | 8 horas | [Por Asignar] | 16 de abril de 2024 |
-| Estilos de Botón                     | Los botones tienen estilos CSS aplicados, incluyendo colores, sombras y efectos de hover.                           | 4 horas | [Por Asignar] | 17 de abril de 2024 |
-| Tarjetas de Notas (Note Live Cards)  | Se han definido tarjetas de notas para mostrar información relevante de manera visualmente atractiva.                 | 8 horas | [Por Asignar] | 18 de abril de 2024 |
-
+| | User Story                           | Descripción                                                                                                          | Horas Estimadas | Asignación | Fecha Límite   | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| | Mejoras de Accesibilidad             | Garantizar que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla. | 8 horas | [Por Asignar] | 30 de marzo de 2024 | |
+| | Validación de HTML y CSS             | Validar el código HTML y CSS para asegurar que cumple con los estándares y no contiene errores.                     | 6 horas | [Por Asignar] | 31 de marzo de 2024 | |
+| | Optimización de Carga                | Optimizar el tiempo de carga del sitio web para mejorar la experiencia del usuario.                                | 10 horas | [Por Asignar] | 1 de abril de 2024 | |
+| | Añadir Interactividad                | Implementar interactividad en elementos como botones y enlaces para mejorar la usabilidad.                          | 8 horas | [Por Asignar] | 2 de abril de 2024 | |
+| | Mejoras de SEO                       | Optimizar el sitio web para mejorar su visibilidad en los motores de búsqueda.                                        | 6 horas | [Por Asignar] | 3 de abril de 2024 | |
+| | Refactorización de Clases y Selectores | Revisar y refactorizar las clases y selectores en el CSS para mejorar la legibilidad y mantenibilidad del código.  | 8 horas | [Por Asignar] | 4 de abril de 2024 | |
+| | Pruebas de Cross-Browser             | Realizar pruebas exhaustivas en diferentes navegadores para asegurar la compatibilidad y el rendimiento del sitio web.| 12 horas | [Por Asignar] | 5 de abril de 2024 | |
+| | Documentación                        | Documentar el código HTML y CSS para facilitar el mantenimiento futuro y la colaboración entre desarrolladores.     | 6 horas | [Por Asignar] | 6 de abril de 2024 | |
+| | Implementación de Funcionalidades Faltantes | Completar la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web. | 14 horas | [Por Asignar] | 7 de abril de 2024 | |
+| | Seguridad                            | Implementar medidas de seguridad apropiadas para proteger el sitio web contra vulnerabilidades y ataques maliciosos.| 10 horas | [Por Asignar] | 8 de abril de 2024 | |
+| | Actualización de Contenido           | Actualizar el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.                       | 6 horas | [Por Asignar] | 9 de abril de 2024 | |
+| | Gestión de Errores y Excepciones     | Implementar manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.     | 8 horas | [Por Asignar] | 10 de abril de 2024 | |
+| | Integración de Diseño de Interfaces | Integrar el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web. | 10 horas | [Por Asignar] | 11 de abril de 2024 | |
+| | Cabecera (Header)                    | La estructura de la cabecera está definida con secciones como el logo y los elementos de navegación.                  | 4 horas | [Por Asignar] | 12 de abril de 2024 | |
+| | Diseño Responsivo                    | El diseño del sitio web utiliza técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla. | 8 horas | [Por Asignar] | 13 de abril de 2024 | |
+| | Estilos de Navegación                | Se han aplicado estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.                 | 6 horas | [Por Asignar] | 14 de abril de 2024 | |
+| | Contenedor Principal                 | El contenedor principal del sitio web se ha definido con una estructura de grid y secciones para organizar el contenido. | 6 horas | [Por Asignar] | 15 de abril de 2024 | |
+| | Sección de Aterrizaje (Landing)      | Se ha creado una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.                     | 8 horas | [Por Asignar] | 16 de abril de 2024 | |
+| | Estilos de Botón                     | Los botones tienen estilos CSS aplicados, incluyendo colores, sombras y efectos de hover.                           | 4 horas | [Por Asignar] | 17 de abril de 2024 | |
+| | Tarjetas de Notas (Note Live Cards)  | Se han definido tarjetas de notas para mostrar información relevante de manera visualmente atractiva.                 | 8 horas | [Por Asignar] | 18 de abril de 2024 | |
     - 5.2.1.3. Development Evidence for Sprint Review.
     - 5.2.1.4. Testing Suite Evidence for Sprint Review.
     - 5.2.1.5. Execution Evidence for Sprint Review.
