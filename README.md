@@ -177,6 +177,37 @@
 
 - 2.4. Entrevistas.
   - 2.4.1. Diseño de entrevistas.
+  
+    ***Preguntas para Segmento 1: Estudiantes Universitarios***
+
+    En relación al grupo de estudiantes universitarios a los que apuntamos:
+
+	1. ¿Qué herramientas consideras más útiles para mejorar la interacción en el aula durante clases presenciales?
+	2. ¿Prefieres plataformas que no requieran instalación de software adicional o estás dispuesto/a a hacerlo si ofrece más funcionalidades?
+	3. ¿Qué características valoras más al hacer preguntas durante las clases, como la opción de anonimato o la facilidad de uso?
+	4. ¿Qué aspectos te resultan más importantes al seguir la presentación del profesor desde dispositivos móviles?
+	5. ¿Cómo crees que una plataforma podría ayudarte a mejorar tu experiencia de aprendizaje en el aula?
+	6. ¿Qué funciones adicionales te gustaría que una plataforma ofreciera para facilitar la colaboración y el trabajo en equipo?
+	7. ¿Cuál es tu opinión sobre la seguridad y privacidad de tus datos al utilizar plataformas en línea para la educación?
+	8. ¿Has tenido alguna experiencia previa con plataformas similares? ¿Qué aspectos positivos y negativos destacarías?
+	9. ¿Qué tan importante es para ti que una plataforma sea fácil de usar y tenga una interfaz intuitiva?
+	10. ¿Qué crees que hace que una plataforma sea exitosa en el ámbito educativo?
+
+    ***Preguntas para Segmento 2: Profesores y Educadores***
+
+    Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y experiencia en el ámbito educativo. 	 
+    Agradecemos su tiempo y sus respuestas, ya que contribuirán al desarrollo de nuestro proyecto.
+
+	1. ¿Qué características consideras más importantes al seleccionar una plataforma para utilizar en tus clases?
+	2. ¿Cómo integrarías una plataforma en tus presentaciones de diapositivas o clases?
+	3. ¿Qué herramientas te gustaría tener para priorizar y responder preguntas de los estudiantes durante las clases?
+	4. ¿Cómo gestionas actualmente múltiples sesiones o cursos en línea?
+	5. ¿Qué aspectos de una plataforma te facilitarían más tu trabajo como educador?
+	6. ¿Qué desafíos enfrentas al interactuar con tus alumnos de manera remota o en línea?
+	7. ¿Qué funciones adicionales te gustaría que una plataforma ofreciera para mejorar la participación y el compromiso de los estudiantes?
+	8. ¿Cómo evalúas la efectividad de una plataforma en el proceso de enseñanza y aprendizaje?
+	9. ¿Qué importancia le das a la personalización y adaptación de una plataforma a tus necesidades específicas como educador?
+	10. ¿Qué consejos darías a otros educadores al seleccionar una plataforma para utilizar en sus clases?
   - 2.4.2. Registro de entrevistas.
   - 2.4.3. Análisis de entrevistas.
 - 2.5. Needfinding.
