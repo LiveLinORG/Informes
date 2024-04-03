@@ -18,12 +18,12 @@
     - LiveLin Es una Startup orientada a la creación de aplicaciones web innovadoras enfocadas en solucionar problemas específicos pero comunes en la sociedad, somos un grupo de estudiantes de la Universidad De Ciencias Aplicadas (UPC) la mayoría cursamos el Quinto Ciclo de la carrera de Ingeniería de Software. Procuramos un ambiente sano y divertido para propiciar las ideas innovadoras tal y como el lema de nuestra alma máter. 
   - 1.1.2. Perfiles de integrantes del equipo
 
-| Integrante                         | Descripción del Perfil                                                                                          |
+| Integrante                        | Descripción del Perfil                                                                                           |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------|
 | Adrián Enrique Jesús Palma Obispo | Curso la carrera de Ingeniería de Software de 5to Ciclo. Experiencia trabajando en equipo, aportando en diversas áreas y ayudando en tecnologías. Capacidad para aprender rápido. Curioso y puntual. |
 | Erick Joaquin Palomino Santa Cruz | Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta. |
 | Joaquín Alonso Carbajal Pozzo     | Actualmente curso la carrera de Ingeniería de Software. Me gusta aprender sobre nuevas tecnologías y ponerlas en práctica lo antes posible. |
-|                                   |                                                                                                                  |
+| Piero Alonso Martinez Villanueva  | Me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software. Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. |
 |                                   |                                                                                                                  |
 
 
@@ -115,7 +115,7 @@
 <p align="center">
   <img width="460" height="300" src="https://github.com/LiveLinORG/Informes/assets/48342953/b30438de-d761-481e-a966-28db3ebde976">
 </p>
-	**Google Classroom:** Google Classroom es una plataforma de gestión del aprendizaje que permite a los profesores crear clases virtuales, asignar tareas, evaluar el trabajo de los alumnos y facilitar la comunicación entre estudiantes y profesores. La integración con otras herramientas de Google, como Google Drive y Google Meet, proporciona una experiencia educativa integrada y colaborativa. Google Classroom también ofrece funciones de seguimiento del progreso del alumno y retroalimentación personalizada.
+	 **Google Classroom:** Google Classroom es una plataforma de gestión del aprendizaje que permite a los profesores crear clases virtuales, asignar tareas, evaluar el trabajo de los alumnos y facilitar la comunicación entre estudiantes y profesores. La integración con otras herramientas de Google, como Google Drive y Google Meet, proporciona una experiencia educativa integrada y colaborativa. Google Classroom también ofrece funciones de seguimiento del progreso del alumno y retroalimentación personalizada.
 <p align="center">
   <img width="460" height="300" src="https://github.com/LiveLinORG/Informes/assets/48342953/5cb364ec-a8fe-462c-9083-d35603ce1342">
 </p>
