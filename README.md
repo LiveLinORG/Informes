@@ -246,6 +246,11 @@
 5. **Recursos de Revisión y Repaso**:
    - Permitir a los estudiantes exportar un registro detallado de preguntas formuladas durante la clase para facilitar la revisión y repaso del material discutido.
 - 2.6. User Personas.
+  
+  ![Imagen](https://github.com/LiveLinORG/Informes/assets/48342953/c5f4b861-215c-480e-8532-369df812c498)
+  
+  ![Imagen](https://github.com/LiveLinORG/Informes/assets/48342953/5ce0cbdb-a647-4e53-a2af-8f44ac0764db)
+
 - 2.7. User Task Matrix.
 - 2.8. User Journey Mapping.
 - 2.9. Empathy Mapping.
