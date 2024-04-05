@@ -579,12 +579,121 @@
 
 ---
 - 5.2.1.3. Development Evidence for Sprint Review.
-- 5.2.1.4. Testing Suite Evidence for Sprint Review.
+- 5.2.1.4. Testing Suite Evidence for Sprint Review.  
 - 5.2.1.5. Execution Evidence for Sprint Review.
+
+Durante este sprint, se completaron las siguientes tareas:
+
+1. **Mejoras de Accesibilidad:**
+   - Se aseguró que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla.
+
+2. **Validación de HTML y CSS:**
+   - Se validó el código HTML y CSS para asegurar que cumpla con los estándares y no contenga errores.
+
+3. **Optimización de Carga:**
+   - Se optimizó el tiempo de carga del sitio web para mejorar la experiencia del usuario.
+
+4. **Añadir Interactividad:**
+   - Se implementó interactividad en elementos como botones y enlaces para mejorar la usabilidad.
+
+5. **Mejoras de SEO:**
+   - Se optimizó el sitio web para mejorar su visibilidad en los motores de búsqueda.
+
+6. **Refactorización de Clases y Selectores:**
+   - Se revisaron y refactorizaron las clases y selectores en el CSS para mejorar la legibilidad y mantenibilidad del código.
+
+7. **Pruebas de Cross-Browser:**
+   - Se realizaron pruebas exhaustivas en diferentes navegadores para asegurar la compatibilidad y el rendimiento del sitio web.
+
+8. **Documentación:**
+   - Se documentó el código HTML y CSS para facilitar el mantenimiento futuro y la colaboración entre desarrolladores.
+
+9. **Implementación de Funcionalidades Faltantes:**
+   - Se completó la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web.
+
+10. **Seguridad:**
+    - Se implementaron medidas de seguridad apropiadas para proteger el sitio web contra vulnerabilidades y ataques maliciosos.
+
+11. **Actualización de Contenido:**
+    - Se actualizó el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.
+
+12. **Gestión de Errores y Excepciones:**
+    - Se implementó manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.
+
+13. **Integración de Diseño de Interfaces:**
+    - Se integró el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web.
+
+14. **Cabecera (Header):**
+    - Se definió la estructura de la cabecera con secciones como el logo y los elementos de navegación.
+
+15. **Diseño Responsivo:**
+    - Se utilizó técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla.
+
+16. **Estilos de Navegación:**
+    - Se aplicaron estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.
+
+17. **Contenedor Principal:**
+    - Se definió el contenedor principal del sitio web con una estructura de grid y secciones para organizar el contenido.
+
+18. **Sección de Aterrizaje (Landing):**
+    - Se creó una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.
+
+19. **Estilos de Botón:**
+    - Se aplicaron estilos CSS a los botones, incluyendo colores, sombras y efectos de hover.
+
+20. **Tarjetas de Notas (Note Live Cards):**
+    - Se definieron tarjetas de notas para mostrar información relevante de manera visualmente atractiva.
+
+
 - 5.2.1.6. Services Documentation Evidence for Sprint Review.
+  Durante este sprint, se documentaron los servicios proporcionados por el sistema. La documentación de los servicios incluye detalles sobre la API, los puntos finales, los métodos admitidos, los parámetros requeridos y las respuestas esperadas. A continuación se presenta un resumen de la documentación de los servicios:
+  1. **API de Usuarios:**
+   - Endpoint: `/api/users`
+   - Métodos admitidos: GET, POST, PUT, DELETE
+   - Parámetros requeridos: Ninguno para GET, datos del usuario para POST y PUT, ID de usuario para DELETE
+   - Respuestas esperadas: Datos de usuario para GET, mensaje de confirmación para POST y PUT, mensaje de éxito para DELETE
+
+2. **API de Productos:**
+   - Endpoint: `/api/products`
+   - Métodos admitidos: GET, POST, PUT, DELETE
+   - Parámetros requeridos: Ninguno para GET, datos del producto para POST y PUT, ID de producto para DELETE
+   - Respuestas esperadas: Datos del producto para GET, mensaje de confirmación para POST y PUT, mensaje de éxito para DELETE
+
+3. **API de Pedidos:**
+   - Endpoint: `/api/orders`
+   - Métodos admitidos: GET, POST
+   - Parámetros requeridos: Ninguno para GET, datos del pedido para POST
+   - Respuestas esperadas: Datos del pedido para GET, mensaje de confirmación para POST
+
 - 5.2.1.7. Software Deployment Evidence for Sprint Review.
+  Durante este sprint, se desplegó la versión actualizada del software en el entorno de producción. El proceso de implementación incluyó las siguientes etapas:
+  
+  1. **Pruebas de Integración:**
+   - Se realizaron pruebas exhaustivas en el entorno de desarrollo para garantizar que todas las funcionalidades estén correctamente integradas.
+
+2. **Pruebas de Usuario Final:**
+   - Se llevó a cabo una fase de pruebas beta con usuarios finales para recopilar comentarios y detectar posibles problemas de usabilidad.
+
+3. **Despliegue en Producción:**
+   - Se desplegó la versión final en el entorno de producción después de que se completaran con éxito las pruebas de integración y usuario final.
+
+4. **Monitorización Post-Despliegue:**
+   - Se estableció un sistema de monitorización continua para supervisar el rendimiento y la estabilidad del sistema después del despliegue en producción.
+
 - 5.2.1.8. Team Collaboration Insights during Sprint.    
-    
+    Durante este sprint, se observaron varios aspectos destacados en cuanto a la colaboración del equipo:
+1. **Reuniones Diarias Efectivas:**
+   - Se llevaron a cabo reuniones diarias donde todos los miembros del equipo compartieron actualizaciones sobre el progreso de las tareas asignadas y discutieron posibles obstáculos.
+
+2. **Comunicación Transparente:**
+   - Se fomentó una comunicación abierta y transparente entre los miembros del equipo, lo que permitió resolver rápidamente cualquier problema que surgiera durante el sprint.
+
+3. **Colaboración en la Resolución de Problemas:**
+   - Los miembros del equipo colaboraron estrechamente para resolver problemas técnicos y tomar decisiones importantes relacionadas con el desarrollo del proyecto.
+
+4. **Apoyo Mutuo:**
+   - Se brindó apoyo mutuo entre los miembros del equipo, lo que ayudó a mantener un ambiente de trabajo positivo y productivo durante todo el sprint.
+
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
 - 5.3.2. Registro de Entrevistas.
@@ -594,6 +703,24 @@
 ## Conclusiones
 
 - Conclusiones y recomendaciones.
+  ### Conclusiones:
+
+- Durante el sprint, se lograron avances significativos en el desarrollo del proyecto, cumpliendo con la mayoría de los objetivos establecidos.
+  
+- La colaboración efectiva entre los miembros del equipo fue un factor clave para el éxito del sprint, permitiendo resolver desafíos de manera oportuna y eficiente.
+  
+- La implementación de prácticas ágiles demostró ser beneficiosa para la gestión del proyecto, facilitando la adaptación a cambios y mejorando la productividad del equipo.
+
+### Recomendaciones:
+
+- Continuar fomentando la comunicación abierta y transparente entre los miembros del equipo, así como la colaboración activa en la resolución de problemas.
+  
+- Realizar una revisión retrospectiva al finalizar cada sprint para identificar áreas de mejora y ajustar las estrategias de trabajo según sea necesario.
+  
+- Explorar herramientas y técnicas adicionales para mejorar la eficiencia y la calidad del desarrollo, como la automatización de pruebas y la implementación continua.
+
+---
+
 - Video About-the-Team.
 
 ## Bibliografía 
