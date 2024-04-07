@@ -398,6 +398,17 @@
   - 4.3.2. Landing Page Mock-up.
 - 4.4. Web Applications UX/UI Design.
   - 4.4.1. Web Applications Wireframes.
+    Wireframe principal, donde se decidirá si se creará una sesión o se unirá a una ya existente.
+    <p align="center"><img src="images/wireframeMain.jpg" alt="Wireframe Principal" width="80%"></p>
+    
+    Wireframe de unión, donde se introduce el pin de la sesión y el nombre del participante.
+    <p align="center"><img src="images/wireframeJoin.jpg" alt="Wireframe de Unión" width="80%"></p>
+    
+    Wireframe de creación, donde se presenta el pin de la sesión, se ve la cantidad de participantes, sus nombre y se sube el doumento a visualizar.
+    <p align="center"><img src="images/wireframeCreate.jpg" alt="Wireframe de Creación" width="80%"></p>
+    
+    Wireframe de uso, donde se vizualizará el documento subido, se podrá realizar preguntas y hacer comentarios en tiempo real.
+    <p align="center"><img src="images/wireframeUse.jpg" alt="Wireframe de Uso" width="80%"></p>
   - 4.4.2. Web Applications Wireflow Diagrams.
   - 4.4.3. Web Applications Mock-ups.
   - 4.4.4. Web Applications User Flow Diagrams.
