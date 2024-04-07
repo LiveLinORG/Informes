@@ -414,10 +414,10 @@
   - 4.4.2. Web Applications Wireflow Diagrams.
     
     El usuario busca crear una sesión, por lo que presiona el botón de creación de sesión. Luego de compartir el pin de la sesión con sus alumnos y subir la presentación de la clase, presionará el botón de inicio. Luego podrá hacer uso de la herramienta.
-    <p align="center"><img src="images/wireflowCrear.jpg" alt="Wireframe de Creación" width="80%"></p>
+    <p align="center"><img src="images/wireflowCrear.png" alt="Wireframe de Creación" width="80%"></p>
     
     El usuario busca unirse a una sesión existente, por lo que presiona el botón de unirse. Luego de ingresar el pin que le fue compartido e ingresar un nombre, podrá presionar le botón de ingresar. Luego podrá hacer uso de la herramienta.
-    <p align="center"><img src="images/wireflowUnirse.jpg" alt="Wireframe de Unión" width="80%"></p>
+    <p align="center"><img src="images/wireflowUnirse.png" alt="Wireframe de Unión" width="80%"></p>
     
   - 4.4.3. Web Applications Mock-ups.
     
