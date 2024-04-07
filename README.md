@@ -398,6 +398,7 @@
   - 4.3.2. Landing Page Mock-up.
 - 4.4. Web Applications UX/UI Design.
   - 4.4.1. Web Applications Wireframes.
+    
     Wireframe principal, donde se decidirá si se creará una sesión o se unirá a una ya existente.
     <p align="center"><img src="images/wireframeMain.jpg" alt="Wireframe Principal" width="80%"></p>
     
@@ -409,8 +410,49 @@
     
     Wireframe de uso, donde se vizualizará el documento subido, se podrá realizar preguntas y hacer comentarios en tiempo real.
     <p align="center"><img src="images/wireframeUse.jpg" alt="Wireframe de Uso" width="80%"></p>
+    
   - 4.4.2. Web Applications Wireflow Diagrams.
+    
+    El usuario busca crear una sesión, por lo que presiona el botón de creación de sesión. Luego de compartir el pin de la sesión con sus alumnos y subir la presentación de la clase, presionará el botón de inicio. Luego podrá hacer uso de la herramienta.
+    <p align="center"><img src="images/wireflowCrear.jpg" alt="Wireframe de Creación" width="80%"></p>
+    
+    El usuario busca unirse a una sesión existente, por lo que presiona el botón de unirse. Luego de ingresar el pin que le fue compartido e ingresar un nombre, podrá presionar le botón de ingresar. Luego podrá hacer uso de la herramienta.
+    <p align="center"><img src="images/wireflowUnirse.jpg" alt="Wireframe de Unión" width="80%"></p>
+    
   - 4.4.3. Web Applications Mock-ups.
+    
+    Mock-Up De la página principal
+    <p align="center"><img src="images/mock-upMain.jpg" alt="Mock-Up Principal" width="80%"></p>
+    
+    Mock-Up de la página de unión
+    <p align="center"><img src="images/mock-upJoin.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin1.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin2.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin3.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin4.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin5.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin6.jpg" alt="Mock-Up Unión" width="80%"></p>
+    
+    Mock-Up de la página de creación
+    <p align="center"><img src="images/mock-upCreate.jpg" alt="Mock-Up Creación" width="80%"></p>
+    <p align="center"><img src="images/mock-upCreate1.jpg" alt="Mock-Up Creación" width="80%"></p>
+    <p align="center"><img src="images/mock-upCreate2.jpg" alt="Mock-Up Creación" width="80%"></p>
+    <p align="center"><img src="images/mock-upCreate3.jpg" alt="Mock-Up Creación" width="80%"></p>
+    
+    Mock-Up de la página de uso
+    <p align="center"><img src="images/mock-upUse.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse1.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse2.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.1.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.2.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.3.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.1.2.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.2.3.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.1.3.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.4.jpg" alt="Mock-Up Uso" width="80%"></p>
+
+    
   - 4.4.4. Web Applications User Flow Diagrams.
   - 4.4.5. Web Applications Prototyping.
 - 4.5. Domain-Driven Software Architecture.
