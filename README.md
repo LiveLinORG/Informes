@@ -454,6 +454,22 @@
 
     
   - 4.4.4. Web Applications User Flow Diagrams.
+ 
+    User Flow de la creación de una sesión. Cuando el usuario haya apretado el botón de creación, y luego de subir el archivo a compartir. Este podrá iniciar la sesión cuando todos los participantes se hayan unido. 
+    <p align="center"><img src="images/webappUserflowCreate.png" alt="Mock-Up UserFlow Creación" width="80%"></p>
+    
+    User Flow de unión a una sesión existente. Cuando el usuario haya apretado el botón de unirse, luego de haber ingresado un pin válido y un nombre. Este podrá unirse a la sesión tras presionar el botón de entrar.
+    <p align="center"><img src="images/webappUserflowJoin.png" alt="Mock-Up UserFlow Unión" width="80%"></p>
+    
+    User Flow de comentar. Cuando un usuario ingrese un texto en la sección de comentarios, éste podra enviar un comentario en la caja del chat despúes de presionar el botón de envío.
+    <p align="center"><img src="images/webappUserflowComment.png" alt="Mock-Up UserFlow Comentario" width="80%"></p>
+    
+    User Flow de preguntar. Cuando un usuario ingrese una pregunta en la sección de preguntas, éste podrá enviar su duda después de presionar el botón de envío.
+    <p align="center"><img src="images/webappUserflowAsk.png" alt="Mock-Up UserFlow Pregunta" width="80%"></p>
+    
+    User Flow de me gusta. Cuando un usuario quiera ponerle "Me gusta" a una pregunta existente, este deberá apretar el pulgar arriba que se encuentra en las esquinas de todos los comentarios.
+    <p align="center"><img src="images/webappUserflowLike.png" alt="Mock-Up UserFlow Me Gusta" width="80%"></p>
+    
   - 4.4.5. Web Applications Prototyping.
 - 4.5. Domain-Driven Software Architecture.
   - 4.5.1. Software Architecture Context Diagram.
