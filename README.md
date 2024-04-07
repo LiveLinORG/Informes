@@ -252,6 +252,22 @@
   ![Imagen](https://github.com/LiveLinORG/Informes/assets/48342953/5ce0cbdb-a647-4e53-a2af-8f44ac0764db)
 
 - 2.7. User Task Matrix.
+	### Segmento Usuario
+
+	| Actividades                                                 | Frecuencia    | Importancia |
+	|-------------------------------------------------------------|---------------|-------------|
+	| Participar en sesiones de consulta y capacitación           | A veces       | Media       |
+	| Compartir experiencias y consejos en la comunidad en línea  | A veces       | Baja        |
+
+	### Segmento Profesores
+
+	| Actividades                                                 | Frecuencia    | Importancia |
+	|-------------------------------------------------------------|---------------|-------------|
+	| Integrar dispositivos ergonómicos en la rutina de trabajo  | A veces       | Alta        |
+	| Seguir programas de ejercicios personalizados              | Regularmente | Alta        |
+	| Utilizar herramientas de seguimiento y análisis del progreso | Regularmente | Media       |
+
+
 - 2.8. User Journey Mapping.
 - 2.9. Empathy Mapping.
 - 2.10. As-is Scenario Mapping.
