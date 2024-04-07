@@ -269,7 +269,22 @@
 
 
 - 2.8. User Journey Mapping.
+  	### Segmento Usuario
+  	![Imagen de WhatsApp 2024-04-07 a las 11 57 14_a45ffd10](https://github.com/LiveLinORG/Informes/assets/127764958/182e700e-f8d6-4815-8666-9334c00311df)
+
+   	### Segmento Profesores
+  	![Imagen de WhatsApp 2024-04-07 a las 12 03 35_b2fe94d1](https://github.com/LiveLinORG/Informes/assets/127764958/dca32f7c-d024-458e-bc06-1bd41ad27856)
+
+
 - 2.9. Empathy Mapping.
+  	### Segmento Usuario
+  	![Imagen de WhatsApp 2024-04-07 a las 12 38 55_be20d5df](https://github.com/LiveLinORG/Informes/assets/127764958/38614ef5-91fe-460e-a522-829c97ad40f0)
+
+ 	### Segmento Profesores
+ 	![Imagen de WhatsApp 2024-04-07 a las 12 39 00_21f743ad](https://github.com/LiveLinORG/Informes/assets/127764958/de44a14d-5c4b-48d7-8411-006509a3731a)
+ 
+  	
+  
 - 2.10. As-is Scenario Mapping.
 - 2.11. Ubiquitous Language.
   ## Términos y Conceptos
