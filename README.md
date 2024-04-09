@@ -312,73 +312,107 @@
 
 - 3.1. To-Be Scenario Mapping.
 - 3.2. User Stories.
+  
+  	| ID   | Título                                 | Descripción                                                                                                                                                       | Estado     | Relacionado con la Epic #Número |
+	|------|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------------------------------|
+	| US001| Diseño de Interfaz y Navegación       | Crear una interfaz de usuario intuitiva y fácil de navegar, que incluya un menú de navegación con enlaces a las diferentes secciones del sitio web.                 | Completado | Epic #1 - Diseño y Usabilidad   |
+	| US002| Sección de Descripción de NoteLive     | Incluir una descripción detallada de las características y beneficios clave de la aplicación NoteLive.                                                           | Completado | Epic #2 - Funcionalidades Clave |
+	| US003| Planes y Precios                       | Detallar los planes de suscripción disponibles, incluyendo sus características y limitaciones.                                                                   | Completado | Epic #3 - Modelo de Negocio     |
+	| US004| Testimonios de Usuarios                | Agregar una sección con testimonios de usuarios que destaquen la utilidad y el impacto positivo de NoteLive.                                                     | Completado | Epic #2 - Funcionalidades Clave |
+	| US005| Recursos Educativos                    | Incluir una sección con artículos y guías sobre cómo sacar el máximo provecho a las funcionalidades de NoteLive.                                                 | Completado | Epic #4 - Recursos de Soporte   |
+	| US006| Soporte y Contacto                     | Proporcionar información de contacto para soporte técnico y atención al cliente, incluyendo un correo electrónico y un formulario de contacto.                    | Completado | Epic #4 - Recursos de Soporte   |
+	| US007| Integraciones y Compatibilidad         | Mencionar las principales plataformas de presentación y sistemas de gestión del aprendizaje (LMS) con los que NoteLive es compatible.                           | Completado | Epic #2 - Funcionalidades Clave |
+	| US008| Actualizaciones y Novedades            | Agregar una sección para mantener a los usuarios informados sobre las últimas actualizaciones y próximos desarrollos de NoteLive.                                | Completado | Epic #5 - Comunicación y Transparencia |
+	| US009| Sección de Inicio (Landing)           | Crear una sección de inicio atractiva, que incluya un título, subtítulo y algunas imágenes representativas de NoteLive.                                          | Completado | Epic #1 - Diseño y Usabilidad   |
+	| US010| Exportación de Registro de Preguntas   | Agregar la funcionalidad de exportar un archivo con el registro de preguntas formuladas durante una sesión.                                                       | Completado | Epic #2 - Funcionalidades Clave |
+	| US011| Notificaciones en Tiempo Real         | Implementar un sistema de notificaciones en tiempo real para alertar a los usuarios sobre nuevas preguntas, respuestas o interacciones relevantes.               | En Progreso| Epic #2 - Funcionalidades Clave |
+	| US012| Modo de Presentación para Profesores  | Desarrollar una vista específica para profesores que les permita controlar y hacer énfasis en las diferentes secciones de la presentación.                       | Por Hacer  | Epic #2 - Funcionalidades Clave |
+	| US013| Herramientas de Anotación              | Integrar herramientas de anotación y marcado durante la presentación que puedan ser visibles para todos los participantes.                                       | Por Hacer  | Epic #2 - Funcionalidades Clave |
+	| US014| Encuestas y Evaluaciones               | Habilitar la creación de encuestas y evaluaciones en tiempo real durante las sesiones.                                                                             | Por Hacer  | Epic #2 - Funcionalidades Clave |
+	| US015| Estadísticas de Participación         | Generar informes y métricas sobre la participación de los estudiantes durante las sesiones.                                                                       | Por Hacer  | Epic #2 - Funcionalidades Clave |
+	| US016| Reconocimiento de Patrones             | Implementar un sistema de reconocimiento de patrones en las preguntas de los estudiantes para identificar áreas de dificultad.                                    | Por Hacer  | Epic #2 - Funcionalidades Clave |
+	| US017| Modo de Vista Móvil                   | Optimizar la experiencia de usuario para dispositivos móviles, facilitando la interacción y visualización en pantallas pequeñas.                                | En Progreso| Epic #1 - Diseño y Usabilidad   |
+	| US018| Autenticación con Redes Sociales      | Permitir a los usuarios iniciar sesión en NoteLive a través de sus cuentas de redes sociales.                                                                     | Por Hacer  | Epic #1 - Diseño y Usabilidad   |
+	| US019| Personalización de Temas               | Ofrecer a los usuarios la posibilidad de personalizar la apariencia visual de la aplicación mediante temas y estilos personalizados.                             | Por Hacer  | Epic #1 - Diseño y Usabilidad   |
+	| US020| Modo de Presentación Privado          | Habilitar un modo de presentación privado que permita a los profesores compartir contenido confidencial con un grupo seleccionado de estudiantes.                  | Por Hacer  | Epic #2 - Funcionalidades Clave |
+	| US021| Historial de Sesiones                 | Implementar un historial de sesiones que permita a los usuarios volver a acceder a presentaciones y preguntas anteriores.                                         | En Progreso| Epic #2 - Funcionalidades Clave |
+	| US022| Suscripción Automática a Sesiones     | Permitir que los estudiantes se suscriban automáticamente a las sesiones de sus profesores mediante un código único.                                             | Por Hacer  | Epic #1 - Diseño y Usabilidad   |
+	| US023| Horario de Sesiones                   | Integrar un calendario y horario de sesiones que facilite la planificación y organización de las clases.                                                          | Por Hacer  | Epic #2 - Funcionalidades Clave |
+	| US024| Emojis y Reacciones                   | Implementar la posibilidad de que los estudiantes puedan reaccionar a las preguntas y contenido con emojis.                                                       | En Progreso| Epic #2 - Funcionalidades Clave |
+	| US025| Asistencia Virtual                    | Desarrollar una asistente virtual que pueda responder a preguntas comunes de los usuarios y guiarlos en el uso de la plataforma.                                  | Por Hacer  | Epic #4 - Recursos de Soporte   |
+	| US026| Traducción Multilingüe                | Permitir la traducción automática de contenido y comunicación entre participantes de diferentes idiomas.                                                           | Por Hacer  | Epic #1 - Diseño y Usabilidad   |
+	| US027| Registro de Actividad                 | Crear un registro detallado de la actividad de cada usuario durante las sesiones, incluyendo preguntas, respuestas y participación.                               | En Progreso| Epic #2 - Funcionalidades Clave |
+	| US028| Notificaciones Push                   | Implementar notificaciones push en dispositivos móviles para mantener a los usuarios informados sobre nuevas sesiones, preguntas y actualizaciones.                | Por Hacer  | Epic #2 - Funcionalidades Clave |
+	| US029| Integración con LMS                   | Desarrollar integraciones fluidas con los principales sistemas de gestión del aprendizaje (LMS) utilizados en el ámbito educativo.                                | Por Hacer  | Epic #2 - Funcionalidades Clave |
+	| US030| Análisis de Sesiones                  | Proporcionar informes y análisis avanzados sobre el desempeño y la participación en las sesiones, con gráficos y métricas detalladas.                             | Por Hacer  | Epic #2 - Funcionalidades Clave |
+
 - 3.3. Impact Mapping.
 - 3.4. Product Backlog.
-
-|Historia De Usuario|Descripción|
-|:----|:----|
-|Inicio de Sesión Simple|Como usuario, quiero poder iniciar sesión de manera sencilla en NoteLive a través de un código único proporcionado por el profesor para acceder a la sesión.|
-|Interacción en Tiempo Real|Como alumno, deseo ver la presentación del profesor en tiempo real en mi dispositivo móvil mientras estoy en clase para poder seguir el ritmo de la lección desde cualquier lugar en el aula.|
-|Envío de Preguntas Anónimas|Como alumno, quiero tener la capacidad de enviar preguntas de forma anónima a través de la aplicación para poder participar en la discusión sin revelar mi identidad.|
-|Destaque de Preguntas Relevantes|Como alumno, me gustaría poder destacar las preguntas que considere más relevantes utilizando la función de "me gusta" para que el profesor pueda identificarlas fácilmente y abordarlas durante la clase.|
-|Integración con Presentaciones|Como profesor, quiero poder vincular mis presentaciones de diapositivas a NoteLive para que todos los alumnos puedan verlas sincronizadamente y facilitar la discusión en tiempo real durante la clase.|
-|Exportación de Registro de Preguntas|Como alumno, quiero tener la opción de exportar un archivo detallado que contenga un registro de todas las preguntas formuladas durante la clase para poder revisarlas posteriormente y repasar el material discutido.|
-|Navegación a la Página de Inicio|Como usuario, deseo poder navegar fácilmente a la página de inicio de NoteLive haciendo clic en el enlace correspondiente en la barra de navegación para acceder a información general sobre la aplicación.|
-|Navegación a la Sección de Información|Como usuario, quiero poder acceder a la sección que explica qué es NoteLive haciendo clic en el enlace respectivo en la barra de navegación para obtener más detalles sobre su funcionamiento.|
-|Navegación a la Sección de Usos|Como usuario, deseo poder explorar los diferentes usos de NoteLive haciendo clic en el enlace correspondiente en la barra de navegación para comprender cómo puede beneficiarme en mi contexto educativo.|
-|Navegación a la Galería|Como usuario, me gustaría poder ver una galería de imágenes relacionadas con NoteLive haciendo clic en el enlace correspondiente en la barra de navegación para visualizar ejemplos de su aplicación en situaciones reales.|
-|Navegación al Registro|Como usuario, quiero poder acceder a la página de registro de NoteLive haciendo clic en el enlace respectivo en la barra de navegación para crear una cuenta y comenzar a utilizar la plataforma.|
-|Participación en Sesión Anónima|Como alumno, deseo poder participar en una sesión de NoteLive de manera anónima ingresando un código único proporcionado por el profesor para mantener mi privacidad durante la interacción en clase.|
-|Acceso a Presentaciones Sincronizadas|Como alumno, quiero poder acceder a las presentaciones de diapositivas sincronizadas con la clase a través de NoteLive para asegurarme de que todos los participantes estén en la misma página y no perderme ningún contenido importante.|
-|Recepción de Notificaciones|Como usuario, me gustaría recibir notificaciones de nuevas actualizaciones o anuncios importantes relacionados con NoteLive para mantenerme informado sobre cualquier cambio en la plataforma.|
-|Personalización de Perfil|Como usuario, quiero poder personalizar mi perfil en NoteLive agregando una foto y ajustando mi configuración para adaptar la experiencia de uso a mis preferencias individuales.|
-|Acceso a la Galería de Recursos|Como usuario, deseo poder acceder a una galería de recursos educativos dentro de NoteLive para encontrar material adicional que complemente mi aprendizaje durante la clase.|
-|Función de Traducción Integrada|Como usuario, me gustaría tener la opción de utilizar una función de traducción integrada en NoteLive para traducir contenido en tiempo real a mi idioma preferido y facilitar la comprensión de la lección.|
-|Compartir Enlaces de Sesión|Como profesor, quiero poder compartir enlaces de sesión personalizados con mis alumnos a través de NoteLive para facilitar su acceso a la plataforma y comenzar la clase sin problemas.|
-|Control de Acceso a la Sesión|Como profesor, deseo tener la capacidad de controlar el acceso a la sesión de NoteLive mediante la generación y asignación de códigos únicos para garantizar la seguridad y la integridad de la clase.|
-|Marcar Diapositivas Importantes|Como profesor, me gustaría poder marcar diapositivas importantes durante la presentación en NoteLive para resaltarlas y asegurarme de que los alumnos presten atención a los conceptos clave.|
-|Evaluación de Participación|Como profesor, deseo tener la capacidad de evaluar la participación de los alumnos durante la clase en NoteLive mediante la revisión de las preguntas enviadas y los comentarios realizados para medir su compromiso con el material.|
-|Asistencia Automatizada|Como profesor, quiero que NoteLive registre automáticamente la asistencia de los alumnos cuando accedan a la sesión para facilitar el seguimiento de su participación y puntualidad.|
-|Acceso a Recursos Compartidos|Como alumno, me gustaría poder acceder a recursos compartidos por el profesor durante la clase a través de NoteLive para revisar el material posteriormente y reforzar mi aprendizaje.|
-|Soporte para Diferentes Dispositivos|Como usuario, deseo que NoteLive sea compatible con una variedad de dispositivos y sistemas operativos para poder acceder a la plataforma desde cualquier dispositivo que tenga disponible.|
-|Personalización de Temas|Como usuario, me gustaría poder personalizar el tema visual de NoteLive eligiendo entre diferentes opciones de color y diseño para adaptarlo a mis preferencias estéticas y mejorar la experiencia de uso.|
-|Compartir Recursos con Otros Usuarios|Como profesor, quiero poder compartir recursos educativos con otros usuarios de NoteLive para promover la colaboración y el intercambio de conocimientos entre la comunidad de usuarios.|
-|Informes de Desempeño del Alumno|Como profesor, deseo tener acceso a informes de desempeño individual de los alumnos en NoteLive para evaluar su progreso y ofrecer retroalimentación personalizada sobre su rendimiento académico.|
-|Integración con Plataformas de Aprendizaje|Como usuario, me gustaría que NoteLive se integre con otras plataformas de aprendizaje en línea para facilitar la gestión de contenido y la comunicación con mis profesores y compañeros de clase.|
-|Sincronización de Notas y Comentarios|Como usuario, quiero que mis notas y comentarios realizados en NoteLive se sincronicen automáticamente en todos mis dispositivos para poder acceder a ellos desde cualquier lugar y en cualquier momento.|
-|Protección de Datos Personales|Como usuario, deseo que NoteLive garantice la protección de mis datos personales y la privacidad de mis interacciones en la plataforma mediante medidas de seguridad robustas y cumplimiento de regulaciones de privacidad.|
+  
+	|Historia De Usuario|Descripción|
+	|:----|:----|
+	|Inicio de Sesión Simple|Como usuario, quiero poder iniciar sesión de manera sencilla en NoteLive a través de un código único proporcionado por el profesor para acceder a la sesión.|
+	|Interacción en Tiempo Real|Como alumno, deseo ver la presentación del profesor en tiempo real en mi dispositivo móvil mientras estoy en clase para poder seguir el ritmo de la lección desde cualquier lugar en el aula.|
+	|Envío de Preguntas Anónimas|Como alumno, quiero tener la capacidad de enviar preguntas de forma anónima a través de la aplicación para poder participar en la discusión sin revelar mi identidad.|
+	|Destaque de Preguntas Relevantes|Como alumno, me gustaría poder destacar las preguntas que considere más relevantes utilizando la función de "me gusta" para que el profesor pueda identificarlas fácilmente y abordarlas durante la clase.|
+	|Integración con Presentaciones|Como profesor, quiero poder vincular mis presentaciones de diapositivas a NoteLive para que todos los alumnos puedan verlas sincronizadamente y facilitar la discusión en tiempo real durante la clase.|
+	|Exportación de Registro de Preguntas|Como alumno, quiero tener la opción de exportar un archivo detallado que contenga un registro de todas las preguntas formuladas durante la clase para poder revisarlas posteriormente y repasar el material discutido.|
+	|Navegación a la Página de Inicio|Como usuario, deseo poder navegar fácilmente a la página de inicio de NoteLive haciendo clic en el enlace correspondiente en la barra de navegación para acceder a información general sobre la aplicación.|
+	|Navegación a la Sección de Información|Como usuario, quiero poder acceder a la sección que explica qué es NoteLive haciendo clic en el enlace respectivo en la barra de navegación para obtener más detalles sobre su funcionamiento.|
+	|Navegación a la Sección de Usos|Como usuario, deseo poder explorar los diferentes usos de NoteLive haciendo clic en el enlace correspondiente en la barra de navegación para comprender cómo puede beneficiarme en mi contexto educativo.|
+	|Navegación a la Galería|Como usuario, me gustaría poder ver una galería de imágenes relacionadas con NoteLive haciendo clic en el enlace correspondiente en la barra de navegación para visualizar ejemplos de su aplicación en situaciones reales.|
+	|Navegación al Registro|Como usuario, quiero poder acceder a la página de registro de NoteLive haciendo clic en el enlace respectivo en la barra de navegación para crear una cuenta y comenzar a utilizar la plataforma.|
+	|Participación en Sesión Anónima|Como alumno, deseo poder participar en una sesión de NoteLive de manera anónima ingresando un código único proporcionado por el profesor para mantener mi privacidad durante la interacción en clase.|
+	|Acceso a Presentaciones Sincronizadas|Como alumno, quiero poder acceder a las presentaciones de diapositivas sincronizadas con la clase a través de NoteLive para asegurarme de que todos los participantes estén en la misma página y no perderme ningún contenido importante.|
+	|Recepción de Notificaciones|Como usuario, me gustaría recibir notificaciones de nuevas actualizaciones o anuncios importantes relacionados con NoteLive para mantenerme informado sobre cualquier cambio en la plataforma.|
+	|Personalización de Perfil|Como usuario, quiero poder personalizar mi perfil en NoteLive agregando una foto y ajustando mi configuración para adaptar la experiencia de uso a mis preferencias individuales.|
+	|Acceso a la Galería de Recursos|Como usuario, deseo poder acceder a una galería de recursos educativos dentro de NoteLive para encontrar material adicional que complemente mi aprendizaje durante la clase.|
+	|Función de Traducción Integrada|Como usuario, me gustaría tener la opción de utilizar una función de traducción integrada en NoteLive para traducir contenido en tiempo real a mi idioma preferido y facilitar la comprensión de la lección.|
+	|Compartir Enlaces de Sesión|Como profesor, quiero poder compartir enlaces de sesión personalizados con mis alumnos a través de NoteLive para facilitar su acceso a la plataforma y comenzar la clase sin problemas.|
+	|Control de Acceso a la Sesión|Como profesor, deseo tener la capacidad de controlar el acceso a la sesión de NoteLive mediante la generación y asignación de códigos únicos para garantizar la seguridad y la integridad de la clase.|
+	|Marcar Diapositivas Importantes|Como profesor, me gustaría poder marcar diapositivas importantes durante la presentación en NoteLive para resaltarlas y asegurarme de que los alumnos presten atención a los conceptos clave.|
+	|Evaluación de Participación|Como profesor, deseo tener la capacidad de evaluar la participación de los alumnos durante la clase en NoteLive mediante la revisión de las preguntas enviadas y los comentarios realizados para medir su compromiso con el material.|
+	|Asistencia Automatizada|Como profesor, quiero que NoteLive registre automáticamente la asistencia de los alumnos cuando accedan a la sesión para facilitar el seguimiento de su participación y puntualidad.|
+	|Acceso a Recursos Compartidos|Como alumno, me gustaría poder acceder a recursos compartidos por el profesor durante la clase a través de NoteLive para revisar el material posteriormente y reforzar mi aprendizaje.|
+	|Soporte para Diferentes Dispositivos|Como usuario, deseo que NoteLive sea compatible con una variedad de dispositivos y sistemas operativos para poder acceder a la plataforma desde cualquier dispositivo que tenga disponible.|
+	|Personalización de Temas|Como usuario, me gustaría poder personalizar el tema visual de NoteLive eligiendo entre diferentes opciones de color y diseño para adaptarlo a mis preferencias estéticas y mejorar la experiencia de uso.|
+	|Compartir Recursos con Otros Usuarios|Como profesor, quiero poder compartir recursos educativos con otros usuarios de NoteLive para promover la colaboración y el intercambio de conocimientos entre la comunidad de usuarios.|
+	|Informes de Desempeño del Alumno|Como profesor, deseo tener acceso a informes de desempeño individual de los alumnos en NoteLive para evaluar su progreso y ofrecer retroalimentación personalizada sobre su rendimiento académico.|
+	|Integración con Plataformas de Aprendizaje|Como usuario, me gustaría que NoteLive se integre con otras plataformas de aprendizaje en línea para facilitar la gestión de contenido y la comunicación con mis profesores y compañeros de clase.|
+	|Sincronización de Notas y Comentarios|Como usuario, quiero que mis notas y comentarios realizados en NoteLive se sincronicen automáticamente en todos mis dispositivos para poder acceder a ellos desde cualquier lugar y en cualquier momento.|
+	|Protección de Datos Personales|Como usuario, deseo que NoteLive garantice la protección de mis datos personales y la privacidad de mis interacciones en la plataforma mediante medidas de seguridad robustas y cumplimiento de regulaciones de privacidad.|
 - Product Backlog de Landing Page:
-| User Story                           | Descripción                                                                                                          |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Optimización de Responsividad        | Asegurarse de que el sitio web sea completamente responsive en diferentes dispositivos y tamaños de pantalla.      |
-| Mejoras de Accesibilidad             | Garantizar que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla. |
-| Validación de HTML y CSS             | Validar el código HTML y CSS para asegurar que cumple con los estándares y no contiene errores.                     |
-| Optimización de Carga                | Optimizar el tiempo de carga del sitio web para mejorar la experiencia del usuario.                                |
-| Añadir Interactividad                | Implementar interactividad en elementos como botones y enlaces para mejorar la usabilidad.                          |
-| Mejoras de SEO                       | Optimizar el sitio web para mejorar su visibilidad en los motores de búsqueda.                                        |
-| Refactorización de Clases y Selectores | Revisar y refactorizar las clases y selectores en el CSS para mejorar la legibilidad y mantenibilidad del código.  |
-| Pruebas de Cross-Browser             | Realizar pruebas exhaustivas en diferentes navegadores para asegurar la compatibilidad y el rendimiento del sitio web.|
-| Documentación                        | Documentar el código HTML y CSS para facilitar el mantenimiento futuro y la colaboración entre desarrolladores.     |
-| Implementación de Funcionalidades Faltantes | Completar la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web. |
-| Seguridad                            | Implementar medidas de seguridad apropiadas para proteger el sitio web contra vulnerabilidades y ataques maliciosos.|
-| Actualización de Contenido           | Actualizar el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.                       |
-| Gestión de Errores y Excepciones     | Implementar manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.     |
-| Integración de Diseño de Interfaces | Integrar el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web. |
-| Cabecera (Header)                    | La estructura de la cabecera está definida con secciones como el logo y los elementos de navegación.                  |
-| Diseño Responsivo                    | El diseño del sitio web utiliza técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla. |
-| Estilos de Navegación                | Se han aplicado estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.                 |
-| Contenedor Principal                 | El contenedor principal del sitio web se ha definido con una estructura de grid y secciones para organizar el contenido. |
-| Sección de Aterrizaje (Landing)      | Se ha creado una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.                     |
-| Estilos de Botón                     | Los botones tienen estilos CSS aplicados, incluyendo colores, sombras y efectos de hover.                           |
-| Tarjetas de Notas (Note Live Cards)  | Se han definido tarjetas para mostrar información sobre las características de NoteLive, con diferentes estilos según el tamaño de la tarjeta. |
-| Sección de Características Adicionales | Se ha creado una sección para mostrar las características de los diferentes planes de NoteLive, con estilos y colores específicos para cada plan. |
-| Estilos de Testimonios de Usuarios   | Los testimonios de usuarios tienen estilos aplicados, incluyendo colores de fondo, tipografía y efectos de hover. |
-| Sección de Recursos Educativos       | Se ha añadido una sección para mostrar recursos educativos relacionados con NoteLive.                                |
-| Sección de Soporte y Contacto        | Se ha creado una sección para proporcionar información de contacto y soporte, con estilos aplicados para resaltar la información. |
-| Sección de Integraciones y Compatibilidad | Se ha añadido una sección para destacar las integraciones y compatibilidad de NoteLive con otras plataformas.        |
-| Sección de Actualizaciones y Novedades | Se ha incluido una sección para informar a los usuarios sobre las últimas actualizaciones y noticias relacionadas con NoteLive. |
-| Estilos del Footer                   | El footer tiene estilos aplicados para el color de fondo, el color del texto y el espaciado interno.                |
-| Consulta de Medios (Media Queries)   | Se han implementado consultas de medios para ajustar el diseño y los estilos en diferentes tamaños de pantalla.     |
+	| User Story                           | Descripción                                                                                                          |
+	|--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+	| Optimización de Responsividad        | Asegurarse de que el sitio web sea completamente responsive en diferentes dispositivos y tamaños de pantalla.      |
+	| Mejoras de Accesibilidad             | Garantizar que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla. |
+	| Validación de HTML y CSS             | Validar el código HTML y CSS para asegurar que cumple con los estándares y no contiene errores.                     |
+	| Optimización de Carga                | Optimizar el tiempo de carga del sitio web para mejorar la experiencia del usuario.                                |
+	| Añadir Interactividad                | Implementar interactividad en elementos como botones y enlaces para mejorar la usabilidad.                          |
+	| Mejoras de SEO                       | Optimizar el sitio web para mejorar su visibilidad en los motores de búsqueda.                                        |
+	| Refactorización de Clases y Selectores | Revisar y refactorizar las clases y selectores en el CSS para mejorar la legibilidad y mantenibilidad del código.  |
+	| Pruebas de Cross-Browser             | Realizar pruebas exhaustivas en diferentes navegadores para asegurar la compatibilidad y el rendimiento del sitio web.|
+	| Documentación                        | Documentar el código HTML y CSS para facilitar el mantenimiento futuro y la colaboración entre desarrolladores.     |
+	| Implementación de Funcionalidades Faltantes | Completar la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web. |
+	| Seguridad                            | Implementar medidas de seguridad apropiadas para proteger el sitio web contra vulnerabilidades y ataques maliciosos.|
+	| Actualización de Contenido           | Actualizar el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.                       |
+	| Gestión de Errores y Excepciones     | Implementar manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.     |
+	| Integración de Diseño de Interfaces | Integrar el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web. |
+	| Cabecera (Header)                    | La estructura de la cabecera está definida con secciones como el logo y los elementos de navegación.                  |
+	| Diseño Responsivo                    | El diseño del sitio web utiliza técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla. |
+	| Estilos de Navegación                | Se han aplicado estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.                 |
+	| Contenedor Principal                 | El contenedor principal del sitio web se ha definido con una estructura de grid y secciones para organizar el contenido. |
+	| Sección de Aterrizaje (Landing)      | Se ha creado una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.                     |
+	| Estilos de Botón                     | Los botones tienen estilos CSS aplicados, incluyendo colores, sombras y efectos de hover.                           |
+	| Tarjetas de Notas (Note Live Cards)  | Se han definido tarjetas para mostrar información sobre las características de NoteLive, con diferentes estilos según el tamaño de la tarjeta. |
+	| Sección de Características Adicionales | Se ha creado una sección para mostrar las características de los diferentes planes de NoteLive, con estilos y colores específicos para cada plan. |
+	| Estilos de Testimonios de Usuarios   | Los testimonios de usuarios tienen estilos aplicados, incluyendo colores de fondo, tipografía y efectos de hover. |
+	| Sección de Recursos Educativos       | Se ha añadido una sección para mostrar recursos educativos relacionados con NoteLive.                                |
+	| Sección de Soporte y Contacto        | Se ha creado una sección para proporcionar información de contacto y soporte, con estilos aplicados para resaltar la información. |
+	| Sección de Integraciones y Compatibilidad | Se ha añadido una sección para destacar las integraciones y compatibilidad de NoteLive con otras plataformas.        |
+	| Sección de Actualizaciones y Novedades | Se ha incluido una sección para informar a los usuarios sobre las últimas actualizaciones y noticias relacionadas con NoteLive. |
+	| Estilos del Footer                   | El footer tiene estilos aplicados para el color de fondo, el color del texto y el espaciado interno.                |
+	| Consulta de Medios (Media Queries)   | Se han implementado consultas de medios para ajustar el diseño y los estilos en diferentes tamaños de pantalla.     |
 
   
 
