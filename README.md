@@ -419,6 +419,7 @@
 ### 4. Capítulo IV: Product Design
 
 - 4.1. Style Guidelines.
+  
  Las Style Guidelines son útiles para garantizar que el contenido producido por diferentes personas dentro de una organización o proyecto tenga una apariencia y un estilo uniformes. Esto es especialmente importante en entornos donde se generan grandes volúmenes de contenido o donde múltiples colaboradores contribuyen con material.
   - 4.1.1. General Style Guidelines.
   - 4.1.2. Web Style Guidelines.
