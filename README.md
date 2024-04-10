@@ -24,7 +24,7 @@
 | Erick Joaquin Palomino Santa Cruz | Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta. |
 | Joaquín Alonso Carbajal Pozzo     | Actualmente curso la carrera de Ingeniería de Software. Me gusta aprender sobre nuevas tecnologías y ponerlas en práctica lo antes posible. |
 | Piero Alonso Martinez Villanueva  | Me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software. Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces. Me gusta aprender sobre nuevas tecnologías. Soy paciente y perseverante. |
-|                                   |                                                                                                                  |
+| Renzo Cesar Silva Morales         | En la actualidad me encuentro en el 5to Ciclo de la carrera de Ingeniería de Software. Me gusta mantenerme actualizado sobre el mundo de la tecnología. |
 
 
 
