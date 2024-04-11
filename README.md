@@ -528,7 +528,23 @@
 - 5.2. Landing Page, Services & Applications Implementation.
   - 5.2.1. Sprint n
     - 5.2.1.1. Sprint Planning.
-    - 5.2.1.2. Sprint Backlog.
+      
+| **Sprint #** | **Sprint 1** |
+| :- | :- |
+| **Sprint Planning Background** | |
+| Date | 25/03/2024 |
+| Time | 8:00 PM - 11:00 PM |
+| Location | Discord |
+| **Prepared By** | Adrián Enrique Jesús Palma Obispo  |
+| Attendees | - Adrián Enrique Jesús Palma Obispo<br>- Erick Joaquín Palomino Santa Cruz<br>- Joaquín Alonso Carbajal Pozzo<br>- Piero Alonso Martínez Villanueva<br>- Renzo César Silva Morales |
+| **Sprint 0 Review Summary** | Diseño y desarrollo del Landing Page |
+| **Sprint 0 Retrospective Summary** | Completar los diseños y estandarizar el lenguaje usado en el desarrollo y presentación del landing page |
+| **Sprint Goal & User Stories** | |
+| **Sprint 1 Goal** | Elaborar, diseñar y desplegar una Landing Page atractiva e informativa para la aplicación TripMate |
+| **Sprint 1 Velocity** | 15 |
+| **Sum of Story Points** | 15 |
+       
+   - 5.2.1.2. Sprint Backlog.
 <table>
   <thead>
     <tr>
