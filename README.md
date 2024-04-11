@@ -550,16 +550,8 @@
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item / Task|||||||
 |Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-|US01|Mejoras de Accesibilidad|W-01|Accesibilidad|Garantizar que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla.|8 hours|[Por Asignar]|To-do|
-|US02|Validación de HTML y CSS|W-02|Validación de HTML y CSS|Validar el código HTML y CSS para asegurar que cumple con los estándares y no contiene errores.|6 hours|[Por Asignar]|To-do|
-|US03|Optimización de Carga|W-03|Optimización de Carga|Optimizar el tiempo de carga del sitio web para mejorar la experiencia del usuario.|10 hours|[Por Asignar]|To-do|
 |US04|Añadir Interactividad|W-04|Añadir Interactividad|Implementar interactividad en elementos como botones y enlaces para mejorar la usabilidad.|8 hours|[Por Asignar]|To-do|
-|US05|Mejoras de SEO|W-05|Mejoras de SEO|Optimizar el sitio web para mejorar su visibilidad en los motores de búsqueda.|6 hours|[Por Asignar]|To-do|
-|US06|Refactorización de Clases y Selectores|W-06|Refactorización de Clases y Selectores|Revisar y refactorizar las clases y selectores en el CSS para mejorar la legibilidad y mantenibilidad del código.|8 hours|[Por Asignar]|To-do|
-|US07|Pruebas de Cross-Browser|W-07|Pruebas de Cross-Browser|Realizar pruebas exhaustivas en diferentes navegadores para asegurar la compatibilidad y el rendimiento del sitio web.|12 hours|[Por Asignar]|To-do|
-|US08|Documentación|W-08|Documentación|Documentar el código HTML y CSS para facilitar el mantenimiento futuro y la colaboración entre desarrolladores.|6 hours|[Por Asignar]|To-do|
 |US09|Implementación de Funcionalidades Faltantes|W-09|Implementación de Funcionalidades Faltantes|Completar la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web.|14 hours|[Por Asignar]|To-do|
-|US10|Seguridad|W-10|Seguridad|Implementar medidas de seguridad apropiadas para proteger el sitio web contra vulnerabilidades y ataques maliciosos.|10 hours|[Por Asignar]|To-do|
 |US11|Actualización de Contenido|W-11|Actualización de Contenido|Actualizar el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.|6 hours|[Por Asignar]|To-do|
 |US12|Gestión de Errores y Excepciones|W-12|Gestión de Errores y Excepciones|Implementar manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.|8 hours|[Por Asignar]|To-do|
 |US13|Integración de Diseño de Interfaces|W-13|Integración de Diseño de Interfaces|Integrar el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web.|10 hours|[Por Asignar]|To-do|
@@ -601,7 +593,163 @@
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|d600d2754e| | | |
 
 - 5.2.1.4. Testing Suite Evidence for Sprint Review.
-  
+ ```gherkin
+  Feature: US04: Añadir Interactividad
+  Como usuario del sitio web
+  Quiero interactuar con elementos como botones y enlaces
+  Para mejorar mi experiencia de usuario
+
+  Scenario: Interacción con botones
+    Given Estoy en una página del sitio web que contiene botones interactivos
+    When Hago clic en un botón
+    Then Debería ver una acción o cambio en la página
+
+  Scenario: Navegación a través de enlaces
+    Given Estoy en una página del sitio web que contiene enlaces
+    When Hago clic en un enlace
+    Then Debería ser dirigido a la página correspondiente
+   
+Feature: US09: Implementación de Funcionalidades Faltantes
+  Como desarrollador del sitio web
+  Quiero completar la implementación de características necesarias
+  Para garantizar el funcionamiento completo del sitio web
+
+  Scenario: Implementación del inicio de sesión
+    Given Estoy en la etapa final de desarrollo del inicio de sesión
+    When Pruebo el inicio de sesión con credenciales válidas
+    Then Debería poder acceder al área de usuario
+
+  Scenario: Registro de nuevos usuarios
+    Given Estoy en la etapa final de desarrollo del registro de usuarios
+    When Completo el formulario de registro con información válida
+    Then Debería recibir una confirmación de registro exitoso
+
+Feature: US11: Actualización de Contenido
+  Como editor del sitio web
+  Quiero actualizar el contenido del sitio según sea necesario
+  Para mantenerlo relevante y preciso
+
+  Scenario: Actualización de información de contacto
+    Given Estoy revisando la página de contacto del sitio web
+    When Actualizo la dirección y los números de contacto
+    Then Debería reflejarse la nueva información en la página
+
+  Scenario: Agregar nuevas publicaciones al blog
+    Given Estoy en el panel de administración del blog
+    When Escribo y publico una nueva entrada en el blog
+    Then Debería aparecer la nueva publicación en la página principal del blog
+
+Feature: US12: Gestión de Errores y Excepciones
+  Como desarrollador del sitio web
+  Quiero implementar manejo de errores y excepciones
+  Para proporcionar una experiencia de usuario robusta y sin problemas
+
+  Scenario: Manejo de errores de formulario
+    Given Estoy probando un formulario en el sitio web
+    When Envío el formulario con información incompleta
+    Then Debería recibir un mensaje de error indicando los campos obligatorios
+
+  Scenario: Excepción en el servidor
+    Given Estoy probando una función que interactúa con la base de datos
+    When La base de datos no responde
+    Then Debería recibir un mensaje de error amigable para el usuario
+
+Feature: US13: Integración de Diseño de Interfaces
+  Como desarrollador del sitio web
+  Quiero integrar el diseño de interfaces proporcionado por el equipo de diseño
+  Para asegurar coherencia visual en todo el sitio web
+
+  Scenario: Integración del nuevo diseño de la página de inicio
+    Given Tengo acceso al diseño actualizado de la página de inicio
+    When Implemento el diseño utilizando HTML y CSS
+    Then Debería ver la nueva página de inicio con el diseño actualizado
+
+  Scenario: Ajuste de estilos en la página de contacto
+    Given Tengo acceso al diseño actualizado de la página de contacto
+    When Ajusto los estilos CSS para que coincidan con el nuevo diseño
+    Then Debería ver la página de contacto con la misma apariencia que el diseño proporcionado
+
+Feature: US14: Cabecera (Header)
+  Como usuario del sitio web
+  Quiero que la cabecera esté bien definida con secciones como el logo y los elementos de navegación
+  Para una navegación intuitiva y clara
+
+  Scenario: Verificación de elementos en la cabecera
+    Given Estoy en la página principal del sitio web
+    When Miro la cabecera de la página
+    Then Debería ver el logo de la empresa y los elementos de navegación
+
+Feature: US15: Diseño Responsivo
+  Como usuario del sitio web
+  Quiero que el diseño se adapte correctamente a diferentes dispositivos y tamaños de pantalla
+  Para una experiencia de usuario consistente en todos los dispositivos
+
+  Scenario: Verificación del diseño en dispositivos móviles
+    Given Estoy en la página principal del sitio web desde un dispositivo móvil
+    When Navego por el sitio web
+    Then Debería ver que el diseño se adapta adecuadamente a la pantalla del dispositivo
+
+  Scenario: Verificación del diseño en tabletas
+    Given Estoy en la página principal del sitio web desde una tableta
+    When Navego por el sitio web
+    Then Debería ver que el diseño se adapta adecuadamente al tamaño de la pantalla de la tableta
+
+Feature: US16: Estilos de Navegación
+  Como usuario del sitio web
+  Quiero que los elementos de navegación tengan estilos aplicados, incluyendo efectos de hover y sombras
+  Para una experiencia visual atractiva y una navegación intuitiva
+
+  Scenario: Estilos de enlaces
+    Given Estoy en una página del sitio web que contiene enlaces
+    When Paso el cursor sobre un enlace
+    Then Debería ver un cambio en el estilo del enlace, como un cambio de color o una sombra
+
+  Scenario: Estilos de menú desplegable
+    Given Estoy en una página del sitio web que contiene un menú desplegable
+    When Paso el cursor sobre el menú desplegable
+    Then Debería ver una animación suave y atractiva al desplegar el menú
+
+Feature: US17: Contenedor Principal
+  Como usuario del sitio web
+  Quiero que el contenido principal esté bien organizado con una estructura clara y fácil de entender
+  Para una experiencia de navegación intuitiva
+
+  Scenario: Verificación de la estructura del contenedor principal
+    Given Estoy en una página del sitio web
+    When Miro la estructura del contenedor principal
+    Then Debería ver secciones claramente definidas con contenido relevante en cada una
+
+Feature: US18: Sección de Aterrizaje (Landing)
+  Como usuario del sitio web
+  Quiero que la sección de aterrizaje tenga un diseño atractivo con un título, subtítulo, imágenes y un botón de inicio
+  Para una primera impresión positiva y una navegación fácil
+
+  Scenario: Verificación de elementos en la sección de aterrizaje
+    Given Estoy en la página de inicio del sitio web
+    When Miro la sección de aterrizaje
+    Then Debería ver un título llamativo, un subtítulo descriptivo, imágenes atractivas y un botón de inicio visible
+
+Feature: US19: Estilos de Botón
+  Como usuario del sitio web
+  Quiero que los botones tengan estilos CSS aplicados, incluyendo colores, sombras y efectos de hover
+  Para una experiencia visual atractiva y una clara indicación de las acciones disponibles
+
+  Scenario: Estilo de botón primario
+    Given Estoy en una página del sitio web que contiene un botón principal
+    When Paso el cursor sobre el botón
+    Then Debería ver un cambio en el estilo del botón, como un efecto de sombra o un cambio de color
+
+Feature: US20: Tarjetas de Notas (Note Live Cards)
+  Como usuario del sitio web
+  Quiero que se muestren tarjetas de notas con información relevante de manera visualmente atractiva
+  Para una fácil visualización de la información importante
+
+  Scenario: Verificación de tarjetas de notas en la página principal
+    Given Estoy en la página principal del sitio web
+    When Miro las tarjetas de notas en la página
+    Then Debería ver información relevante presentada de forma visualmente atractiva en cada tarjeta
+```
+
 - 5.2.1.5. Execution Evidence for Sprint Review.
 
 Durante este sprint, se completaron las siguientes tareas:
