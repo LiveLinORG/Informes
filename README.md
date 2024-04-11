@@ -545,159 +545,31 @@
 | **Sum of Story Points** | 15 |
        
    - 5.2.1.2. Sprint Backlog.
-<table>
-  <thead>
-    <tr>
-      <th>User Story</th>
-      <th>Descripción</th>
-      <th>Horas Estimadas</th>
-      <th>Asignación</th>
-      <th>Fecha Límite</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Mejoras de Accesibilidad</td>
-      <td>Garantizar que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla.</td>
-      <td>8 horas</td>
-      <td>[Por Asignar]</td>
-      <td>30 de marzo de 2024</td>
-    </tr>
-    <tr>
-      <td>Validación de HTML y CSS</td>
-      <td>Validar el código HTML y CSS para asegurar que cumple con los estándares y no contiene errores.</td>
-      <td>6 horas</td>
-      <td>[Por Asignar]</td>
-      <td>31 de marzo de 2024</td>
-    </tr>
-    <tr>
-      <td>Optimización de Carga</td>
-      <td>Optimizar el tiempo de carga del sitio web para mejorar la experiencia del usuario.</td>
-      <td>10 horas</td>
-      <td>[Por Asignar]</td>
-      <td>1 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Añadir Interactividad</td>
-      <td>Implementar interactividad en elementos como botones y enlaces para mejorar la usabilidad.</td>
-      <td>8 horas</td>
-      <td>[Por Asignar]</td>
-      <td>2 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Mejoras de SEO</td>
-      <td>Optimizar el sitio web para mejorar su visibilidad en los motores de búsqueda.</td>
-      <td>6 horas</td>
-      <td>[Por Asignar]</td>
-      <td>3 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Refactorización de Clases y Selectores</td>
-      <td>Revisar y refactorizar las clases y selectores en el CSS para mejorar la legibilidad y mantenibilidad del código.</td>
-      <td>8 horas</td>
-      <td>[Por Asignar]</td>
-      <td>4 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Pruebas de Cross-Browser</td>
-      <td>Realizar pruebas exhaustivas en diferentes navegadores para asegurar la compatibilidad y el rendimiento del sitio web.</td>
-      <td>12 horas</td>
-      <td>[Por Asignar]</td>
-      <td>5 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Documentación</td>
-      <td>Documentar el código HTML y CSS para facilitar el mantenimiento futuro y la colaboración entre desarrolladores.</td>
-      <td>6 horas</td>
-      <td>[Por Asignar]</td>
-      <td>6 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Implementación de Funcionalidades Faltantes</td>
-      <td>Completar la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web.</td>
-      <td>14 horas</td>
-      <td>[Por Asignar]</td>
-      <td>7 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Seguridad</td>
-      <td>Implementar medidas de seguridad apropiadas para proteger el sitio web contra vulnerabilidades y ataques maliciosos.</td>
-      <td>10 horas</td>
-      <td>[Por Asignar]</td>
-      <td>8 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Actualización de Contenido</td>
-      <td>Actualizar el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.</td>
-      <td>6 horas</td>
-      <td>[Por Asignar]</td>
-      <td>9 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Gestión de Errores y Excepciones</td>
-      <td>Implementar manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.</td>
-      <td>8 horas</td>
-      <td>[Por Asignar]</td>
-      <td>7 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Integración de Diseño de Interfaces</td>
-      <td>Integrar el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web.</td>
-      <td>10 horas</td>
-      <td>[Por Asignar]</td>
-      <td>1 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Cabecera (Header)</td>
-      <td>La estructura de la cabecera está definida con secciones como el logo y los elementos de navegación.</td>
-      <td>4 horas</td>
-      <td>[Por Asignar]</td>
-      <td>1 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Diseño Responsivo</td>
-      <td>El diseño del sitio web utiliza técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla.</td>
-      <td>8 horas</td>
-      <td>[Por Asignar]</td>
-      <td>3 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Estilos de Navegación</td>
-      <td>Se han aplicado estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.</td>
-      <td>6 horas</td>
-      <td>[Por Asignar]</td>
-      <td>4 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Contenedor Principal</td>
-      <td>El contenedor principal del sitio web se ha definido con una estructura de grid y secciones para organizar el contenido.</td>
-      <td>6 horas</td>
-      <td>[Por Asignar]</td>
-      <td>5 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Sección de Aterrizaje (Landing)</td>
-      <td>Se ha creado una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.</td>
-      <td>8 horas</td>
-      <td>[Por Asignar]</td>
-      <td>6 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Estilos de Botón</td>
-      <td>Los botones tienen estilos CSS aplicados, incluyendo colores, sombras y efectos de hover.</td>
-      <td>4 horas</td>
-      <td>[Por Asignar]</td>
-      <td>7 de abril de 2024</td>
-    </tr>
-    <tr>
-      <td>Tarjetas de Notas (Note Live Cards)</td>
-      <td>Se han definido tarjetas de notas para mostrar información relevante de manera visualmente atractiva.</td>
-      <td>8 horas</td>
-      <td>[Por Asignar]</td>
-      <td>5 de abril de 2024</td>
-    </tr>
-  </tbody>
-</table>
+     
+|**Sprint #**|**Sprint 1**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
+|US01|Mejoras de Accesibilidad|W-01|Accesibilidad|Garantizar que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla.|8 hours|[Por Asignar]|To-do|
+|US02|Validación de HTML y CSS|W-02|Validación de HTML y CSS|Validar el código HTML y CSS para asegurar que cumple con los estándares y no contiene errores.|6 hours|[Por Asignar]|To-do|
+|US03|Optimización de Carga|W-03|Optimización de Carga|Optimizar el tiempo de carga del sitio web para mejorar la experiencia del usuario.|10 hours|[Por Asignar]|To-do|
+|US04|Añadir Interactividad|W-04|Añadir Interactividad|Implementar interactividad en elementos como botones y enlaces para mejorar la usabilidad.|8 hours|[Por Asignar]|To-do|
+|US05|Mejoras de SEO|W-05|Mejoras de SEO|Optimizar el sitio web para mejorar su visibilidad en los motores de búsqueda.|6 hours|[Por Asignar]|To-do|
+|US06|Refactorización de Clases y Selectores|W-06|Refactorización de Clases y Selectores|Revisar y refactorizar las clases y selectores en el CSS para mejorar la legibilidad y mantenibilidad del código.|8 hours|[Por Asignar]|To-do|
+|US07|Pruebas de Cross-Browser|W-07|Pruebas de Cross-Browser|Realizar pruebas exhaustivas en diferentes navegadores para asegurar la compatibilidad y el rendimiento del sitio web.|12 hours|[Por Asignar]|To-do|
+|US08|Documentación|W-08|Documentación|Documentar el código HTML y CSS para facilitar el mantenimiento futuro y la colaboración entre desarrolladores.|6 hours|[Por Asignar]|To-do|
+|US09|Implementación de Funcionalidades Faltantes|W-09|Implementación de Funcionalidades Faltantes|Completar la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web.|14 hours|[Por Asignar]|To-do|
+|US10|Seguridad|W-10|Seguridad|Implementar medidas de seguridad apropiadas para proteger el sitio web contra vulnerabilidades y ataques maliciosos.|10 hours|[Por Asignar]|To-do|
+|US11|Actualización de Contenido|W-11|Actualización de Contenido|Actualizar el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.|6 hours|[Por Asignar]|To-do|
+|US12|Gestión de Errores y Excepciones|W-12|Gestión de Errores y Excepciones|Implementar manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.|8 hours|[Por Asignar]|To-do|
+|US13|Integración de Diseño de Interfaces|W-13|Integración de Diseño de Interfaces|Integrar el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web.|10 hours|[Por Asignar]|To-do|
+|US14|Cabecera (Header)|W-14|Cabecera (Header)|La estructura de la cabecera está definida con secciones como el logo y los elementos de navegación.|4 hours|[Por Asignar]|To-do|
+|US15|Diseño Responsivo|W-15|Diseño Responsivo|El diseño del sitio web utiliza técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla.|8 hours|[Por Asignar]|To-do|
+|US16|Estilos de Navegación|W-16|Estilos de Navegación|Se han aplicado estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.|6 hours|[Por Asignar]|To-do|
+|US17|Contenedor Principal|W-17|Contenedor Principal|El contenedor principal del sitio web se ha definido con una estructura de grid y secciones para organizar el contenido.|6 hours|[Por Asignar]|To-do|
+|US18|Sección de Aterrizaje (Landing)|W-18|Sección de Aterrizaje (Landing)|Se ha creado una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.|8 hours|[Por Asignar]|To-do|
+|US19|Estilos de Botón|W-19|Estilos de Botón|Los botones tienen estilos CSS aplicados, incluyendo colores, sombras y efectos de hover.|4 hours|[Por Asignar]|To-do|
+|US20|Tarjetas de Notas (Note Live Cards)|W-20|Tarjetas de Notas (Note Live Cards)|Se han definido tarjetas de notas para mostrar información relevante de manera visualmente atractiva.|8 hours|[Por Asignar]|To-do|
 
 ---
 - 5.2.1.3. Development Evidence for Sprint Review.
