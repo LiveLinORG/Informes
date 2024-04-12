@@ -202,7 +202,18 @@
 	8. ¿Cómo evalúas la efectividad de una plataforma en el proceso de enseñanza y aprendizaje?
 	9. ¿Qué importancia le das a la personalización y adaptación de una plataforma a tus necesidades específicas como educador?
 	10. ¿Qué consejos darías a otros educadores al seleccionar una plataforma para utilizar en sus clases?
+  
   - 2.4.2. Registro de entrevistas.
+    - Estudiantes:
+      	- Entrevista #1:
+      	  ![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/entrevista_lucia_usuario.jpg)
+      	  Entrevistado: Maria Lucia Paez Cairo<br>
+      	  Entrevistador: Erick Joaquin Palomino Santa Cruz<br>
+	  Duración: 08:15<br>
+   	  Link: https://youtu.be/iZBerMLXzHU?si=GmDG8FpFuHDhCL4- <br>
+      	  Resumen: La entrevistada discute la importancia de la seguridad y privacidad de los datos en plataformas en línea, especialmente en entornos 	educativos e institucionales. Se mencionan experiencias con plataformas similares a LiveLin, como Canvas Student y Google Classroom, destacando la accesibilidad pero también las limitaciones en opciones. Se subraya la importancia de una interfaz intuitiva y fácil de usar para incentivar la participación de los estudiantes, especialmente aquellos menos familiarizados con la tecnología. Finalmente, se sugiere que el éxito de una plataforma educativa radica en una interfaz visualmente atractiva, adaptada a la preferencia de los estudiantes contemporáneos por las imágenes y los colores sobre el texto.
+      	  
+      	  
     - Profesores y Educadores:
     	- Entrevista #1:
           ![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Entrevista_Piero.png)
@@ -213,6 +224,13 @@
           Resumen: La señora Valeria nos cuenta como ha sido su experiencia usando plataformas para el dictado de clases en línea, nos comenta que es importante que NoteLive contenga funcionalidades esenciales para el proceso de enseñanza y aprendizaje en cada uno de los niveles de enseñanza existentes en nuestro País.
            
   - 2.4.3. Análisis de entrevistas.
+   - Usuarios y Estudiantes:
+     - Entrevista #1: Maria Lucia Paez Cairo
+       
+       En la entrevista, se abordaron varios temas relacionados con la seguridad y privacidad de los datos en plataformas en línea, particularmente en contextos educativos e institucionales. El entrevistado expresó su preocupación por la delicadeza de la información compartida en estos entornos, dado que muchas veces se utilizan correos electrónicos o identificaciones asociadas con el ámbito educativo o laboral. Se destacó la necesidad de que las plataformas respeten y protejan la privacidad de los usuarios, dado que no son programas de uso libre, sino que implican información sensible.
+	Luego, se exploraron experiencias previas con plataformas similares a LiveLin, como Canvas Student y Google Classroom. El entrevistado describió estas plataformas como accesibles pero con opciones limitadas, lo que sugiere la necesidad de explorar y aprovechar al máximo las características disponibles. Se resaltó la importancia de una interfaz intuitiva y fácil de usar para facilitar la participación de los estudiantes, especialmente aquellos que pueden tener menos familiaridad con la tecnología.
+	Además, se discutió la importancia de que una plataforma educativa sea visualmente atractiva y estimulante para los estudiantes, dado que la generación actual ha crecido rodeada de tecnología y tiende a valorar más las imágenes y los colores que el texto puro. Se sugirió que una interfaz atractiva podría aumentar el compromiso de los estudiantes con la plataforma y, por ende, con su educación.
+       
    - Profesores y Educadores:
      - Entrevista #1: Valeria Perez Yucra<br>
        Después de la entrevista, se descubrió que la profesora necesitaba varias funciones importantes de NoteLive. La maestra enfatizó la importancia de que la plataforma sea adaptable a varios niveles de enseñanza. Sugirió que la interfaz debe ser divertida y amigable para los estudiantes de niveles inferiores. Mientras tanto, para niveles superiores, como escuela secundaria, universidad o instituto, la interfaz debería ser más seria y los colores deberían ser más neutros.
@@ -221,39 +239,39 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 - 2.5. Needfinding.
   
-#### Problemas Identificados:
+	#### Problemas Identificados:
 
-1. **Dificultad para la Interacción en el Aula**:
-   - Los estudiantes encuentran desafiante participar activamente en las clases presenciales debido a barreras de comunicación o miedo al juicio de sus pares.
+	1. **Dificultad para la Interacción en el Aula**:
+   	- Los estudiantes encuentran desafiante participar activamente en las clases presenciales debido a barreras de comunicación o miedo al juicio de sus pares.
 
-2. **Limitaciones en la Participación de los Alumnos**:
-   - Algunos alumnos pueden sentirse reacios a hacer preguntas o expresar dudas en público durante las clases, lo que puede afectar su comprensión del material.
+	2. **Limitaciones en la Participación de los Alumnos**:
+   	- Algunos alumnos pueden sentirse reacios a hacer preguntas o expresar dudas en público durante las clases, lo que puede afectar su comprensión del material.
 
-3. **Falta de Sincronización en la Presentación de Diapositivas**:
-   - La falta de sincronización entre la presentación del profesor y los dispositivos de los alumnos puede dificultar seguir el ritmo de la clase y afectar la comprensión del contenido.
+	3. **Falta de Sincronización en la Presentación de Diapositivas**:
+   	- La falta de sincronización entre la presentación del profesor y los dispositivos de los alumnos puede dificultar seguir el ritmo de la clase y afectar la comprensión del contenido.
 
-4. **Desafíos en la Priorización de Preguntas Relevantes**:
-   - Los profesores pueden enfrentar dificultades para identificar y responder a las preguntas más importantes de los alumnos debido a la falta de un sistema de priorización claro.
+	4. **Desafíos en la Priorización de Preguntas Relevantes**:
+  	- Los profesores pueden enfrentar dificultades para identificar y responder a las preguntas más importantes de los alumnos debido a la falta de un sistema de priorización claro.
 
-5. **Necesidad de Recursos de Revisión y Repaso**:
-   - Los estudiantes pueden carecer de herramientas efectivas para revisar y repasar el material discutido en clase, lo que puede afectar su rendimiento académico.
+	5. **Necesidad de Recursos de Revisión y Repaso**:
+   	- Los estudiantes pueden carecer de herramientas efectivas para revisar y repasar el material discutido en clase, lo que puede afectar su rendimiento académico.
 
-#### Soluciones Propuestas:
+	#### Soluciones Propuestas:
 
-1. **Facilitar la Interacción en el Aula**:
-   - Proporcionar una plataforma que permita a los estudiantes participar activamente en la clase desde sus dispositivos móviles, eliminando barreras de comunicación.
+	1. **Facilitar la Interacción en el Aula**:
+   	- Proporcionar una plataforma que permita a los estudiantes participar activamente en la clase desde sus dispositivos móviles, eliminando barreras de comunicación.
 
-2. **Fomentar la Participación de los Alumnos**:
-   - Permitir a los estudiantes hacer preguntas de forma anónima para fomentar un entorno de aprendizaje inclusivo y sin miedo al juicio.
+	2. **Fomentar la Participación de los Alumnos**:
+   	- Permitir a los estudiantes hacer preguntas de forma anónima para fomentar un entorno de aprendizaje inclusivo y sin miedo al juicio.
 
-3. **Sincronización en Tiempo Real**:
-   - Garantizar que la presentación del profesor esté sincronizada con los dispositivos de los estudiantes para facilitar el seguimiento del contenido de la clase.
+	3. **Sincronización en Tiempo Real**:
+	- Garantizar que la presentación del profesor esté sincronizada con los dispositivos de los estudiantes para facilitar el seguimiento del contenido de la clase.
 
-4. **Priorización de Preguntas Relevantes**:
-   - Implementar un sistema de votación o "me gusta" para que los estudiantes puedan destacar las preguntas más importantes, ayudando así a los profesores a priorizarlas y responderlas de manera efectiva.
+	4. **Priorización de Preguntas Relevantes**:
+ 	- Implementar un sistema de votación o "me gusta" para que los estudiantes puedan destacar las preguntas más importantes, ayudando así a los profesores a priorizarlas y responderlas de manera efectiva.
 
-5. **Recursos de Revisión y Repaso**:
-   - Permitir a los estudiantes exportar un registro detallado de preguntas formuladas durante la clase para facilitar la revisión y repaso del material discutido.
+	5. **Recursos de Revisión y Repaso**:
+  	- Permitir a los estudiantes exportar un registro detallado de preguntas formuladas durante la clase para facilitar la revisión y repaso del material discutido.
 - 2.6. User Personas.
   
   ![Imagen](https://github.com/LiveLinORG/Informes/assets/48342953/c5f4b861-215c-480e-8532-369df812c498)
