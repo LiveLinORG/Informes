@@ -565,7 +565,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
   <p align="center"><img src="images/Components.png" alt="Diagrama de componentes" width="80%"></p>
 - 4.6. Software Object-Oriented Design.
   - 4.6.1. Class Diagrams. <br>
-    A continuación, se presenta el diagrama de clases de NoteLive:
+    A continuación, se presenta el diagrama de clases de NoteLive elaborado en StarUML:
     ![image](https://github.com/LiveLinORG/Informes/blob/main/images/NoteLive-ClassDiagram.jpg)
     
   - 4.6.2. Class Dictionary.
