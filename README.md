@@ -203,7 +203,22 @@
 	9. ¿Qué importancia le das a la personalización y adaptación de una plataforma a tus necesidades específicas como educador?
 	10. ¿Qué consejos darías a otros educadores al seleccionar una plataforma para utilizar en sus clases?
   - 2.4.2. Registro de entrevistas.
+    - Profesores y Educadores:
+    	- Entrevista #1:
+
+          Entrevistado: Valeria Perez Yucra<br>
+          Entrevistador: Piero Alonso Martinez Villanueva<br>
+  	  Duración: 15:43<br>
+          Link: https://youtu.be/eT3FQE8czCA <br>
+          Resumen: Valeria nos cuenta como ha sido su experiencia usando plataformas para el dictado de clases en línea, nos comenta que es importante que NoteLive contenga funcionalidades esenciales para el proceso de enseñanza y aprendizaje en cada uno de los niveles de enseñanza existentes en nuestro País.
+           
   - 2.4.3. Análisis de entrevistas.
+   - Profesores y Educadores:
+     - Entrevista #1: Valeria Perez Yucra<br>
+       Después de la entrevista, se descubrió que la profesora necesitaba varias funciones importantes de NoteLive. La maestra enfatizó la importancia de que la plataforma sea adaptable a varios niveles de enseñanza. Sugirió que la interfaz debe ser divertida y amigable para los estudiantes de niveles inferiores. Mientras tanto, para niveles superiores, como escuela secundaria, universidad o instituto, la interfaz debería ser más seria y los colores deberían ser más neutros.
+Para aumentar la versatilidad, la profesora también mencionó la necesidad de incluir herramientas como una pizarra digital y la capacidad de incorporar material multimedia, ya sea desde YouTube u otro contenido propio, en las presentaciones. Además, sugirió que la aplicación debe permitir al maestro silenciar tanto el chat de voz como el texto de los estudiantes, así como proporcionar un glosario o un buscador para ayudar a los estudiantes a resolver sus dudas.
+La posibilidad de que los estudiantes tengan su propia pizarra o anotador para tomar apuntes y comparar sus respuestas con el instructor, así como la inclusión de encuestas que evalúen la comprensión de los estudiantes de la clase dictada, son otras características significativas. Por último, el educador enfatizó la importancia de que NoteLive se diferencie de la competencia al ofrecer opciones de personalización que se adapten a las necesidades únicas de cada educador en la plataforma.
+
 - 2.5. Needfinding.
   
 #### Problemas Identificados:
