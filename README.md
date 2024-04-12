@@ -564,7 +564,10 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
   - 4.5.3. Software Architecture Components Diagrams.
   <p align="center"><img src="images/Components.png" alt="Diagrama de componentes" width="80%"></p>
 - 4.6. Software Object-Oriented Design.
-  - 4.6.1. Class Diagrams.
+  - 4.6.1. Class Diagrams. <br>
+    A continuación, se presenta el diagrama de clases de NoteLive:
+    ![image](https://github.com/LiveLinORG/Informes/blob/main/images/NoteLive-ClassDiagram.jpg)
+    
   - 4.6.2. Class Dictionary.
 - 4.7. Database Design.
   - 4.7.1. Database Diagram.
