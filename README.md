@@ -252,9 +252,44 @@
   ![Imagen](https://github.com/LiveLinORG/Informes/assets/48342953/5ce0cbdb-a647-4e53-a2af-8f44ac0764db)
 
 - 2.7. User Task Matrix.
+  	### Segmento Usuario
+
+	| Actividades                                                 | Frecuencia    | Importancia |
+	|-------------------------------------------------------------|---------------|-------------|
+	| Participar en sesiones de consulta y capacitación           | A veces       | Media       |
+	| Compartir experiencias y consejos en la comunidad en línea  | A veces       | Baja        |
+
+	### Segmento Profesores
+
+	| Actividades                                                 | Frecuencia    | Importancia |
+	|-------------------------------------------------------------|---------------|-------------|
+	| Integrar dispositivos ergonómicos en la rutina de trabajo  | A veces       | Alta        |
+	| Seguir programas de ejercicios personalizados              | Regularmente | Alta        |
+	| Utilizar herramientas de seguimiento y análisis del progreso | Regularmente | Media       |
+
 - 2.8. User Journey Mapping.
+  	### Segmento Usuario
+  	![Imagen de WhatsApp 2024-04-07 a las 11 57 14_a45ffd10](https://github.com/LiveLinORG/Informes/assets/127764958/182e700e-f8d6-4815-8666-9334c00311df)
+
+   	### Segmento Profesores
+  	![Imagen de WhatsApp 2024-04-07 a las 12 03 35_b2fe94d1](https://github.com/LiveLinORG/Informes/assets/127764958/dca32f7c-d024-458e-bc06-1bd41ad27856)
+  
 - 2.9. Empathy Mapping.
+
+  	### Segmento Usuario
+  	![Imagen de WhatsApp 2024-04-07 a las 12 38 55_be20d5df](https://github.com/LiveLinORG/Informes/assets/127764958/38614ef5-91fe-460e-a522-829c97ad40f0)
+
+ 	### Segmento Profesores
+ 	![Imagen de WhatsApp 2024-04-07 a las 12 39 00_21f743ad](https://github.com/LiveLinORG/Informes/assets/127764958/de44a14d-5c4b-48d7-8411-006509a3731a)
+  
 - 2.10. As-is Scenario Mapping.
+
+  	### Segmento Usuario
+  	![Imagen de WhatsApp 2024-04-07 a las 15 53 32_056f73da](https://github.com/LiveLinORG/Informes/assets/127764958/9376f9dd-8727-4b2a-aad2-61d05ce7d2ac)
+
+  	### Segmento Profesores
+  	![Imagen de WhatsApp 2024-04-07 a las 15 53 39_da7b6c83](https://github.com/LiveLinORG/Informes/assets/127764958/ddf95e71-596c-49ee-9915-681fbdc2d086)
+  
 - 2.11. Ubiquitous Language.
   ## Términos y Conceptos
 
@@ -311,6 +346,13 @@
 ### 3. Capítulo III: Requirements Specification
 
 - 3.1. To-Be Scenario Mapping.
+  	### Segmento Usuario
+	![Imagen de WhatsApp 2024-04-11 a las 19 52 59_86f66898](https://github.com/LiveLinORG/Informes/assets/127764958/a86bbe94-34c6-4d08-b5a6-d9771b46fa2b)
+
+	### Segmento Profesores
+	![Imagen de WhatsApp 2024-04-11 a las 19 53 23_5bcc7c9a](https://github.com/LiveLinORG/Informes/assets/127764958/7770ae00-f7af-4526-9251-a4be563642d0)
+
+
 - 3.2. User Stories.
   
   	| ID   | Título                                 | Descripción                                                                                                                                                       | Estado     | Relacionado con la Epic #Número |
