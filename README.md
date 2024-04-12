@@ -205,12 +205,12 @@
   - 2.4.2. Registro de entrevistas.
     - Profesores y Educadores:
     	- Entrevista #1:
-
+          ![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Entrevista_Piero.png)
           Entrevistado: Valeria Perez Yucra<br>
           Entrevistador: Piero Alonso Martinez Villanueva<br>
   	  Duración: 15:43<br>
           Link: https://youtu.be/eT3FQE8czCA <br>
-          Resumen: Valeria nos cuenta como ha sido su experiencia usando plataformas para el dictado de clases en línea, nos comenta que es importante que NoteLive contenga funcionalidades esenciales para el proceso de enseñanza y aprendizaje en cada uno de los niveles de enseñanza existentes en nuestro País.
+          Resumen: La señora Valeria nos cuenta como ha sido su experiencia usando plataformas para el dictado de clases en línea, nos comenta que es importante que NoteLive contenga funcionalidades esenciales para el proceso de enseñanza y aprendizaje en cada uno de los niveles de enseñanza existentes en nuestro País.
            
   - 2.4.3. Análisis de entrevistas.
    - Profesores y Educadores:
