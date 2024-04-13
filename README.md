@@ -494,11 +494,11 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 	**Tipografía**
 
-	**Tipo de letra:**
+	**-Tipo de letra:**
 
 	Se ha elegido la tipografía Roboto, con variaciones en el tamaño de letra dependiendo del lugar en el que se encuentre, como puede ser título o subtítulo.
 
-	**Color de letra:**
+	**-Color de letra:**
 
 	Los tres colores que se utilizarán son el blanco, negro y anaranjado. La elección del color dependerá del fondo, habiendo una relación inversa entre la tonalidad del fondo y el color de la letra. No obstante, en ocasiones especiales se utilizarán otros colores para resaltar información importante. Aquí algunos ejemplos del color de la letra:
 
