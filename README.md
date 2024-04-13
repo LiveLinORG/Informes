@@ -535,7 +535,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 	También se ha definido la apariencia de los botones en sus diferentes estados:
 
 	**Logo**
-
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/LogoConFondo.jpeg)
 
 - 4.2. Information Architecture.
   - 4.2.1. Organization Systems.
