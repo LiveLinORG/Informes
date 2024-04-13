@@ -539,7 +539,13 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 - 4.2. Information Architecture.
   - 4.2.1. Organization Systems.
+	
+	En primer lugar, en el desarrollo de nuestro producto digital, hemos explorado soluciones tecnológicas para abordar la problemática que enfrentamos. Implementaremos una organización visual jerárquica para las soluciones destinadas a satisfacer las necesidades de nuestros clientes, con el objetivo de ofrecer una amplia variedad de soluciones innovadoras y efectivas. Este modelo funcionará de manera ordenada para evitar complicaciones al elegir entre las opciones disponibles.
+
   - 4.2.2. Labeling Systems.
+
+ 	Nuestro labeling system es una herramienta intuitiva y eficiente diseñada para organizar y clasificar contenido de manera fácil y precisa. Con una interfaz amigable, ya sea para categorizar artículos, filtrar resultados de búsqueda o crear una experiencia de usuario más fluida, nuestro sistema una solución versátil y adaptable a las necesidades.
+
   - 4.2.3. SEO Tags and Meta Tags.
   - 4.2.4. Searching Systems.
   - 4.2.5. Navigation Systems.
