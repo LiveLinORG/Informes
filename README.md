@@ -63,6 +63,7 @@
     
   - 1.2.2. Lean UX Process.
     - 1.2.2.1. Lean UX Problem Statements.
+      
       Nuestra solución de negocio surge a partir de una problemática que afecta a una gran cantidad de estudiantes, que es,la distancia que tienen dichos alumnos con respecto a la pizarra o al docente.
  
       Es esencial abordar este problema debido a que una de las principales causas de la disminución en el desempeño de los estudiantes, repercutiendo directamente en sus calificaciones finales. El desafío que buscamos enfrentar es poder aumentar la visibilidad de los alumnos, así como mejorar la comunicación entre estos y el profesor, proporcionando una herramienta útil tanto para el profesorado como para las diversas instituciones educativas.
@@ -70,7 +71,15 @@
     - 1.2.2.2. Lean UX Assumptions.
   
       **Bussines Outcomes:**
-        * 1
+	* Mejora en el Rendimiento Académico: LiveLin busca mejorar el rendimiento académico de los estudiantes al abordar la falta de visibilidad y comunicación en el aula, lo que se traduce en un aumento en las calificaciones y resultados de aprendizaje.
+
+	* Optimización del Tiempo de Enseñanza: Al proporcionar herramientas que facilitan la interacción y la comunicación efectiva entre profesores y estudiantes, LiveLin busca optimizar el tiempo de enseñanza al minimizar las barreras de comunicación y maximizar la comprensión del material.
+
+	* Mejora en la Experiencia Educativa: LiveLin aspira a mejorar la experiencia educativa tanto para estudiantes como para profesores, creando un ambiente de aprendizaje más interactivo, participativo y efectivo, lo que a su vez aumenta la satisfacción y el compromiso con el proceso educativo.
+
+	* Reducción de la Brecha de Comunicación: Al proporcionar una plataforma que facilita la comunicación bidireccional y la interacción en tiempo real entre profesores y estudiantes, LiveLin busca reducir la brecha de comunicación en el aula, asegurando que todos los alumnos tengan igual acceso al material y participen activamente en la clase.
+
+	* Mayor Atracción para Instituciones Educativas: Al ofrecer una solución innovadora para abordar un problema común en el ámbito educativo, LiveLin busca aumentar el atractivo de las instituciones educativas para estudiantes potenciales, destacando su compromiso con la mejora continua y la calidad de la enseñanza.
     
       **Features:**
         * Inicio de sesión simple: NoteLive es una aplicación web accesible directamente desde un navegador, lo que elimina la necesidad de instalación de software adicional. Los usuarios pueden acceder fácilmente a la plataforma mediante un código único proporcionado por el profesor.
@@ -81,7 +90,15 @@
         * Exportación de Registro de Preguntas: Al finalizar la sesión, los alumnos tienen la opción de exportar un archivo detallado que contiene un registro de todas las preguntas formuladas durante la clase. Este archivo proporciona una valiosa herramienta de revisión para repasar el material discutido y las preguntas planteadas.
     
       **User Outcomes:**
-        * 1
+	* Mejora en la Comprensión del Material: LiveLin busca mejorar la comprensión del material por parte de los estudiantes al proporcionar una plataforma que facilita la interacción en tiempo real con el profesor y el contenido de la clase, lo que permite a los alumnos seguir el ritmo de la clase y hacer preguntas relevantes de manera efectiva.
+
+	* Mayor Participación en Clase: Al permitir a los estudiantes enviar preguntas de forma anónima y destacar aquellas consideradas más relevantes, LiveLin busca fomentar una mayor participación en clase, brindando a todos los alumnos la oportunidad de contribuir y sentirse involucrados en el proceso educativo.
+
+	* Experiencia Educativa Personalizada: LiveLin aspira a proporcionar una experiencia educativa más personalizada al permitir que los estudiantes interactúen con el contenido de la clase de manera individualizada, lo que les permite abordar sus propias dudas y necesidades de aprendizaje de manera más efectiva.
+
+	* Facilidad de Acceso y Uso: LiveLin se esfuerza por proporcionar una experiencia de usuario fácil y accesible al eliminar la necesidad de instalaciones complicadas y al permitir el acceso directo a través de un navegador web, lo que garantiza que todos los estudiantes puedan beneficiarse de la plataforma sin problemas técnicos.
+
+	* Mayor Confianza y Satisfacción: Al facilitar una comunicación más fluida y efectiva con el profesor y los compañeros de clase, LiveLin busca aumentar la confianza y la satisfacción de los estudiantes con su experiencia educativa, promoviendo un ambiente de aprendizaje más positivo y enriquecedor.
   
     - 1.2.2.3. Lean UX Hypothesis Statements.
     - 1.2.2.4. Lean UX Canvas.
