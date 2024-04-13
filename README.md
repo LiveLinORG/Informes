@@ -523,6 +523,18 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 	La elección de colores principales se basa en una paleta de tonos pastel, basados en el color anaranjado, que transmiten calma, serenidad y una sensación de frescura. Estos colores principales se complementan con una selección de tonos neutros en la letra, como negro y blanco, que proporcionan equilibrio y permiten que los colores principales destaquen sin abrumar al usuario.
 
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorFFB740.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColordf711b.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorf7a072.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorfde49c.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorffd8ba.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorffe8d6.png)
+
 	**- Colores secundarios:**
 
 	Los colores secundarios se han elegido para acentuar y complementar la paleta principal, añadiendo contraste y profundidad visual. Entre estos colores secundarios se encuentran tonos más intensos, como un azul marino profundo, un azul púrpura y un verde esmeralda, que se utilizan de manera estratégica para resaltar elementos clave dentro de la interfaz de la aplicación, aportando dinamismo y vitalidad sin comprometer la armonía general del diseño.
