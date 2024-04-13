@@ -497,11 +497,20 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 	**- Tipo de letra:**
 
 	Se ha elegido la tipografía Roboto, con variaciones en el tamaño de letra dependiendo del lugar en el que se encuentre, como puede ser título o subtítulo.
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Roboto.png)
 
 	**- Color de letra:**
 
 	Los tres colores que se utilizarán son el blanco, negro y anaranjado. La elección del color dependerá del fondo, habiendo una relación inversa entre la tonalidad del fondo y el color de la letra. No obstante, en ocasiones especiales se utilizarán otros colores para resaltar información importante. Aquí algunos ejemplos del color de la letra:
 
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Color000000.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Color403D39.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/ColorFF7F0E.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/ColorFFFFFF.png)
+	
 	**- Espaciado:**
 
 	No se incluye ningún tipo de espaciado especial.
