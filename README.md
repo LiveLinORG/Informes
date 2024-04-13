@@ -547,6 +547,14 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
  	Nuestro labeling system es una herramienta intuitiva y eficiente diseñada para organizar y clasificar contenido de manera fácil y precisa. Con una interfaz amigable, ya sea para categorizar artículos, filtrar resultados de búsqueda o crear una experiencia de usuario más fluida, nuestro sistema una solución versátil y adaptable a las necesidades.
 
   - 4.2.3. SEO Tags and Meta Tags.
+ 
+	Los meta tags son etiquetas HTML utilizadas para proporcionar información adicional sobre una página web. Estas etiquetas no se muestran directamente en la página, pero son fundamentales para los motores de búsqueda y otros servicios web que las utilizan para comprender y clasificar el contenido. Los meta tags incluyen metadatos importantes como el título de la página, la descripción, palabras clave relevantes y la codificación de caracteres. Optimizar adecuadamente los meta tags puede mejorar la visibilidad de una página en los motores de búsqueda y aumentar su relevancia para los usuarios.
+
+	- <meta charset="UTF-8">: Especifica la codificación de caracteres del documento como UTF-8, lo que permite el uso de caracteres especiales y emojis.
+	- <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define cómo se debe ajustar el contenido a diferentes dispositivos y tamaños de pantalla, lo que ayuda a que el sitio web sea responsive.
+
+
+
   - 4.2.4. Searching Systems.
   - 4.2.5. Navigation Systems.
 - 4.3. Landing Page UI Design.
