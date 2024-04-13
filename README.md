@@ -489,6 +489,9 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 - 4.1. Style Guidelines.
   - 4.1.1. General Style Guidelines.
+    
+Nuestra aplicación tiene como objetivo mejorar la experiencia virtual para enriquecer el aprendizaje. Por ello, nuestra compañía ha decidido elegir un conjunto de colores discretos que resalten el contenido importante para el usuario.
+
   - 4.1.2. Web Style Guidelines.
 - 4.2. Information Architecture.
   - 4.2.1. Organization Systems.
