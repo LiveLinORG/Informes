@@ -587,7 +587,172 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
     ![image](https://github.com/LiveLinORG/Informes/blob/main/images/NoteLive-ClassDiagram.jpg)
     
   - 4.6.2. Class Dictionary. <br>
+  
+    - User:
     
+	| Atributo     | Tipo de Dato | Descripción                                     |
+	|--------------|---------------|-------------------------------------------------|
+	| id           | int           | Identificador único del usuario.               |
+	| username     | string        | Nombre de usuario.                              |
+	| password     | string        | Contraseña del usuario.                         |
+	| firstname    | string        | Nombre del usuario.                             |
+	| lastname     | string        | Apellido del usuario.                           |
+	| phonenumber  | string        | Número de teléfono del usuario.                 |
+	| email        | string        | Correo electrónico del usuario.                |
+	| usertype     | string        | Tipo de usuario (profesor/alumno).              |
+	| membership   | Membership    | Tipo de membresía del usuario.                  |
+	
+	| Método                                 | Descripción                                           |
+	|----------------------------------------|-------------------------------------------------------|
+	| changeName(firstname, lastname)       | Cambia el nombre completo del usuario.               |
+	| changeUsername(username)              | Cambia el nombre de usuario.                          |
+	| changePassword(password)              | Cambia la contraseña del usuario.                     |
+	| changePhonenumber(phonenumber)        | Cambia el número de teléfono del usuario.             |
+	| changeEmail(email)                    | Cambia el correo electrónico del usuario.             |
+	| putchaseMembership(membership)        | Adquiere una membresía para el usuario.               |
+
+
+    - Membership:
+    
+	| Atributo    | Tipo de Dato | Descripción                                         |
+	|-------------|---------------|-----------------------------------------------------|
+	| id          | int           | Identificador único de la membresía.                |
+	| activate    | bool          | Indica si la membresía está activa o no.           |
+	| membertype  | string        | Tipo de membresía (premium, estándar, etc.).        |
+	
+	| Método                             | Descripción                                        |
+	|------------------------------------|----------------------------------------------------|
+	| activateMembership(activate)       | Activa o desactiva la membresía.                   |
+
+
+    - ChatBox:
+      
+	| Atributo    | Tipo de Dato | Descripción                                          |
+	|-------------|---------------|------------------------------------------------------|
+	| id          | int           | Identificador único del chat.                        |
+	| content     | string        | Contenido del chat.                                  |
+	| bold        | bool          | Indica si el texto es en negrita.                    |
+	| italic      | bool          | Indica si el texto es en cursiva.                    |
+	| underline   | bool          | Indica si el texto está subrayado.                   |
+	
+	| Método                             | Descripción                                         |
+	|------------------------------------|-----------------------------------------------------|
+	| send(content)                     | Envía un mensaje en el chat.                        |
+	| edit(content)                     | Edita un mensaje previamente enviado en el chat.    |
+	| delete(content)                   | Elimina un mensaje del chat.                        |
+
+
+    - Whiteboard:
+      
+	| Atributo    | Tipo de Dato | Descripción                                |
+	|-------------|---------------|--------------------------------------------|
+	| id          | int           | Identificador único del pizarrón.         |
+	| tools       | Tool          | Herramientas disponibles en el pizarrón. |
+	
+	| Método                             | Descripción                                |
+	|------------------------------------|--------------------------------------------|
+	| draw(tools)                        | Dibuja utilizando las herramientas.        |
+	| delete(tool)                       | Elimina una herramienta del pizarrón.     |
+
+
+    - Tool:
+      
+	| Atributo    | Tipo de Dato | Descripción                                |
+	|-------------|---------------|--------------------------------------------|
+	| id          | int           | Identificador único de la herramienta.    |
+	| texts       | Text          | Textos disponibles.                        |
+	| rectangles  | Rectangle     | Rectángulos disponibles.                   |
+	| lines       | Line          | Líneas disponibles.                        |
+	
+	| Método                             | Descripción                                |
+	|------------------------------------|--------------------------------------------|
+	| chooseTool()                       | Selecciona una herramienta.                |
+
+
+    - Text:
+      
+	| Atributo    | Tipo de Dato | Descripción                                |
+	|-------------|---------------|--------------------------------------------|
+	| content     | string        | Contenido del texto.                       |
+	| position    | point         | Posición del texto en el pizarrón.        |
+	| color       | string        | Color del texto.                           |
+	| fontSize    | int           | Tamaño de fuente del texto.                |
+	| fontFamily  | string        | Fuente del texto.                          |
+
+
+    - Rectangle:
+      
+	| Atributo    | Tipo de Dato | Descripción                                |
+	|-------------|---------------|--------------------------------------------|
+	| position    | point         | Posición del rectángulo en el pizarrón.   |
+	| color       | string        | Color del rectángulo.                      |
+	| size        | Size          | Tamaño del rectángulo.                     |
+	| filled      | bool          | Indica si el rectángulo está relleno.      |
+
+    - Line:
+      
+	| Atributo    | Tipo de Dato | Descripción                                |
+	|-------------|---------------|--------------------------------------------|
+	| start       | point         | Punto de inicio de la línea.               |
+	| end         | point         | Punto final de la línea.                   |
+	| color       | string        | Color de la línea.                         |
+	| thickness   | int           | Grosor de la línea.                        |
+
+
+    - Presentation:
+      
+	| Atributo    | Tipo de Dato | Descripción                                |
+	|-------------|---------------|--------------------------------------------|
+	| id          | int           | Identificador único de la presentación.   |
+	| title       | string        | Título de la presentación.                 |
+	| description | string        | Descripción de la presentación.            |
+	| resources   | Resource      | Recursos asociados a la presentación.     |
+	
+	| Método                             | Descripción                                       |
+	|------------------------------------|---------------------------------------------------|
+	| selectResource(resources)          | Selecciona un recurso para la presentación.       |
+
+
+    - Resource:
+      
+	| Atributo    | Tipo de Dato | Descripción                                |
+	|-------------|---------------|--------------------------------------------|
+	| id          | int           | Identificador único del recurso.           |
+	| type        | ResourceType  | Tipo de recurso.                           |
+	| url         | string        | URL del recurso.                           |
+
+
+    - Session:
+      
+	| Atributo     | Tipo de Dato | Descripción                                         |
+	|--------------|---------------|-----------------------------------------------------|
+	| id           | int           | Identificador único de la sesión.                   |
+	| teachers     | User          | Usuarios que son profesores en la sesión.            |
+	| students     | User          | Usuarios que son alumnos en la sesión.              |
+	| chatbox      | ChatBox       | Chat utilizado en la sesión.                         |
+	| whiteboards  | Whiteboard    | Pizarrones utilizados en la sesión.                  |
+	| presentations| Presentation  | Presentaciones utilizadas en la sesión.              |
+	| startTime    | DateTime      | Hora de inicio de la sesión.                         |
+	| endTime      | DateTime      | Hora de finalización de la sesión.                   |
+	| maxAttendees | int           | Máximo número de asistentes permitidos en la sesión. |
+	
+	| Método                                 | Descripción                                               |
+	|----------------------------------------|-----------------------------------------------------------|
+	| presentBoard(whiteboards, presentations) | Presenta los pizarrones y presentaciones durante la sesión.  |
+	| recordSession(startTime, endTime)     | Registra la sesión con su hora de inicio y finalización.   |
+
+
+   - NoteLive:
+     
+	| Atributo   | Tipo de Dato | Descripción                                   |
+	|------------|---------------|-----------------------------------------------|
+	| users      | User          | Usuarios de la aplicación.                    |
+	| sessions   | Session       | Sesiones disponibles en la aplicación.        |
+	|
+	| Método                             | Descripción                                       |
+	|------------------------------------|---------------------------------------------------|
+	| joinSession(users, sessions)       | Une a los usuarios a las sesiones disponibles.   |
+
     
 - 4.7. Database Design.
   - 4.7.1. Database Diagram. <br>
