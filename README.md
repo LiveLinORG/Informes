@@ -525,19 +525,36 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorFFB740.png)
 
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorffd8ba.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorffe8d6.png)
+
 	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColordf711b.png)
 
 	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorf7a072.png)
 
 	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorfde49c.png)
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorffd8ba.png)
-
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorffe8d6.png)
 
 	**- Colores secundarios:**
 
 	Los colores secundarios se han elegido para acentuar y complementar la paleta principal, añadiendo contraste y profundidad visual. Entre estos colores secundarios se encuentran tonos más intensos, como un azul marino profundo, un azul púrpura y un verde esmeralda, que se utilizan de manera estratégica para resaltar elementos clave dentro de la interfaz de la aplicación, aportando dinamismo y vitalidad sin comprometer la armonía general del diseño.
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColor3498DB.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColor6C5B7B.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColorFF9F1C.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColorf6ddbe.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColor2ecc71.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColoreafff1.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColorf7c991.png)
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColorfaba6d.png)
 
 	**Lenguaje Aplicado**
 
@@ -553,7 +570,11 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 	En caso de requerirse, se pueden emplear diferentes tamaños. Sin embargo, el tamaño del botón "Empezar" debe ser siempre superior al tamaño mediano. Esta distinción se utilizará para resaltar la importancia del botón, siendo el más grande el más relevante.
 
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Comparaci%C3%B3n.png)
+
 	También se ha definido la apariencia de los botones en sus diferentes estados:
+
+	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Estados.png)
 
 	**Logo**
 	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/LogoConFondo.jpeg)
