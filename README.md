@@ -101,7 +101,18 @@
 	* Mayor Confianza y Satisfacción: Al facilitar una comunicación más fluida y efectiva con el profesor y los compañeros de clase, LiveLin busca aumentar la confianza y la satisfacción de los estudiantes con su experiencia educativa, promoviendo un ambiente de aprendizaje más positivo y enriquecedor.
   
     - 1.2.2.3. Lean UX Hypothesis Statements.
-    - 1.2.2.4. Lean UX Canvas.
+      
+	* Hipótesis 1: Creemos que mejorar la visibilidad y la comunicación en el aula a través de LiveLin conducirá a un aumento en el rendimiento académico de los estudiantes. Sabremos esto cuando observemos un aumento en las calificaciones y la participación en clase después de la implementación de LiveLin.
+
+	* Hipótesis 2: Creemos que la facilidad de acceso y uso de LiveLin aumentará la adopción y la satisfacción de los usuarios. Sabremos esto cuando veamos un incremento en la frecuencia de uso de LiveLin y una disminución en las tasas de abandono de la plataforma.
+
+	* Hipótesis 3: Creemos que la personalización de la experiencia educativa a través de LiveLin aumentará la participación y el compromiso de los estudiantes. Sabremos esto cuando notemos una mayor interacción de los estudiantes con el contenido y una mejora en sus niveles de compromiso con el aprendizaje.
+
+	* Hipótesis 4: Creemos que la reducción de la brecha de comunicación en el aula a través de LiveLin mejorará la percepción de los estudiantes sobre la calidad de la enseñanza. Sabremos esto cuando observemos un aumento en la satisfacción de los estudiantes con la comunicación con los profesores y la comprensión del material.
+
+	* Hipótesis 5: Creemos que la implementación de LiveLin en las instituciones educativas aumentará su atractivo para estudiantes potenciales. Sabremos esto cuando veamos un aumento en la matrícula de estudiantes y una mejora en la reputación de la institución como resultado de la adopción de LiveLin.
+  
+- 1.2.2.4. Lean UX Canvas.
 - 1.3. Segmentos objetivo.
   
 1. **Estudiantes Universitarios**:
