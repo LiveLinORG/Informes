@@ -567,7 +567,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 	**- Inicio** (`<div class="navInicio">Inicio</div>`): Este enlace dirige a los usuarios a la página principal del sitio web.
 
-	**- ¿Qué es LiveLin?** (`<div class="navInfo">¿Qué es NoteLive?</div>`): Este enlace proporciona información sobre qué es NoteLive y cómo funciona.
+	**- ¿Qué es NoteLive?** (`<div class="navInfo">¿Qué es NoteLive?</div>`): Este enlace proporciona información sobre qué es NoteLive y cómo funciona.
 
 	**- Usos** (`<div class="navUsos">Usos</div>`): Este enlace lleva a los usuarios a una página que describe los diversos usos de NoteLive.
 
