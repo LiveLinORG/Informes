@@ -512,13 +512,31 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 	**- Colores principales:**
 
-	La elección de colores principales se basa en una paleta de tonos pastel, basados en el color anaranjado, que transmiten calma, serenidad y una sensación de frescura. Estos colores principales se complementan con una selección de tonos neutros en la letra, como gris claro y blanco, que proporcionan equilibrio y permiten que los colores principales destaquen sin abrumar al usuario.
+	La elección de colores principales se basa en una paleta de tonos pastel, basados en el color anaranjado, que transmiten calma, serenidad y una sensación de frescura. Estos colores principales se complementan con una selección de tonos neutros en la letra, como negro y blanco, que proporcionan equilibrio y permiten que los colores principales destaquen sin abrumar al usuario.
 
 	**- Colores secundarios:**
 
 	Los colores secundarios se han elegido para acentuar y complementar la paleta principal, añadiendo contraste y profundidad visual. Entre estos colores secundarios se encuentran tonos más intensos, como un azul marino profundo, un azul púrpura y un verde esmeralda, que se utilizan de manera estratégica para resaltar elementos clave dentro de la interfaz de la aplicación, aportando dinamismo y vitalidad sin comprometer la armonía general del diseño.
 
+	**Lenguaje Aplicado**
+
+	El lenguaje que aplicamos es carácter formal pero amigable. Debido a que nuestra aplicación está dirigida a estudiantes y profesores de diversas intituciones, queremos trasmitir que nuestra aplicación es una excelente herramienta completa y sencilla de utilizar. Además, la formalidad al hablar permite que no existan discrepancias entre lo que se dice y el mensaje que se quiere enviar.
+
   - 4.1.2. Web Style Guidelines.
+
+	En este apartado, presentaremos algunas de las elecciones de nuestra guía de diseño. Tal como indica su nombre, cualquier página web vinculada a nuestro contenido y desarrollada por nosotros debe adherirse a esta guía de estilos.
+
+      **Botones**
+
+	Se definen 2 tamaños específicos que los botones utilizan:
+
+	En caso de requerirse, se pueden emplear diferentes tamaños. Sin embargo, el tamaño del botón "Empezar" debe ser siempre superior al tamaño mediano. Esta distinción se utilizará para resaltar la importancia del botón, siendo el más grande el más relevante.
+
+	También se ha definido la apariencia de los botones en sus diferentes estados:
+
+	**Logo**
+
+
 - 4.2. Information Architecture.
   - 4.2.1. Organization Systems.
   - 4.2.2. Labeling Systems.
