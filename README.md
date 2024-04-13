@@ -586,9 +586,14 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
     A continuación, se presenta el diagrama de clases de NoteLive elaborado en StarUML:
     ![image](https://github.com/LiveLinORG/Informes/blob/main/images/NoteLive-ClassDiagram.jpg)
     
-  - 4.6.2. Class Dictionary.
+  - 4.6.2. Class Dictionary. <br>
+    
+    
 - 4.7. Database Design.
-  - 4.7.1. Database Diagram.
+  - 4.7.1. Database Diagram. <br>
+    EL diagrama de la base de datos fue realizada en Vertabelo. A continuación, se adjunta la imagen:
+    ![image](https://github.com/LiveLinORG/Informes/blob/main/images/NoteLive-Database-2024-04-12_20-00.png)
+    Link: https://my.vertabelo.com/doc/Ep8TNV6YE7JK7SxGi013UZiFbiPT5WFw
 
 ### 5. Capítulo V: Product Implementation, Validation & Deployment
 
