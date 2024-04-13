@@ -493,6 +493,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 	Nuestra aplicación tiene como objetivo mejorar la experiencia virtual para enriquecer el aprendizaje. Por ello, nuestra compañía ha decidido elegir un conjunto de colores discretos que resalten el contenido importante para el usuario.
 
 	**Tipografía**
+
 	**Tipo de letra:**
 
 	Se ha elegido la tipografía Roboto, con variaciones en el tamaño de letra dependiendo del lugar en el que se encuentre, como puede ser título o subtítulo.
