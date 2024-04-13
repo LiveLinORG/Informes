@@ -506,6 +506,18 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 	No se incluye ningún tipo de espaciado especial.
 
+	**Colores**
+
+	Se escogió una paleta de colores pastel para los fondos de la aplicación. Esta elección fue debido a que estos colores trasmiten suna sensación de calma y suavidad, creando un ambiente acogedor y agradable para los usuarios. Los tonos pastel también son conocidos por su capacidad para generar una atmósfera relajante y armoniosa, lo que contribuye a mejorar la experiencia del usuario al interactuar con la aplicación. Además, estos colores suelen ser visualmente atractivos y tienen la ventaja de ser versátiles, lo que facilita su combinación con otros elementos de diseño.
+
+	**- Colores principales:**
+
+	La elección de colores principales se basa en una paleta de tonos pastel, basados en el color anaranjado, que transmiten calma, serenidad y una sensación de frescura. Estos colores principales se complementan con una selección de tonos neutros en la letra, como gris claro y blanco, que proporcionan equilibrio y permiten que los colores principales destaquen sin abrumar al usuario.
+
+	**- Colores secundarios:**
+
+	Los colores secundarios se han elegido para acentuar y complementar la paleta principal, añadiendo contraste y profundidad visual. Entre estos colores secundarios se encuentran tonos más intensos, como un azul marino profundo, un azul púrpura y un verde esmeralda, que se utilizan de manera estratégica para resaltar elementos clave dentro de la interfaz de la aplicación, aportando dinamismo y vitalidad sin comprometer la armonía general del diseño.
+
   - 4.1.2. Web Style Guidelines.
 - 4.2. Information Architecture.
   - 4.2.1. Organization Systems.
