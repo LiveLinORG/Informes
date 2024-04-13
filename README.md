@@ -565,12 +565,17 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 	En particular, nuestro Navigation System está representada por la sección **<section class="navtop">**. Dentro de esta sección, hay varios elementos que funcionan como enlaces de navegación:
 
-**- Inicio (`<div class="navInicio">Inicio</div>`)**: Este enlace dirige a los usuarios a la página principal del sitio web.
-**- ¿Qué es NoteLive? (`<div class="navInfo">¿Qué es NoteLive?</div>`)**: Este enlace proporciona información sobre qué es NoteLive y cómo funciona.
-**- Usos (`<div class="navUsos">Usos</div>`)**: Este enlace lleva a los usuarios a una página que describe los diversos usos de NoteLive.
-**- Galería (`<div class="navGallery">Galería</div>`)**: Este enlace lleva a los usuarios a una galería de imágenes o recursos relacionados.
-**- Iniciar sesión (`<div class="navlog">Iniciar sesión</div>`)**: Este enlace dirige a los usuarios a la página de inicio de sesión para acceder a su cuenta.
-**- Registro (`<div class="navregister">Registro</div>`)**: Este enlace lleva a los usuarios a la página de registro donde pueden crear una cuenta nueva.
+**- Inicio** (`<div class="navInicio">Inicio</div>`): Este enlace dirige a los usuarios a la página principal del sitio web.
+
+**- ¿Qué es LiveLin?** (`<div class="navInfo">¿Qué es LiveLin?</div>`): Este enlace proporciona información sobre qué es LiveLin y cómo funciona.
+
+**- Usos** (`<div class="navUsos">Usos</div>`): Este enlace lleva a los usuarios a una página que describe los diversos usos de LiveLin.
+
+**- Galería** (`<div class="navGallery">Galería</div>`): Este enlace lleva a los usuarios a una galería de imágenes o recursos relacionados.
+
+**- Iniciar sesión** (`<div class="navlog">Iniciar sesión</div>`): Este enlace dirige a los usuarios a la página de inicio de sesión para acceder a su cuenta.
+
+**- Registro** (`<div class="navregister">Registro</div>`): Este enlace lleva a los usuarios a la página de registro donde pueden crear una cuenta nueva.
 
 - 4.3. Landing Page UI Design.
   - 4.3.1. Landing Page Wireframe.
