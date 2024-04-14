@@ -1009,7 +1009,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 |APOGamer/LiveLinORG<br>/FrontEnd|Main|47bef22291| | | |
 |APOGamer/LiveLinORG<br>/FrontEnd|Main|2a836c499e| | | |
 |JCarbajal22/LiveLinORG<br>/FrontEnd|Main|d867e4d88f| | | |
-|Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|b3aabb1055| | | |
+|Rrenzosilva/LiveLinORG<br>/Informes|Main|0a7f01c|Update README.md|Update Colores, colores principales y colores secundarios|12/04/2024|
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|4524d2e6bd| | | |
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|df60b4b190| | | |
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|6948049460| | | |
@@ -1017,14 +1017,14 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|2518c2a9dd| | | |
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|6347a2351d| | | |
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|a770865894| | | |
-|Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|3da62d2b18| | | |
+|Rrenzosilva/LiveLinORG<br>/Informes|Main|7afdab2|Update README.md|Update 4.1.2|12/04/2024|
 |APOGamer/LiveLinORG<br>/FrontEnd|Main|2a64d8a75b| | | |
 |APOGamer/LiveLinORG<br>/FrontEnd|Main|70d9639e89| | | |
 |APOGamer/LiveLinORG<br>/FrontEnd|Main|515d752402| | | |
-|Rrenzosilva/LiveLinORG<br>/FrontEnd|Responsive|b30b72bb20| | | |
-|Rrenzosilva/LiveLinORG<br>/FrontEnd|Responsive|491f06fad2| | | |
-|Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|491f06fad2| | | |
-|Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|6359222392| | | |
+|Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|81671f0|Update styles.css|update addiotional features|02/04/2024|
+|Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|a8c9cab|Update styles.css|Update Estilos para Testimonios de Usuarios|02/04/2024|
+|Rrenzosilva/LiveLinORG<br>/Informes|Main|08f06b2|Update README.md|Update Navigation System|13/04/2024|
+|Rrenzosilva/LiveLinORG<br>/Informes|Main|627cf6c|Update README.md|Add images|13/04/2024|
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|878f958fea| | | |
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|d600d2754e| | | |
 
