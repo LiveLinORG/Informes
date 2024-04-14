@@ -45,6 +45,7 @@
 | 1.0       |  2024/03/24    |Palma Obispo, Adrián Enrique Jesús | Creación del documento de trabajo en formato markdown y creación del código base. | 
 | 1.1       |  2024/03/25    |Joaquin Alonso Carbajal Pozzo| Merge de pull request para las branch del trabajo de capitulos | 
 | 2.0       |  2024/03/25    |Erick Joaquin Palomino Santa Cruz |Diseño y creación de entrevistas | 
+| 2.0       |  2024/03/26    |Renzo Cesar Silva Morales |Diseño de Style Guidelines | 
 
 
 
