@@ -744,7 +744,6 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
     ![image](https://github.com/LiveLinORG/Informes/assets/48342953/5a3aa1e8-d121-4cee-8c0a-79243615336d)
 
   - 4.3.2. Landing Page Mock-up.
-    (parte erick, si no está hecho es por él)
 
 - 4.4. Web Applications UX/UI Design.
   - 4.4.1. Web Applications Wireframes.
@@ -1104,7 +1103,10 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|7c1a53e|fix: Color Integrations | |Apr 12, 2024 |
 |APOGamer/LiveLinORG<br>/FrontEnd|Main|944be65|Add: Creacion del FrontEnd | |Mar 24, 2024|
 |APOGamer/LiveLinORG<br>/FrontEnd|Main|6eab557|Feat: Nuevas secciones | | Apr 1, 2024|
-|JCarbajal22/LiveLinORG<br>/FrontEnd|Main|d867e4d88f| | | |
+|JCarbajal22/LiveLinORG<br>/Informes|Main|09b65ea|antecedentes y problemática||Mar 28, 2024|
+|JCarbajal22/LiveLinORG<br>/Informes|Main|b6506c6|Update README.md|Feat: Mock-ups|Apr 9, 2024|
+|JCarbajal22/LiveLinORG<br>/Informes|Main|b376585|Feat: domain driven software arquitecture| | Apr 11, 2024 |
+|JCarbajal22/LiveLinORG<br>/Informes|Main|7da2322|Update README.md|Feat: Web App User Diagrams| Apr 9, 2024 |
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|0a7f01c|Update README.md|Update Colores, colores principales y colores secundarios|12/04/2024|
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|4524d2e6bd| | | |
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|df60b4b190| | | |
@@ -1313,6 +1315,7 @@ Durante este sprint, se completaron las siguientes tareas:
       | Palma Obispo, Adrián Enrique Jesús   | Desarrollo Responsivo, Estructura  |
       | Palomino Santa Cruz, Erick Joaquin      | Aspectos Principales CSS, Clases |
       | Silva Morales, Renzo Cesar      | Aspectos Secundarios CSS |
+      | Carbajal Pozzo, Joaquín Alonso  | Aspectos CSS, Desarollo de carátula en WebApp prototype|
 
  
       Hemos desarrollado en conjunto un total de 47 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
@@ -1324,6 +1327,8 @@ Durante este sprint, se completaron las siguientes tareas:
       | APOgamer  | Palma Obispo, Adrián Enrique Jesús      |
       | erickpalomino1923       | Palomino Santa Cruz, Erick Joaquin  |
       | rrenzosilva       | Silva Morales, Renzo Cesar  |
+      | JCarbajal22		| Carbajal Pozzo, Joaquín Alonso|
+
 
 
 
