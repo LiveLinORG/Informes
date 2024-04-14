@@ -1014,7 +1014,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
   - 4.7.1. Database Diagram. <br>
     EL diagrama de la base de datos fue realizada en Vertabelo. A continuación, se adjunta la imagen:
     <img src="images/NoteLive-Database-2024-04-12_20-00.png">
-    Link: https://my.vertabelo.com/doc/Ep8TNV6YE7JK7SxGi013UZiFbiPT5WFw
+    Link: <br> https://my.vertabelo.com/public-model-view/fuS8RWFvR1OHpcwngaR9so1dVVo0nB8OVzBqTJaKeoAfGmtmpp938Kf4dVDGMS5Q?x=3114&y=3451&zoom=0.5143
 
 ### 5. Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1393,5 +1393,5 @@ Figma: [Diseño en Figma para Page Wireframe ](https://www.figma.com/file/4Z0ziD
 
 Figma: [WebApp Wireframe & Mock-Up](https://www.figma.com/file/gvGs7MxjUdjNzR6IM1BGZT/Untitled?type=design&node-id=0%3A1&mode=design&t=YWgUe305ff0ZTPIV-1)
 
-Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/Ep8TNV6YE7JK7SxGi013UZiFbiPT5WFw)
+Vertabelo: [Database Diagram](https://my.vertabelo.com/public-model-view/fuS8RWFvR1OHpcwngaR9so1dVVo0nB8OVzBqTJaKeoAfGmtmpp938Kf4dVDGMS5Q?x=3114&y=3451&zoom=0.5143 )
 
