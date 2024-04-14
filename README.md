@@ -62,7 +62,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | Joaquín Alonso Carbajal Pozzo|Figma, Diseño de la web app, Domain Driven Design, Solution profile|
 | Erick Joaquin Palomino Santa Cruz| Capitulo III, Capitulo II, Implementar Convenios a la landing page, elaborar figma, anexos, acceptance test e informe de participación|
 | Piero Alonso Martinez Villanueva |Entrevistas, Capítulo I|
-| Renzo Cesar Silva Morales |Capítulo 4|
+| Renzo Cesar Silva Morales |Style Guidelines, Information Architecture|
 
 Evidencias del Insights Contributos de los commits del informe:
 ![image](https://github.com/LiveLinORG/Informes/assets/48342953/cf95a454-2510-4ef1-87f2-d8d2ef2f060f)
