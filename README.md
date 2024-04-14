@@ -1386,4 +1386,3 @@ Figma: [WebApp Wireframe & Mock-Up](https://www.figma.com/file/gvGs7MxjUdjNzR6IM
 
 Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/Ep8TNV6YE7JK7SxGi013UZiFbiPT5WFw)
 
-Miro: [Diseño](https://www.canva.com/design/DAGCQxkOX64/ZWWViq52z0iVc6WhdRgG4A/view?utm_content=DAGCQxkOX64&utm_campaign=designshare&utm_medium=link&utm_source=editor)
