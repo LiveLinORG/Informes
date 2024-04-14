@@ -1382,8 +1382,8 @@ Repositorio GitHub Informe: [Ver enlace](https://github.com/LiveLinORG/Informes)
 
 Figma: [Diseño en Figma para Page Wireframe ](https://www.figma.com/file/4Z0ziDhl6HGJQe6kU7grgV/Landing-Page-MockUP%2C-UI-DESIGN-Wireframe?type=design&node-id=0%3A1&mode=design&t=u6ED4go6SqCr2V73-1)
 
-Figma: [El integrante no contestó la petición para pasar el link Joaquin]()
+Figma: [WebApp Wireframe & Mock-Up](https://www.figma.com/file/gvGs7MxjUdjNzR6IM1BGZT/Untitled?type=design&node-id=0%3A1&mode=design&t=YWgUe305ff0ZTPIV-1)
 
 Vertabelo: [Database Diagram](https://my.vertabelo.com/doc/Ep8TNV6YE7JK7SxGi013UZiFbiPT5WFw)
 
-Miro: [Diseño](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0)
+Miro: [Diseño](https://www.canva.com/design/DAGCQxkOX64/ZWWViq52z0iVc6WhdRgG4A/view?utm_content=DAGCQxkOX64&utm_campaign=designshare&utm_medium=link&utm_source=editor)
