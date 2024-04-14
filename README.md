@@ -1006,21 +1006,14 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 |----------|------|---------|--------------|-------------------|------------------|
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|f2dd6d8731| | | |
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|674d37b56c| | | |
-|APOGamer/LiveLinORG<br>/FrontEnd|Main|47bef22291| | | |
-|APOGamer/LiveLinORG<br>/FrontEnd|Main|2a836c499e| | | |
+|APOGamer/LiveLinORG<br>/FrontEnd|Main||944be65 |Add: Creacion del FrontEnd |Mar 24, 2024|
+|APOGamer/LiveLinORG<br>/FrontEnd|Main||6eab557 |Feat: Nuevas secciones | Apr 1, 2024|
 |JCarbajal22/LiveLinORG<br>/FrontEnd|Main|d867e4d88f| | | |
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|0a7f01c|Update README.md|Update Colores, colores principales y colores secundarios|12/04/2024|
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|4524d2e6bd| | | |
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|df60b4b190| | | |
-|Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|6948049460| | | |
-|Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|cffd774c83| | | |
-|Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|2518c2a9dd| | | |
-|Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|6347a2351d| | | |
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|a770865894| | | |
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|7afdab2|Update README.md|Update 4.1.2|12/04/2024|
-|APOGamer/LiveLinORG<br>/FrontEnd|Main|2a64d8a75b| | | |
-|APOGamer/LiveLinORG<br>/FrontEnd|Main|70d9639e89| | | |
-|APOGamer/LiveLinORG<br>/FrontEnd|Main|515d752402| | | |
 |Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|81671f0|Update styles.css|update addiotional features|02/04/2024|
 |Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|a8c9cab|Update styles.css|Update Estilos para Testimonios de Usuarios|02/04/2024|
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|08f06b2|Update README.md|Update Navigation System|13/04/2024|
