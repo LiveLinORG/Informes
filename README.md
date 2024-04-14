@@ -657,7 +657,12 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 - 4.3. Landing Page UI Design.
   - 4.3.1. Landing Page Wireframe.
+    ![image](https://github.com/LiveLinORG/Informes/assets/48342953/28cc65b9-ab2a-43a8-acea-a8a5cc12b246)
+    ![image](https://github.com/LiveLinORG/Informes/assets/48342953/5a3aa1e8-d121-4cee-8c0a-79243615336d)
+
   - 4.3.2. Landing Page Mock-up.
+    (parte erick, si no está hecho es por él)
+
 - 4.4. Web Applications UX/UI Design.
   - 4.4.1. Web Applications Wireframes.
     
@@ -1132,69 +1137,46 @@ Feature: US20: Tarjetas de Notas (Note Live Cards)
 
 Durante este sprint, se completaron las siguientes tareas:
 
-1. **Mejoras de Accesibilidad:**
-   - Se aseguró que el sitio web sea accesible para usuarios con discapacidades, incluyendo la navegación por teclado y el uso de lectores de pantalla.
-
-2. **Validación de HTML y CSS:**
+1. **Validación de HTML y CSS:**
    - Se validó el código HTML y CSS para asegurar que cumpla con los estándares y no contenga errores.
+	![image](https://github.com/LiveLinORG/Informes/assets/48342953/6c7070cf-84b2-4954-956a-4ccc649a4fea)
 
-3. **Optimización de Carga:**
-   - Se optimizó el tiempo de carga del sitio web para mejorar la experiencia del usuario.
-
-4. **Añadir Interactividad:**
-   - Se implementó interactividad en elementos como botones y enlaces para mejorar la usabilidad.
-
-5. **Mejoras de SEO:**
-   - Se optimizó el sitio web para mejorar su visibilidad en los motores de búsqueda.
-
-6. **Refactorización de Clases y Selectores:**
-   - Se revisaron y refactorizaron las clases y selectores en el CSS para mejorar la legibilidad y mantenibilidad del código.
-
-7. **Pruebas de Cross-Browser:**
+6. **Pruebas de Cross-Browser:**
    - Se realizaron pruebas exhaustivas en diferentes navegadores para asegurar la compatibilidad y el rendimiento del sitio web.
-
-8. **Documentación:**
-   - Se documentó el código HTML y CSS para facilitar el mantenimiento futuro y la colaboración entre desarrolladores.
-
-9. **Implementación de Funcionalidades Faltantes:**
-   - Se completó la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web.
-
-10. **Seguridad:**
-    - Se implementaron medidas de seguridad apropiadas para proteger el sitio web contra vulnerabilidades y ataques maliciosos.
-
-11. **Actualización de Contenido:**
-    - Se actualizó el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.
-
-12. **Gestión de Errores y Excepciones:**
-    - Se implementó manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.
-
-13. **Integración de Diseño de Interfaces:**
-    - Se integró el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web.
-
-14. **Cabecera (Header):**
+	
+13. **Cabecera (Header):**
     - Se definió la estructura de la cabecera con secciones como el logo y los elementos de navegación.
+	![image](https://github.com/LiveLinORG/Informes/assets/48342953/cd61a00f-82e3-4747-9605-ed313b2a4ceb)
 
-15. **Diseño Responsivo:**
+14. **Diseño Responsivo:**
     - Se utilizó técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla.
+	![image](https://github.com/LiveLinORG/Informes/assets/48342953/3282c9a8-a3ff-4230-9d44-5e6c98ee6108)
 
-16. **Estilos de Navegación:**
+15. **Estilos de Navegación:**
     - Se aplicaron estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.
+	![image](https://github.com/LiveLinORG/Informes/assets/48342953/13647260-a3df-4b0c-96fe-7654e7646d8c)
 
-17. **Contenedor Principal:**
+16. **Contenedor Principal:**
     - Se definió el contenedor principal del sitio web con una estructura de grid y secciones para organizar el contenido.
+	![image](https://github.com/LiveLinORG/Informes/assets/48342953/367f6e60-3e87-4bf8-97f7-8dedcb4f1383)
 
-18. **Sección de Aterrizaje (Landing):**
+17. **Sección de Aterrizaje (Landing):**
     - Se creó una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.
+	![image](https://github.com/LiveLinORG/Informes/assets/48342953/969eb7e7-ba3b-4621-be2f-bd882df01828)
 
-19. **Estilos de Botón:**
-    - Se aplicaron estilos CSS a los botones, incluyendo colores, sombras y efectos de hover.
+18. **Estilos de Botón:**
+    - Se aplicaron estilos CSS a los botones, incluyendo colores, sombras y efectos de hover. (imagen on hover)
+	![image](https://github.com/LiveLinORG/Informes/assets/48342953/d51742c5-5c6b-4498-8f83-8af95aec6dd7)
 
-20. **Tarjetas de Notas (Note Live Cards):**
+19. **Tarjetas de Notas (Note Live Cards):**
     - Se definieron tarjetas de notas para mostrar información relevante de manera visualmente atractiva.
+	![image](https://github.com/LiveLinORG/Informes/assets/48342953/a73311a8-ac73-4c5e-9ad5-b940e31423fa)
 
 
 - 5.2.1.6. Services Documentation Evidence for Sprint Review.
-  Durante este sprint, se documentaron los servicios proporcionados por el sistema. La documentación de los servicios incluye detalles sobre la API, los puntos finales, los métodos admitidos, los parámetros requeridos y las respuestas esperadas. A continuación se presenta un resumen de la documentación de los servicios:
+  
+  Durante este sprint, se documentaron para su posterior codificación los servicios proporcionados por el sistema. La documentación de los servicios incluye detalles sobre la API, los puntos finales, los métodos admitidos, los parámetros requeridos y las respuestas esperadas. A continuación se presenta un resumen de la documentación de los servicios:
+
   1. **API de Usuarios:**
    - Endpoint: `/api/users`
    - Métodos admitidos: GET, POST, PUT, DELETE
@@ -1210,10 +1192,11 @@ Durante este sprint, se completaron las siguientes tareas:
 3. **API de Pedidos:**
    - Endpoint: `/api/orders`
    - Métodos admitidos: GET, POST
-   - Parámetros requeridos: Ninguno para GET, datos del pedido para POST
+   - Parametros requeridos: Ninguno para GET, datos del pedido para POST
    - Respuestas esperadas: Datos del pedido para GET, mensaje de confirmación para POST
 
 - 5.2.1.7. Software Deployment Evidence for Sprint Review.
+  
   Durante este sprint, se desplegó la versión actualizada del software en el entorno de producción. El proceso de implementación incluyó las siguientes etapas:
   
   1. **Pruebas de Integración:**
@@ -1246,9 +1229,7 @@ Durante este sprint, se completaron las siguientes tareas:
       |-------------------------------------|------------------------------------------------------------|
       | Palma Obispo, Adrián Enrique Jesús   | Desarrollo Responsivo, Estructura  |
       | Palomino Santa Cruz, Erick Joaquin      | Aspectos Princiapales CSS, Clases |
-      |     |     |
-      |  	|          |
-      | |  |
+
  
       Hemos desarrollado en conjunto un total de 47 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
  
@@ -1258,23 +1239,24 @@ Durante este sprint, se completaron las siguientes tareas:
       |-------------------------------------|------------------------------------------------------------|
       | APOgamer  | Palma Obispo, Adrián Enrique Jesús      |
       | erickpalomino1923       | Palomino Santa Cruz, Erick Joaquin  |
-      |     |      |
-      | 	|     |
-      | |    |
 
 
-      ![Imagen de WhatsApp 2024-04-14 a las 01 26 21_0e317867](https://github.com/LiveLinORG/Informes/assets/127764958/63a753c1-2f88-4519-a0d7-80fd51a78df9)
 
-        
+      ![Imagen de WhatsApp 2024-04-14 a las 01 26 21_0e317867](https://github.com/LiveLinORG/Informes/assets/127764958/63a753c1-2f88-4519-a0d7-80fd51a78df9)        
     
 
 
  
 - 5.3. Validation Interviews.
+  
 - 5.3.1. Diseño de Entrevistas.
+  
 - 5.3.2. Registro de Entrevistas.
+  
 - 5.3.3. Evaluaciones según heurísticas.
+  
 - 5.3.4. Video About-the-Product.
+  
 
 ## Conclusiones
 
