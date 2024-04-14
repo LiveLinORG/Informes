@@ -1311,7 +1311,8 @@ Durante este sprint, se completaron las siguientes tareas:
       | Alumno                              | Actividad                                                  |
       |-------------------------------------|------------------------------------------------------------|
       | Palma Obispo, Adrián Enrique Jesús   | Desarrollo Responsivo, Estructura  |
-      | Palomino Santa Cruz, Erick Joaquin      | Aspectos Princiapales CSS, Clases |
+      | Palomino Santa Cruz, Erick Joaquin      | Aspectos Principales CSS, Clases |
+      | Silva Morales, Renzo Cesar      | Aspectos Secundarios CSS |
 
  
       Hemos desarrollado en conjunto un total de 47 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
