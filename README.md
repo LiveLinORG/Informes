@@ -58,7 +58,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | Integrante                            | Tareas Designadas       |
 |-----------------------------------|--------------|
 | Adrián Enrique Jesús Palma Obispo| Creación de la base de la Landing, Capítulo V, Conclusiones y Tabla de Testing Evidence, wifeframe mobile y dekstop, anexos, bibliografia, deployment |
-| Joaquín Alonso Carbajal Pozzo|Figma, Diseño de la web app|
+| Joaquín Alonso Carbajal Pozzo|Figma, Diseño de la web app, Domain Driven Design, Solution profile|
 | Erick Joaquin Palomino Santa Cruz| Capitulo III, Capitulo II, Implementar Convenios a la landing page, elaborar figma, anexos, acceptance test e informe de participación|
 | Piero Alonso Martinez Villanueva |Entrevistas, Capítulo I|
 | Renzo Cesar Silva Morales |Capítulo 4|
