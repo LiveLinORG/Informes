@@ -1372,7 +1372,7 @@ Durante este sprint, se completaron las siguientes tareas:
 ## Anexos
 Enlace para acceder a la landing page: [Ver enlace](https://notelive.netlify.app/)
 
-Videos de todas las entrevistas subido a stream:
+Videos de todas las entrevistas:
 - [ Ver enlace](https://youtu.be/iZBerMLXzHU)
 - [Ver enlace](https://youtu.be/eT3FQE8czCA)
 
