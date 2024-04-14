@@ -30,8 +30,8 @@
 | Adrián Enrique Jesús Palma Obispo   | u202210066   |
 | Erick Joaquin Palomino Santa Cruz| u202214243   |
 | Joaquín Alonso Carbajal Pozzo | U2021218181 |
-| Piero Alonso Martinez Villanueva | |
-| Renzo Cesar Silva Morales |U20221c362 |
+| Piero Alonso Martinez Villanueva | U202113821 |
+| Renzo Cesar Silva Morales |U20221C362 |
 
 </div>
 
