@@ -1361,4 +1361,20 @@ Durante este sprint, se completaron las siguientes tareas:
 - Video About-the-Team.
 
 ## Bibliografía 
+- Zoom. (2023). Zoom for Education. Recuperado de https://zoom.us/education
+- Google. (2023). Google Classroom. Recuperado de https://classroom.google.com/
+- Microsoft. (2023). Microsoft Teams for Education. Recuperado de https://www.microsoft.com/en-us/education/products/teams
+- Geducar. Recuperado el 14 de abril de 2024, de https://geducar.com/blog/herramientas-virtuales-para-integrar-en-las-clases-presenciales
+
+
 ## Anexos
+Enlace para acceder a la landing page: Ver enlace
+Videos de todas las entrevistas subido a stream:
+- [ Ver enlace](https://youtu.be/iZBerMLXzHU)
+- [Ver enlace](https://youtu.be/eT3FQE8czCA)
+Repositorio GitHub LandingPage: [Ver enlace](https://github.com/LiveLinORG/FrontEnd)
+Repositorio GitHub Informe: [Ver enlace](https://github.com/LiveLinORG/Informes)
+Figma: [Diseño en Figma para Page Wireframe ](https://www.figma.com/file/4Z0ziDhl6HGJQe6kU7grgV/Landing-Page-MockUP%2C-UI-DESIGN-Wireframe?type=design&node-id=0%3A1&mode=design&t=u6ED4go6SqCr2V73-1)
+Figma: [El integrante no contestó la petición para pasar el link Joaquin]()
+Miro: [Diseño](https://lucid.app/lucidspark/e42b38ec-9f8c-4f10-8d31-03eefad55095/edit?beaconFlowId=CFC1390090154143&invitationId=inv_262b6d7f-b989-4b5d-8995-1fff1088f3b6&page=0_0)
+Vertabelo: Database Diagram
