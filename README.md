@@ -28,7 +28,7 @@
 | Nombre                              | Código       |
 |-------------------------------------|--------------|
 | Adrián Enrique Jesús Palma Obispo   | u202210066   |
-| Erick Joaquin Palomino Santa Crus| u202214243   |
+| Erick Joaquin Palomino Santa Cruz| u202214243   |
 | Joaquín Alonso Carbajal Pozzo | U2021218181 |
 | Piero Alonso Martinez Villanueva | |
 | Renzo Cesar Silva Morales |U20221c362 |
@@ -42,7 +42,11 @@
 
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | 
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
-| 1.0       |  2024/03/25    |Palma Obispo, Adrián Enrique Jesús | Creación del documento de trabajo en formato markdown. | 
+| 1.0       |  2024/03/24    |Palma Obispo, Adrián Enrique Jesús | Creación del documento de trabajo en formato markdown y creación del código base. | 
+| 1.1       |  2024/03/25    |Joaquin Alonso Carbajal Pozzo| Merge de pull request para las branch del trabajo de capitulos | 
+| 2.0       |  2024/03/25    |Erick Joaquin Palomino Santa Cruz |Diseño y creación de entrevistas | 
+
+
 
 
 ### Project Report Collaboration Insights
