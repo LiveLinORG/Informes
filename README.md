@@ -1242,6 +1242,34 @@ Durante este sprint, se completaron las siguientes tareas:
 4. **Apoyo Mutuo:**
    - Se brindó apoyo mutuo entre los miembros del equipo, lo que ayudó a mantener un ambiente de trabajo positivo y productivo durante todo el sprint.
 
+      | Alumno                              | Actividad                                                  |
+      |-------------------------------------|------------------------------------------------------------|
+      | Palma Obispo, Adrián Enrique Jesús   | Desarrollo Responsivo, Estructura  |
+      | Palomino Santa Cruz, Erick Joaquin      | Aspectos Princiapales CSS, Clases |
+      |     |     |
+      |  	|          |
+      | |  |
+ 
+      Hemos desarrollado en conjunto un total de 47 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
+ 
+      Tabla para poder identificarnos:
+
+      | Username (Github)                           | Nombre                                                  |
+      |-------------------------------------|------------------------------------------------------------|
+      | APOgamer  | Palma Obispo, Adrián Enrique Jesús      |
+      | erickpalomino1923       | Palomino Santa Cruz, Erick Joaquin  |
+      |     |      |
+      | 	|     |
+      | |    |
+
+
+      ![Imagen de WhatsApp 2024-04-14 a las 01 26 21_0e317867](https://github.com/LiveLinORG/Informes/assets/127764958/63a753c1-2f88-4519-a0d7-80fd51a78df9)
+
+        
+    
+
+
+ 
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
 - 5.3.2. Registro de Entrevistas.
