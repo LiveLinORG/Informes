@@ -986,18 +986,18 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story|Work-Item / Task|||||||
 |Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
-|US04|Añadir Interactividad|W-04|Añadir Interactividad|Implementar interactividad en elementos como botones y enlaces para mejorar la usabilidad.|8 hours|[Por Asignar]|Done|
-|US09|Implementación de Funcionalidades Faltantes|W-09|Implementación de Funcionalidades Faltantes|Completar la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web.|14 hours|[Por Asignar]|Done|
-|US11|Actualización de Contenido|W-11|Actualización de Contenido|Actualizar el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.|6 hours|[Por Asignar]|Done|
-|US12|Gestión de Errores y Excepciones|W-12|Gestión de Errores y Excepciones|Implementar manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.|8 hours|[Por Asignar]|Done|
-|US13|Integración de Diseño de Interfaces|W-13|Integración de Diseño de Interfaces|Integrar el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web.|10 hours|[Por Asignar]|Done|
-|US14|Cabecera (Header)|W-14|Cabecera (Header)|La estructura de la cabecera está definida con secciones como el logo y los elementos de navegación.|4 hours|[Por Asignar]|Done|
-|US15|Diseño Responsivo|W-15|Diseño Responsivo|El diseño del sitio web utiliza técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla.|8 hours|[Por Asignar]|Done|
-|US16|Estilos de Navegación|W-16|Estilos de Navegación|Se han aplicado estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.|6 hours|[Por Asignar]|Done|
-|US17|Contenedor Principal|W-17|Contenedor Principal|El contenedor principal del sitio web se ha definido con una estructura de grid y secciones para organizar el contenido.|6 hours|[Por Asignar]|Done|
-|US18|Sección de Aterrizaje (Landing)|W-18|Sección de Aterrizaje (Landing)|Se ha creado una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.|8 hours|[Por Asignar]|Done|
-|US19|Estilos de Botón|W-19|Estilos de Botón|Los botones tienen estilos CSS aplicados, incluyendo colores, sombras y efectos de hover.|4 hours|[Por Asignar]|Done|
-|US20|Tarjetas de Notas (Note Live Cards)|W-20|Tarjetas de Notas (Note Live Cards)|Se han definido tarjetas de notas para mostrar información relevante de manera visualmente atractiva.|8 hours|[Por Asignar]|Done|
+|US04|Añadir Interactividad|W-04|Añadir Interactividad|Como usuario, quiero tener interactividad con los botones y enlaces para mejorar la usabilidad.|8 hours|[Por Asignar]|Done|
+|US09|Implementación de Funcionalidades Faltantes|W-09|Implementación de Funcionalidades Faltantes|Como usuario, quiero completar la implementación de características como el inicio de sesión, el registro de usuarios, y otras funciones necesarias para el funcionamiento completo del sitio web.|14 hours|[Por Asignar]|Done|
+|US11|Actualización de Contenido|W-11|Actualización de Contenido|Como usuario, quiero actualizar el contenido del sitio web según sea necesario para mantenerlo relevante y preciso.|6 hours|[Por Asignar]|Done|
+|US12|Gestión de Errores y Excepciones|W-12|Gestión de Errores y Excepciones|Como usuario, quiero que se implemente manejo de errores y excepciones para proporcionar una experiencia de usuario robusta y sin problemas.|8 hours|[Por Asignar]|Done|
+|US13|Integración de Diseño de Interfaces|W-13|Integración de Diseño de Interfaces|Como usuario, quiero que se integre el diseño de interfaces gráficas proporcionado por el equipo de diseño para asegurar coherencia visual en todo el sitio web.|10 hours|[Por Asignar]|Done|
+|US14|Cabecera (Header)|W-14|Cabecera (Header)|Como usuario, quiero que se defina la estructura de la cabecera con secciones como el logo y los elementos de navegación.|4 hours|[Por Asignar]|Done|
+|US15|Diseño Responsivo|W-15|Diseño Responsivo|Como usuario, quiero que el diseño del sitio web utilice técnicas CSS Grid y Flexbox para garantizar una visualización adecuada en diferentes dispositivos y tamaños de pantalla.|8 hours|[Por Asignar]|Done|
+|US16|Estilos de Navegación|W-16|Estilos de Navegación|Como usuario, quiero que se apliquen estilos CSS para los elementos de navegación, incluyendo efectos de hover y sombras.|6 hours|[Por Asignar]|Done|
+|US17|Contenedor Principal|W-17|Contenedor Principal|Como usuario, quiero que se defina el contenedor principal del sitio web con una estructura de grid y secciones para organizar el contenido.|6 hours|[Por Asignar]|Done|
+|US18|Sección de Aterrizaje (Landing)|W-18|Sección de Aterrizaje (Landing)|Como usuario, quiero que se cree una sección de aterrizaje con un título, subtítulo, imágenes y un botón de inicio.|8 hours|[Por Asignar]|Done|
+|US19|Estilos de Botón|W-19|Estilos de Botón|Como usuario, quiero que se apliquen estilos CSS a los botones, incluyendo colores, sombras y efectos de hover.|4 hours|[Por Asignar]|Done|
+|US20|Tarjetas de Notas (Note Live Cards)|W-20|Tarjetas de Notas (Note Live Cards)|Como usuario, quiero que se definan tarjetas de notas para mostrar información relevante de manera visualmente atractiva.|8 hours|[Por Asignar]|Done|
 
 ---
 - 5.2.1.3. Development Evidence for Sprint Review.
