@@ -1006,8 +1006,8 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 |----------|------|---------|--------------|-------------------|------------------|
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|f2dd6d8731| | | |
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|674d37b56c| | | |
-|APOGamer/LiveLinORG<br>/FrontEnd|Main||944be65 |Add: Creacion del FrontEnd |Mar 24, 2024|
-|APOGamer/LiveLinORG<br>/FrontEnd|Main||6eab557 |Feat: Nuevas secciones | Apr 1, 2024|
+|APOGamer/LiveLinORG<br>/FrontEnd|Main|944be65|Add: Creacion del FrontEnd | |Mar 24, 2024|
+|APOGamer/LiveLinORG<br>/FrontEnd|Main|6eab557|Feat: Nuevas secciones | | Apr 1, 2024|
 |JCarbajal22/LiveLinORG<br>/FrontEnd|Main|d867e4d88f| | | |
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|0a7f01c|Update README.md|Update Colores, colores principales y colores secundarios|12/04/2024|
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|4524d2e6bd| | | |
