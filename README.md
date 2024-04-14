@@ -52,8 +52,8 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |-----------------------------------|--------------|
 | Adrián Enrique Jesús Palma Obispo| Creación de la base de la Landing, Capítulo V, Conclusiones y Tabla de Testing Evidence, wifeframe mobile y dekstop |
 |  | Capitulo I, Capitulo V, Diagrama BDD, Bibliografía, Implementar Responsive y Guia de estilos|
-| | Capitulo V, Capitulo II, Implementar Convenios a la landing page, elaborar figma, anexos, acceptance test e informe de participación|
-|  Capitulo IV, implementación de la sección Acerca de, video explicativo del prototipo|
+| Erick Joaquin Palomino Santa Cruz| Capitulo III, Capitulo II, Implementar Convenios a la landing page, elaborar figma, anexos, acceptance test e informe de participación|
+| | Capitulo IV, implementación de la sección Acerca de, video explicativo del prototipo|
 | | Capitulo III, implementar sección de testimonios, Capitulo V y elaboracion de seccion de itinerario y carrito en Figma|
 
 Evidencias del Insights Contributos de los commits del informe:
