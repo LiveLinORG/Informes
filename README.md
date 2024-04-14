@@ -87,10 +87,12 @@ Evidencias del Insights Contributos de los commits del informe:
 | | TB1-Erick Joaquín Palomino Santa Cruz: Se comunicaron ideas sobre el enfoque de trabajo y los puntos a completar para el desarrollo del proyecto. | El diálogo permitió elaborar con facilidad y agilidad el Sprint y el Landing Page. |
 | | TB1-Adrián Enrique Jesús Palma Obispo: Se comunicaron ideas y resultados desde un punto de vista objetivo para el desarrollo del proyecto. | El intercambio de objetivos permitió sacar adelante al equipo en la elaboración del proyecto. |
 | | TB1-Joaquín Alonso Carbajal Pozzo: Se comunicaron ideas sobre la lógica de negocio para el desarrollo del proyecto. | La comunicación de las ideas facilitó y enriqueció el desarrollo del proyecto.|
+| | TB1-Renzo Cesar Silva Morales: Se comunicaron ideas sobre las necesidades que cubrirá nuestro proyecto. | La comunicación del equipo ayudó a llevar el proyecto por un mejor camino.|
 | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1-Adrián Enrique Jesús Palma Obispo: Se tuvieron reuniones en Discord y Google Meet para distribuir los puntos del trabajo y comunicar dificultades al realizar los wireframes. | Se logró delimitar los objetivos y extensión de la Startup, basándose en el público laboral y académico. |
 | | TB1-Erick Joaquín Palomino Santa Cruz: Se compartieron ideas y mensajes de forma escrita para la elaboración del proyecto a través de chat y Trello. | Se definieron y elaboraron las ideas del proyecto gracias a la comunicación escrita. |
 | | TB1-Adrián Enrique Jesús Palma Obispo: Se logró la comunicación entre todos los integrantes para poder elaborar el producto. | La comunicación escrita permitió hallar el objetivo grupal para el proyecto y culminarlo hasta su versión más reciente. |
 | | TB1-Joaquín Alonso Carbajal Pozzo: Se compartieron puntos de vista e ideas mediante mensajes de chat. | La comunicación escrita permitió dejar constancia de las diversas actividades que desempeñó cada uno de los integrantes. |
+| | TB1-Renzo Cesar Silva Morales: Se compartieron puntos de vista mensajes de chat y Trello. | La comunicación escrita permitió una mejor organización de actividades entre los integrantes. |
 
 
 Capítulo I: Introducción
