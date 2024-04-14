@@ -1364,7 +1364,6 @@ Durante este sprint, se completaron las siguientes tareas:
 
 ---
 
-- Video About-the-Team.
 
 ## Bibliografía 
 - Zoom. (2023). Zoom for Education. Recuperado de https://zoom.us/education
