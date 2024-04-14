@@ -1395,7 +1395,9 @@ Repositorio GitHub LandingPage: [Ver enlace](https://github.com/LiveLinORG/Front
 Repositorio GitHub Informe: [Ver enlace](https://github.com/LiveLinORG/Informes)
 
 Figma: [Diseño en Figma para Page Wireframe ](https://www.figma.com/file/4Z0ziDhl6HGJQe6kU7grgV/Landing-Page-MockUP%2C-UI-DESIGN-Wireframe?type=design&node-id=0%3A1&mode=design&t=u6ED4go6SqCr2V73-1)
+
 [video de exposicion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113821_upc_edu_pe/EcKIs4uw51JHlBMDvmliOsEBSJsIHQx29SvQ2n4tC37ULw?e=pBRwcw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 Figma: [WebApp Wireframe & Mock-Up](https://www.figma.com/file/gvGs7MxjUdjNzR6IM1BGZT/Untitled?type=design&node-id=0%3A1&mode=design&t=YWgUe305ff0ZTPIV-1)
 
 Vertabelo: [Database Diagram](https://my.vertabelo.com/public-model-view/fuS8RWFvR1OHpcwngaR9so1dVVo0nB8OVzBqTJaKeoAfGmtmpp938Kf4dVDGMS5Q?x=3114&y=3451&zoom=0.5143 )
