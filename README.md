@@ -1025,7 +1025,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
   
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|erickpaloma/<brLiveLinORG><br>/AcceptanceTest|Main|ba88a30|feat: added US-27: Acceso a la sección de "Convenios"|-|11/04/2024| 
+|erickpalomino1923/<brLiveLinORG><br>/AcceptanceTest|Main|d92ec96|Add Feature|Add Feature 17,18,19.20|11/04/2024| 
 |APOGamer/<br>LiveLinORG<br>/AcceptanceTest|Main|2f7e60d|Add Feature|Add Feature 4,9,14,15|14/04/2024|
 
  ```gherkin
