@@ -1,3 +1,62 @@
+# Universidad Peruana de Ciencias Aplicadas  
+### INFORME DEL TRABAJO 1 (TB1)
+![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
+
+**Curso:** Aplicaciones Web
+
+**Sección:**  SI91
+
+**Profesor:** Hugo Allan Mori Paiva
+
+**Carrera:** Ingeniería de Software
+
+**Ciclo:** 2024-01
+
+**Startup:** LiveLin
+
+**Producto:** NoteLive
+
+### Integrantes:
+
+</div>
+
+<div align="center">
+
+| Nombre                              | Código       |
+|-------------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo   | u202210066   |
+| Erick Joaquin Palomino Santa Crus| u202214243   |
+|             |    |
+|                  |    |
+| |     |
+
+</div>
+
+<div align="justify">
+
+
+### Registro de versiones del informe
+
+| Versión   | Fecha       | Autor      | Descripción                                                                                      | 
+|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
+| 1.0       |  2024/03/25    |Palma Obispo, Adrián Enrique Jesús | Creación del documento de trabajo en formato markdown. | 
+
+
+### Project Report Collaboration Insights
+
+**TB1:**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo| Creación de la base de la Landing, Capítulo V, Conclusiones y Tabla de Testing Evidence, wifeframe mobile y dekstop |
+|  | Capitulo I, Capitulo V, Diagrama BDD, Bibliografía, Implementar Responsive y Guia de estilos|
+| | Capitulo V, Capitulo II, Implementar Convenios a la landing page, elaborar figma, anexos, acceptance test e informe de participación|
+|  Capitulo IV, implementación de la sección Acerca de, video explicativo del prototipo|
+| | Capitulo III, implementar sección de testimonios, Capitulo V y elaboracion de seccion de itinerario y carrito en Figma|
+
+Evidencias del Insights Contributos de los commits del informe:
 
 # Contenido
 
