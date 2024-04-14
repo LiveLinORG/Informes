@@ -193,6 +193,7 @@ Capítulo I: Introducción
 	* Hipótesis 5: Creemos que la implementación de LiveLin en las instituciones educativas aumentará su atractivo para estudiantes potenciales. Sabremos esto cuando veamos un aumento en la matrícula de estudiantes y una mejora en la reputación de la institución como resultado de la adopción de LiveLin.
   
 - 1.2.2.4. Lean UX Canvas.
+  	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Lean%20UX%20Canvas.png)
 - 1.3. Segmentos objetivo.
   
 1. **Estudiantes Universitarios**:
