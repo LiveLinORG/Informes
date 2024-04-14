@@ -1322,6 +1322,7 @@ Durante este sprint, se completaron las siguientes tareas:
       |-------------------------------------|------------------------------------------------------------|
       | APOgamer  | Palma Obispo, Adrián Enrique Jesús      |
       | erickpalomino1923       | Palomino Santa Cruz, Erick Joaquin  |
+      | rrenzosilva       | Silva Morales, Renzo Cesar  |
 
 
 
