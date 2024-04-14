@@ -29,9 +29,9 @@
 |-------------------------------------|--------------|
 | Adrián Enrique Jesús Palma Obispo   | u202210066   |
 | Erick Joaquin Palomino Santa Crus| u202214243   |
-|             |    |
-|                  |    |
-| |     |
+| Joaquín Alonso Carbajal Pozzo | U2021218181 |
+| Piero Alonso Martinez Villanueva | |
+| Renzo Cesar Silva Morales |U20221c362 |
 
 </div>
 
@@ -53,13 +53,15 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 | Integrante                            | Tareas Designadas       |
 |-----------------------------------|--------------|
-| Adrián Enrique Jesús Palma Obispo| Creación de la base de la Landing, Capítulo V, Conclusiones y Tabla de Testing Evidence, wifeframe mobile y dekstop |
-|  | Capitulo I, Capitulo V, Diagrama BDD, Bibliografía, Implementar Responsive y Guia de estilos|
+| Adrián Enrique Jesús Palma Obispo| Creación de la base de la Landing, Capítulo V, Conclusiones y Tabla de Testing Evidence, wifeframe mobile y dekstop, anexos, bibliografia, deployment |
+| Joaquín Alonso Carbajal Pozzo|Figma, Diseño de la web app|
 | Erick Joaquin Palomino Santa Cruz| Capitulo III, Capitulo II, Implementar Convenios a la landing page, elaborar figma, anexos, acceptance test e informe de participación|
-| | Capitulo IV, implementación de la sección Acerca de, video explicativo del prototipo|
-| | Capitulo III, implementar sección de testimonios, Capitulo V y elaboracion de seccion de itinerario y carrito en Figma|
+| Piero Alonso Martinez Villanueva |Entrevistas, Capítulo I|
+| Renzo Cesar Silva Morales |Capítulo 4|
 
 Evidencias del Insights Contributos de los commits del informe:
+![image](https://github.com/LiveLinORG/Informes/assets/48342953/cf95a454-2510-4ef1-87f2-d8d2ef2f060f)
+![image](https://github.com/LiveLinORG/Informes/assets/48342953/ef107f0f-87e4-4f21-8503-8829144fac19)
 
 # Contenido
 
