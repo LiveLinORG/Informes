@@ -1343,7 +1343,7 @@ Durante este sprint, se completaron las siguientes tareas:
 
 ## Conclusiones
 
-- Conclusiones y recomendaciones.
+## Conclusiones y recomendaciones.
   ### Conclusiones:
 
 - Durante el sprint, se lograron avances significativos en el desarrollo del proyecto, cumpliendo con la mayoría de los objetivos establecidos.
@@ -1352,7 +1352,7 @@ Durante este sprint, se completaron las siguientes tareas:
   
 - La implementación de prácticas ágiles demostró ser beneficiosa para la gestión del proyecto, facilitando la adaptación a cambios y mejorando la productividad del equipo.
 
-### Recomendaciones:
+ ### Recomendaciones:
 
 - Continuar fomentando la comunicación abierta y transparente entre los miembros del equipo, así como la colaboración activa en la resolución de problemas.
   
