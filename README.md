@@ -1326,6 +1326,7 @@ Durante este sprint, se completaron las siguientes tareas:
       | Palomino Santa Cruz, Erick Joaquin      | Aspectos Principales CSS, Clases |
       | Silva Morales, Renzo Cesar      | Aspectos Secundarios CSS |
       | Carbajal Pozzo, Joaquín Alonso  | Aspectos CSS, Desarollo de carátula en WebApp prototype|
+      | Martinez Villanueva, Piero Alonso | Diseño de la base de datos |
 
  
       Hemos desarrollado en conjunto un total de 47 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
@@ -1338,6 +1339,7 @@ Durante este sprint, se completaron las siguientes tareas:
       | erickpalomino1923       | Palomino Santa Cruz, Erick Joaquin  |
       | rrenzosilva       | Silva Morales, Renzo Cesar  |
       | JCarbajal22		| Carbajal Pozzo, Joaquín Alonso|
+      | pmv612                  | Martinez Villanueva, Piero Alonso
 
 
 
