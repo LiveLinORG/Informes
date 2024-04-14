@@ -1004,22 +1004,22 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
   
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|f2dd6d8731| | | |
-|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|674d37b56c| | | |
+|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|3dbbdfb|fix: Corrección diseño pagina | |Apr 12, 2024 |
+|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|7c1a53e|fix: Color Integrations | |Apr 12, 2024 |
 |APOGamer/LiveLinORG<br>/FrontEnd|Main|944be65|Add: Creacion del FrontEnd | |Mar 24, 2024|
 |APOGamer/LiveLinORG<br>/FrontEnd|Main|6eab557|Feat: Nuevas secciones | | Apr 1, 2024|
 |JCarbajal22/LiveLinORG<br>/FrontEnd|Main|d867e4d88f| | | |
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|0a7f01c|Update README.md|Update Colores, colores principales y colores secundarios|12/04/2024|
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|4524d2e6bd| | | |
 |Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|df60b4b190| | | |
-|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|a770865894| | | |
+|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|837fde6|Add: Planes de LiveLin | |Apr 11, 2024 |
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|7afdab2|Update README.md|Update 4.1.2|12/04/2024|
 |Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|81671f0|Update styles.css|update addiotional features|02/04/2024|
 |Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|a8c9cab|Update styles.css|Update Estilos para Testimonios de Usuarios|02/04/2024|
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|08f06b2|Update README.md|Update Navigation System|13/04/2024|
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|627cf6c|Update README.md|Add images|13/04/2024|
-|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|878f958fea| | | |
-|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|d600d2754e| | | |
+|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|878f958fea|fix: Color Recursos Educartivos | |Apr 12, 2024 |
+|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|d600d2754e|fix: Color Support | |Apr 12, 2024 |
 
 - 5.2.1.4. Testing Suite Evidence for Sprint Review.
  ```gherkin
