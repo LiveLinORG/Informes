@@ -1,6 +1,9 @@
 # Universidad Peruana de Ciencias Aplicadas  
 ### INFORME DEL TRABAJO 1 (TB1)
+<p align="center">
+	
 ![image](https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60)
+</p>
 
 **Curso:** Aplicaciones Web
 
