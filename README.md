@@ -198,7 +198,7 @@ Capítulo I: Introducción
   
 - 1.2.2.4. Lean UX Canvas.
   
-  	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Lean%20UX%20Canvas.png)
+  	<img src="images/Lean UX Canvas.png" width="80%" align="center">
   
 - 1.3. Segmentos objetivo.
   
@@ -322,7 +322,8 @@ Capítulo I: Introducción
   - 2.4.2. Registro de entrevistas.
     - Estudiantes:
       	- Entrevista #1:
-      	  ![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/entrevista_lucia_usuario.jpg)
+      	  <img src="images/entrevista_lucia_usuario.jpg" width="100%" align="center">
+	 
       	  Entrevistado: Maria Lucia Paez Cairo<br>
       	  Entrevistador: Erick Joaquin Palomino Santa Cruz<br>
 	  Duración: 08:15<br>
@@ -332,7 +333,9 @@ Capítulo I: Introducción
       	  
     - Profesores y Educadores:
     	- Entrevista #1:
-          ![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Entrevista_Piero.png)
+
+          <img src="images/Entrevista_Piero.png" width="100%" align="center">
+	  
           Entrevistado: Valeria Perez Yucra<br>
           Entrevistador: Piero Alonso Martinez Villanueva<br>
   	  Duración: 15:43<br>
@@ -620,19 +623,20 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 	**- Tipo de letra:**
 
 	Se ha elegido la tipografía Roboto, con variaciones en el tamaño de letra dependiendo del lugar en el que se encuentre, como puede ser título o subtítulo.
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Roboto.png)
+	
+	<img src="images/Roboto.png" width="100%" align="center">
 
 	**- Color de letra:**
 
 	Los tres colores que se utilizarán son el blanco, negro y anaranjado. La elección del color dependerá del fondo, habiendo una relación inversa entre la tonalidad del fondo y el color de la letra. No obstante, en ocasiones especiales se utilizarán otros colores para resaltar información importante. Aquí algunos ejemplos del color de la letra:
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Color000000.png)
+	<img src="images/Color000000.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Color403D39.png)
+	<img src="images/Color403D39.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/ColorFF7F0E.png)
+	<img src="images/ColorFF7F0E.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/ColorFFFFFF.png)
+	<img src="images/ColorFFFFFF.png">
 	
 	**- Espaciado:**
 
@@ -646,38 +650,38 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 	La elección de colores principales se basa en una paleta de tonos pastel, basados en el color anaranjado, que transmiten calma, serenidad y una sensación de frescura. Estos colores principales se complementan con una selección de tonos neutros en la letra, como negro y blanco, que proporcionan equilibrio y permiten que los colores principales destaquen sin abrumar al usuario.
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorFFB740.png)
+	<img src="images/PColorFFB740.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorffd8ba.png)
+	<img src="images/PColorffd8ba.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorffe8d6.png)
+	<img src="images/PColorffe8d6.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColordf711b.png)
+	<img src="images/PColordf711b.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorf7a072.png)
+	<img src="images/PColorf7a072.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/PColorfde49c.png)
+	<img src="images/PColorfde49c.png">
 
 
 	**- Colores secundarios:**
 
 	Los colores secundarios se han elegido para acentuar y complementar la paleta principal, añadiendo contraste y profundidad visual. Entre estos colores secundarios se encuentran tonos más intensos, como un azul marino profundo, un azul púrpura y un verde esmeralda, que se utilizan de manera estratégica para resaltar elementos clave dentro de la interfaz de la aplicación, aportando dinamismo y vitalidad sin comprometer la armonía general del diseño.
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColor3498DB.png)
+	<img src="images/SColor3498DB.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColor6C5B7B.png)
+	<img src="images/SColor6C5B7B.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColorFF9F1C.png)
+	<img src="images/SColorFF9F1C.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColorf6ddbe.png)
+	<img src="images/SColorf6ddbe.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColor2ecc71.png)
+	<img src="images/SColor2ecc71.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColoreafff1.png)
+	<img src="images/SColoreafff1.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColorf7c991.png)
+	<img src="images/SColorf7c991.png">
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/SColorfaba6d.png)
+	<img src="images/SColorfaba6d.png">
 
 	**Lenguaje Aplicado**
 
@@ -693,14 +697,16 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 
 	En caso de requerirse, se pueden emplear diferentes tamaños. Sin embargo, el tamaño del botón "Empezar" debe ser siempre superior al tamaño mediano. Esta distinción se utilizará para resaltar la importancia del botón, siendo el más grande el más relevante.
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Comparaci%C3%B3n.png)
+	<img src="images/Comparación.png">
 
 	También se ha definido la apariencia de los botones en sus diferentes estados:
 
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/Estados.png)
+	<img src="images/Estados.png">
 
 	**Logo**
-	![Imagen](https://github.com/LiveLinORG/Informes/blob/main/images/LogoConFondo.jpeg)
+
+	<img src="images/LogoConFondo.jpeg">
+
 
 - 4.2. Information Architecture.
   - 4.2.1. Organization Systems.
