@@ -44,9 +44,9 @@
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
 | 1.0       |  2024/03/24    |Palma Obispo, Adrián Enrique Jesús | Creación del documento de trabajo en formato markdown y creación del código base. | 
 | 1.1       |  2024/03/25    |Joaquin Alonso Carbajal Pozzo| Merge de pull request para las branch del trabajo de capitulos | 
-| 2.0       |  2024/03/25    |Erick Joaquin Palomino Santa Cruz |Diseño y creación de entrevistas | 
-| 2.0       |  2024/03/26    |Renzo Cesar Silva Morales |Diseño de Style Guidelines | 
-
+| 1.2       |  2024/03/25    |Erick Joaquin Palomino Santa Cruz |Diseño y creación de entrevistas | 
+| 1.3       |  2024/03/26    |Renzo Cesar Silva Morales |Diseño de Style Guidelines | 
+| 1.4       |  2024/04/10    |Piero Alonso Martinez Villanueva |Diagrama de Clases y Diagrama de Base de Datos |
 
 
 
@@ -61,7 +61,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | Adrián Enrique Jesús Palma Obispo| Creación de la base de la Landing, Capítulo V, Conclusiones y Tabla de Testing Evidence, wifeframe mobile y dekstop, anexos, bibliografia, deployment |
 | Joaquín Alonso Carbajal Pozzo|Figma, Diseño de la web app, Domain Driven Design, Solution profile|
 | Erick Joaquin Palomino Santa Cruz| Capitulo III, Capitulo II, Implementar Convenios a la landing page, elaborar figma, anexos, acceptance test e informe de participación|
-| Piero Alonso Martinez Villanueva |Entrevistas, Capítulo I|
+| Piero Alonso Martinez Villanueva |Entrevistas, Capítulo I, Diagrama de Clases, Diagrama de Base de Datos|
 | Renzo Cesar Silva Morales |Style Guidelines, Information Architecture|
 
 Evidencias del Insights Contributos de los commits del informe:
@@ -88,11 +88,13 @@ Evidencias del Insights Contributos de los commits del informe:
 | | TB1-Adrián Enrique Jesús Palma Obispo: Se comunicaron ideas y resultados desde un punto de vista objetivo para el desarrollo del proyecto. | El intercambio de objetivos permitió sacar adelante al equipo en la elaboración del proyecto. |
 | | TB1-Joaquín Alonso Carbajal Pozzo: Se comunicaron ideas sobre la lógica de negocio para el desarrollo del proyecto. | La comunicación de las ideas facilitó y enriqueció el desarrollo del proyecto.|
 | | TB1-Renzo Cesar Silva Morales: Se comunicaron ideas sobre las necesidades que cubrirá nuestro proyecto. | La comunicación del equipo ayudó a llevar el proyecto por un mejor camino.|
+| | TB1-Piero Alonso Martinez Villanueva: Se comunico sobre las principales funcionalidades del proyecto. | La comunicación facilitó la ejecución de las ideas iniciales de proyecto.|
 | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1-Adrián Enrique Jesús Palma Obispo: Se tuvieron reuniones en Discord y Google Meet para distribuir los puntos del trabajo y comunicar dificultades al realizar los wireframes. | Se logró delimitar los objetivos y extensión de la Startup, basándose en el público laboral y académico. |
 | | TB1-Erick Joaquín Palomino Santa Cruz: Se compartieron ideas y mensajes de forma escrita para la elaboración del proyecto a través de chat y Trello. | Se definieron y elaboraron las ideas del proyecto gracias a la comunicación escrita. |
 | | TB1-Adrián Enrique Jesús Palma Obispo: Se logró la comunicación entre todos los integrantes para poder elaborar el producto. | La comunicación escrita permitió hallar el objetivo grupal para el proyecto y culminarlo hasta su versión más reciente. |
 | | TB1-Joaquín Alonso Carbajal Pozzo: Se compartieron puntos de vista e ideas mediante mensajes de chat. | La comunicación escrita permitió dejar constancia de las diversas actividades que desempeñó cada uno de los integrantes. |
 | | TB1-Renzo Cesar Silva Morales: Se compartieron puntos de vista mensajes de chat y Trello. | La comunicación escrita permitió una mejor organización de actividades entre los integrantes. |
+| | TB1-Piero Alonso Martinez Villanueva: Se comunico sobre las principales funcionalidades del proyecto. | La comunicación escrita ayudó a entender de manera más clara el proyecto.|
 
 
 Capítulo I: Introducción
