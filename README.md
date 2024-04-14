@@ -1119,9 +1119,9 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 |JCarbajal22/LiveLinORG<br>/Informes|Main|b6506c6|Update README.md|Feat: Mock-ups|Apr 9, 2024|
 |JCarbajal22/LiveLinORG<br>/Informes|Main|b376585|Feat: domain driven software arquitecture| | Apr 11, 2024 |
 |JCarbajal22/LiveLinORG<br>/Informes|Main|7da2322|Update README.md|Feat: Web App User Diagrams| Apr 9, 2024 |
-|Rrenzosilva/LiveLinORG<br>/Informes|Main|0a7f01c|Update README.md|Update Colores, colores principales y colores secundarios|12/04/2024|
-|Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|4524d2e6bd| | | |
-|Pmv612/LiveLinORG<br>/FrontEnd|Testimonios|df60b4b190| | | |
+|Rrenzosilva/LiveLinORG<br>/Informes|Main|0a7f01c|Update README.md|Update Colores, colores principales y colores secundarios|Apr 12, 2024|
+|Pmv612/LiveLinORG<br>/Informes|Main|4524d2e6bd|Update README.md | Se añadió entrevista al primer segmento objetivo |Apr 11, 2024|
+|Pmv612/LiveLinORG<br>/Informes|Main|df60b4b190| Update README.md| Se añadió Diagrama de Clases y Diagrama de Base de Datos|Apr 12, 2024|
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|837fde6|Add: Planes de LiveLin | |Apr 11, 2024 |
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|7afdab2|Update README.md|Update 4.1.2|12/04/2024|
 |Rrenzosilva/LiveLinORG<br>/FrontEnd|Main|81671f0|Update styles.css|update addiotional features|02/04/2024|
@@ -1129,7 +1129,8 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|08f06b2|Update README.md|Update Navigation System|13/04/2024|
 |Rrenzosilva/LiveLinORG<br>/Informes|Main|627cf6c|Update README.md|Add images|13/04/2024|
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|878f958fea|fix: Color Recursos Educartivos | |Apr 12, 2024 |
-|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|d600d2754e|fix: Color Support | |Apr 12, 2024 |
+|ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|d600d2754e|fix: Color Support | |Apr 12, 2024 | 
+|pmv612/LiveLinORG<br>/Informes|Main|6f5997f|Update Readme.md| Reporte final |Apr 13, 2024 |
 
 - 5.2.1.4. Testing Suite Evidence for Sprint Review.
   
