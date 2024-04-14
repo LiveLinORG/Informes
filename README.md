@@ -1022,6 +1022,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 |ErickPalomino1923/LiveLinORG<br>/FrontEnd|Main|d600d2754e|fix: Color Support | |Apr 12, 2024 |
 
 - 5.2.1.4. Testing Suite Evidence for Sprint Review.
+  
 |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
 |erickpaloma/<brLiveLinORG><br>/AcceptanceTest|Main|ba88a30|feat: added US-27: Acceso a la sección de "Convenios"|-|11/04/2024| 
