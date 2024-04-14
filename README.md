@@ -1032,12 +1032,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
     Given Estoy en una página del sitio web que contiene botones interactivos
     When Hago clic en un botón
     Then Debería ver una acción o cambio en la página
-
-  Scenario: Navegación a través de enlaces
-    Given Estoy en una página del sitio web que contiene enlaces
-    When Hago clic en un enlace
-    Then Debería ser dirigido a la página correspondiente
-   
+  
 Feature: US09: Implementación de Funcionalidades Faltantes
   Como desarrollador del sitio web
   Quiero completar la implementación de características necesarias
@@ -1052,51 +1047,6 @@ Feature: US09: Implementación de Funcionalidades Faltantes
     Given Estoy en la etapa final de desarrollo del registro de usuarios
     When Completo el formulario de registro con información válida
     Then Debería recibir una confirmación de registro exitoso
-
-Feature: US11: Actualización de Contenido
-  Como editor del sitio web
-  Quiero actualizar el contenido del sitio según sea necesario
-  Para mantenerlo relevante y preciso
-
-  Scenario: Actualización de información de contacto
-    Given Estoy revisando la página de contacto del sitio web
-    When Actualizo la dirección y los números de contacto
-    Then Debería reflejarse la nueva información en la página
-
-  Scenario: Agregar nuevas publicaciones al blog
-    Given Estoy en el panel de administración del blog
-    When Escribo y publico una nueva entrada en el blog
-    Then Debería aparecer la nueva publicación en la página principal del blog
-
-Feature: US12: Gestión de Errores y Excepciones
-  Como desarrollador del sitio web
-  Quiero implementar manejo de errores y excepciones
-  Para proporcionar una experiencia de usuario robusta y sin problemas
-
-  Scenario: Manejo de errores de formulario
-    Given Estoy probando un formulario en el sitio web
-    When Envío el formulario con información incompleta
-    Then Debería recibir un mensaje de error indicando los campos obligatorios
-
-  Scenario: Excepción en el servidor
-    Given Estoy probando una función que interactúa con la base de datos
-    When La base de datos no responde
-    Then Debería recibir un mensaje de error amigable para el usuario
-
-Feature: US13: Integración de Diseño de Interfaces
-  Como desarrollador del sitio web
-  Quiero integrar el diseño de interfaces proporcionado por el equipo de diseño
-  Para asegurar coherencia visual en todo el sitio web
-
-  Scenario: Integración del nuevo diseño de la página de inicio
-    Given Tengo acceso al diseño actualizado de la página de inicio
-    When Implemento el diseño utilizando HTML y CSS
-    Then Debería ver la nueva página de inicio con el diseño actualizado
-
-  Scenario: Ajuste de estilos en la página de contacto
-    Given Tengo acceso al diseño actualizado de la página de contacto
-    When Ajusto los estilos CSS para que coincidan con el nuevo diseño
-    Then Debería ver la página de contacto con la misma apariencia que el diseño proporcionado
 
 Feature: US14: Cabecera (Header)
   Como usuario del sitio web
@@ -1122,21 +1072,6 @@ Feature: US15: Diseño Responsivo
     Given Estoy en la página principal del sitio web desde una tableta
     When Navego por el sitio web
     Then Debería ver que el diseño se adapta adecuadamente al tamaño de la pantalla de la tableta
-
-Feature: US16: Estilos de Navegación
-  Como usuario del sitio web
-  Quiero que los elementos de navegación tengan estilos aplicados, incluyendo efectos de hover y sombras
-  Para una experiencia visual atractiva y una navegación intuitiva
-
-  Scenario: Estilos de enlaces
-    Given Estoy en una página del sitio web que contiene enlaces
-    When Paso el cursor sobre un enlace
-    Then Debería ver un cambio en el estilo del enlace, como un cambio de color o una sombra
-
-  Scenario: Estilos de menú desplegable
-    Given Estoy en una página del sitio web que contiene un menú desplegable
-    When Paso el cursor sobre el menú desplegable
-    Then Debería ver una animación suave y atractiva al desplegar el menú
 
 Feature: US17: Contenedor Principal
   Como usuario del sitio web
