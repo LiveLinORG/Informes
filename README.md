@@ -818,15 +818,27 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
  
     User Flow de la creación de una sesión. Cuando el usuario haya apretado el botón de creación, y luego de subir el archivo a compartir. Este podrá iniciar la sesión cuando todos los participantes se hayan unido. 
     <p align="center"><img src="images/webappUserflowCreate.png" alt="Mock-Up UserFlow Creación" width="80%"></p>
+    Unhappy Path: El usuario no puede crear una sesión debido a que no ha cargado el archivo de la presentación.
+    <p align="center"><img src="images/webappUserflowCreateUnhappypath.png" alt="Mock-Up UserFlow Creación Unhappy Path" width="80%"></p>
+    
     
     User Flow de unión a una sesión existente. Cuando el usuario haya apretado el botón de unirse, luego de haber ingresado un pin válido y un nombre. Este podrá unirse a la sesión tras presionar el botón de entrar.
     <p align="center"><img src="images/webappUserflowJoin.png" alt="Mock-Up UserFlow Unión" width="80%"></p>
+    Unhappy Path: El usuario no puede unirse a una sesión porque no ha ingresado el pin de la sesión y no ha ingresado su nombre.
+    <p align="center"><img src="images/webappUserflowJoinUnhappyPath.png" alt="Mock-Up UserFlow Unión Unhappy Path" width="80%"></p>
+ 
     
     User Flow de comentar. Cuando un usuario ingrese un texto en la sección de comentarios, éste podra enviar un comentario en la caja del chat despúes de presionar el botón de envío.
     <p align="center"><img src="images/webappUserflowComment.png" alt="Mock-Up UserFlow Comentario" width="80%"></p>
+    Unhappy Path: El usuario no puede realizar comentarios porque no ha ingresado texto en la caja de texto, por lo que el botón no puede cumplir su función.
+    <p align="center"><img src="images/webappUserflowCommentUnhappypath.jpg" alt="Mock-Up UserFlow Comentario UserFlow Comentario Unhappy Path" width="80%"></p>
+ 
     
     User Flow de preguntar. Cuando un usuario ingrese una pregunta en la sección de preguntas, éste podrá enviar su duda después de presionar el botón de envío.
     <p align="center"><img src="images/webappUserflowAsk.png" alt="Mock-Up UserFlow Pregunta" width="80%"></p>
+    Unhappy Path: El usuario (alumno) no puede realizar una pregunta debido a que no ha ingresado texto en la caja de texto, por lo que el botón no puede cumplir su función.
+    <p align="center"><img src="images/webappUserflowAskUnhappypath.jpg" alt="Mock-Up UserFlow Pregunta Unhappy Path" width="80%"></p>
+ 
     
     User Flow de me gusta. Cuando un usuario quiera ponerle "Me gusta" a una pregunta existente, este deberá apretar el pulgar arriba que se encuentra en las esquinas de todos los comentarios.
     <p align="center"><img src="images/webappUserflowLike.png" alt="Mock-Up UserFlow Me Gusta" width="80%"></p>
