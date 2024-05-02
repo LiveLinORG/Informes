@@ -549,6 +549,14 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 	| US028| Notificaciones Push                   | Como usuario quiero tener notificaciones push en los dispositivos móviles para estar alertado de nuevas sesiones, preguntas y actualizaciones. | Escenario 1: Notificaciones en móviles **Dado** que el usuario se encuentra dentro de la app **Cuando** se realice un nuevo cambio **Entonces** el usuario recibirá una notificación alertándolo del nuevo contenido.  | Epic #2 - Funcionalidades Clave |
 	| US029| Integración con LMS                   | Como usuario (profesor) quiero que la app tenga integraciones con los principales sistemas de gestión del aprendizaje para poder tener un mejor control sobre el aprendizaje de mis alumnos. | Escenario 1: Integración con LMS **Dado** que el usuario se encuentra dentro de la app **Cuando** este inicie una nueva sesión **Entonces** el profesor podrá activar o desactivar la integración con los sistemas de gestión de aprendizaje  | Epic #2 - Funcionalidades Clave |
 	| US030| Análisis de Sesiones                  | Como usuario (profesor) quiero que los reportes tengan gráficas y métricas para tener una mejor visualización del desempeño de mis alumnos. | Escenario 1: Visualización de gráficas **Dado** que el usuario se encuentra dentro de una sesión **Cuando** este presione el botón de finalizar **Y** presione el botón de generar registro **Y** tenga activada la opción de gráficas **Entonces** se podrá descargar el registro con la información de la sesión y sus respectivas gráficas y métricas.  | Epic #2 - Funcionalidades Clave |
+  	| US031| Ingreso a sala sin cuenta	       | Como usuario (alumno) quiero poder ingresar a una sala sin iniciar sesión para evitar crear una cuenta y agilizar el proceso de ingreso | Escenario 1: Ingreso solo con nombre **Dado** que el usuario se encuentra dentro del aplicativo **Cuando** este presione el botón de unirse a una sesión existente **Y** coloque un pin de sesión válido **Y** Ponga un nombre para ser identificado **Entonces** podrá acceder a la app sin la necesidad de tener una cuenta creada  | Epic #2 - Funcionalidades Clave |
+  	| US032| Ingreso a sala con cuenta existente   | Como usuario quiero poder ingresar a una sala con mi cuenta para utilizar los beneficios de mi plan | Escenario 1: Ingreso con cuenta **Dado** que el usuario se encuentra dentro del aplicativo **Cuando** este presione el botón de iniciar sesión **Y** coloque sus credenciales **Entonces** podrá acceder a la app y a una sesión con su cuenta  | Epic #2 - Funcionalidades Clave |
+ 	 | US033| Registro de una cuenta nueva	       | Como usuario quiero poder crear una cuenta nueva para poder adquirir un plan e ingresar a sesiones con mis datos de forma automática | Escenario 1: Creación de cuenta **Dado** que el usuario se encuentra dentro del aplicativo **Cuando** este presione el botón de iniciar sesión **Y** presione el botón de crear cuenta **Y** llene de forma satisfactoria todos los datos que se le solicitan **Entonces** podrá crear una cuenta nueva  | Epic #2 - Funcionalidades Clave |
+  	 | US034| Ver los participantes	       | Como usuario quiero poder visualizar la lista de los participantes de una sesión poder tener en cuenta la cantidad de personas que están asistiendo | Escenario 1: Visualización de la lista **Dado** que el usuario se encuentra dentro de la aplicación **Cuando** este ingrese a una sesión que aún no comienza **Entonces** podrá visualizar la lista de los participantes que están en espera | Epic #2 - Funcionalidades Clave |
+  	| US035| Cargar un documento	       | Como usuario (profesor) quiero poder cargar un documento a la sesión para poder presentarle a mis alumnos los temas que se realizarán en clase | Escenario 1: Carga de documentos **Dado** que el usuario (profesor) se encuentra dentro del aplicativo **Cuando** este presione el botón de crear sesión **Y** presione el botón de subir documento **Y** cargue el documento deseado **Entonces** el documento se cargará y será visualizado por la clase cuando la sesión inicie  | Epic #2 - Funcionalidades Clave |
+	  | US036| Realizar preguntas	       | Como usuario (alumno) quiero poder realizar preguntas en la clase para que el profesor las resuelva y queden registradas en el sistema | Escenario 1: Realización de pregunta **Dado** que el usuario (alumno) se encuentra dentro una sesión activa **Cuando** este ingrese texto en la casilla de hacer una pregunta **Y** presione el botón de enviar **Entonces** la pregunta aparecerá en el lado derecho de la pantalla en forma de tarjeta  | Epic #2 - Funcionalidades Clave |
+ 	 | US037| Mandar mensajes grupales    | Como usuario quiero poder enviar mensajes grupales para que todos los presentes puedan visualizar y comentar sobre mi comunicado | Escenario 1: Envío de mensajes **Dado** que el usuario se encuentra dentro una sesión activa **Cuando** este ingrese texto en la casilla de enviar un mensaje en el apartado de chat **Y** presione el botón de enviar **Entonces** el texto aparecerá en el lado izquierdo de la pantalla en forma de caja de chat  | Epic #2 - Funcionalidades Clave |
+ 	 | US038| Visualizar la diapositiva    | Como usuario (alumno) quiero poder visualizar las diapostivas que presente el profesor para estar al tanto de lo que este menciona y explica | Escenario 1: Visualizar diapositiva **Dado** que el usuario se encuentra dentro una de la aplicación **Cuando** este ingrese a una sesión **Entonces** podrá visualizar las diapositivas que el profesor haya decidido compartir  | Epic #2 - Funcionalidades Clave |
 
 - 3.3. Impact Mapping.
 	### Segmento Usuario
@@ -1335,7 +1343,8 @@ Durante este sprint, se completaron las siguientes tareas:
 4. **Monitorización Post-Despliegue:**
    - Se estableció un sistema de monitorización continua para supervisar el rendimiento y la estabilidad del sistema después del despliegue en producción.
 
-- 5.2.1.8. Team Collaboration Insights during Sprint.    
+- 5.2.1.8. Team Collaboration Insights during Sprint.
+
     Durante este sprint, se observaron varios aspectos destacados en cuanto a la colaboración del equipo:
 1. **Reuniones Diarias Efectivas:**
    - Se llevaron a cabo reuniones diarias donde todos los miembros del equipo compartieron actualizaciones sobre el progreso de las tareas asignadas y discutieron posibles obstáculos.
@@ -1375,10 +1384,81 @@ Durante este sprint, se completaron las siguientes tareas:
 
       ![Imagen de WhatsApp 2024-04-14 a las 01 26 21_0e317867](https://github.com/LiveLinORG/Informes/assets/127764958/63a753c1-2f88-4519-a0d7-80fd51a78df9)        
     
+   - 5.2.2. Sprint 2
+	- 5.2.2.1 Sprint Planning 2
+| **Sprint #** | **Sprint 2** |
+| :- | :- |
+| **Sprint Planning Background** | |
+| Date | 20/04/2024 |
+| Time | 8:00 PM - 11:00 PM |
+| Location | Discord |
+| **Prepared By** | Adrián Enrique Jesús Palma Obispo  |
+| Attendees | - Adrián Enrique Jesús Palma Obispo<br>- Erick Joaquín Palomino Santa Cruz<br>- Joaquín Alonso Carbajal Pozzo<br>- Piero Alonso Martínez Villanueva<br>- Renzo César Silva Morales |
+| **Sprint 2 Review Summary** | Diseño y desarrollo del Frontend Web App |
+| **Sprint 2 Retrospective Summary** | Completar los diseños y estandarizar el lenguaje usado en el desarrollo y presentación del Frontend Web App |
+| **Sprint Goal & User Stories** | |
+| **Sprint 2 Goal** | Elaborar, diseñar y desplegar un Frontend del Web App atractiva y simple para la apliación NoteLive |
+| **Sprint 2 Velocity** | 15 |
+| **Sum of Story Points** | 15 |
 
+- 5.2.2.2. Sprint Backlog.
+     
+|**Sprint #**|**Sprint 2**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-do / In-Process / To-Review / Done)|
+|US10|Exportación de Registro de Preguntas|W-10|Como usuario quiero que haya un botón para exportar el archivo con el registro de preguntas formuladas durante una sesión para utilizarlo como material de estudio.|14 hours|[Por Asignar]|Done|
+|US24|Emojis y Reacciones|W-24|Emojis y Reacciones|Como usuario (estudiante) quiero poder reaccionar a las preguntas que hacen mis compañeros para poder tener interacciones más amenas.|4 hours|[Por Asignar]|Done|
+|US31|Ingreso a sala sin cuenta|W-31|Ingreso a sala sin cuenta|Como usuario (alumno) quiero poder ingresar a una sala sin iniciar sesión para evitar crear una cuenta y agilizar el proceso de ingreso.|6 hours|[Por Asignar]|Done|
+|US32|Inicio de sesión con cuenta|W-32|Inicio de sesión con cuenta|Como usuario quiero poder ingresar a una sala con mi cuenta para utilizar los beneficios de mi plan.|14 hours|[Por Asignar]|Done|
+|US33|registro de una cuenta nueva|W-33|registro de una cuenta nueva|Como usuario quiero poder crear una cuenta nueva para poder adquirir un plan e ingresar a sesiones con mis datos de forma automática.|8 hours|[Por Asignar]|Done|
+|US34|Ver los participantes|W-34|Ver los participantes|Como usuario quiero poder visualizar la lista de los participantes de una sesión poder tener en cuenta la cantidad de personas que están asistiendo.|8 hours|[Por Asignar]|Done|
+|US35|Cargar un documento|W-35|Cargar un documento|Como usuario (profesor) quiero poder cargar un documento a la sesión para poder presentarle a mis alumnos los temas que se realizarán en clase.|10 hours|[Por Asignar]|Done|
+|US36|Realizar preguntas|W-36|Realizar preguntas|Como usuario (alumno) quiero poder realizar preguntas en la clase para que el profesor las resuelva y queden registradas en el sistema.|6 hours|[Por Asignar]|Done|
+|US37|Mandar mensajes grupales|W-37|Mandar mensajes grupales|Como usuario quiero poder enviar mensajes grupales para que todos los presentes puedan visualizar y comentar sobre mi comunicado.|6 hours|[Por Asignar]|Done|
+|US38|Visualizar la diapositiva|W-38|Visualizar la diapositiva|Como usuario (alumno) quiero poder visualizar las diapostivas que presente el profesor para estar al tanto de lo que este menciona y explica.|10 hours|[Por Asignar]|Done|
 
-
+- 5.2.2.3. Development Evidence for Sprint Review.
   
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|63e0a6b|(feat): adding pages | |May 1, 2024 |
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|fe361f9|add: MainWaitRoom | |Apr 29, 2024 |
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|023fda2|Add: PPT CSS syles | |Apr 27, 2024|
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|b305cac|add: ProfessorSession, StudentSession, Router | | Apr 26, 2024|
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|444019a|add: CreateSesion||Apr 26, 2024|
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|0133e2a|Add: JoinSession||Apr 26, 2024|
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|b8a7249|Update main-contaienr.vue| | Apr 23, 2024 |
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|a0fb5ea|update: Main-container CardPregunta|| Apr 23, 2024 |
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|c81aafe|Feature: TheChat added||Apr 23, 2024|
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|7ce020a|Update OrangeCard.vue |  |Apr 23, 2024|
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|2b85e15| Add: footer basic component| |Apr 23, 2024|
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|c63b18f|add:header primer prototipo | |Apr 23, 2024 |
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|df6247b|add: PreguntaCard||Apr 23, 2024|
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|408dadd|(fix): Fix db.json atributes||May 2, 2024| 
+|https://github.com/LiveLinORG/FrontEnd<br>/FrontEnd|Main|63e0a6b|(feat): adding pages||May 2, 2024|
+
+- 5.2.2.4. Testing Suite Evidence for Sprint Review.
+En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.
+
+- 5.2.2.5. Execution Evidence for Sprint Review.
+
+<img src="images/MainMenu.jpg" alt="Compilación del menú principal del WebApp" width="80%">
+
+<img src="images/JoinMenu.jpg" alt="Compilación del menú de unión del WebApp" width="80%">
+
+<img src="images/NameCreateMenu.jpg" alt="Compilación del menú de ingresar el nombre al crear una sesión del WebApp" width="80%">
+
+<img src="images/CreateMenu.jpg" alt="Compilación del menú de crear sesión del WebApp" width="80%">
+
+<img src="images/SesionMenu.jpg" alt="Compilación del menú de la sesión del WebApp" width="80%">
+
+- 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+- 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+- 5.2.2.8. Team Collaboration Insights during Sprint.
+
 
 ## Conclusiones
 
