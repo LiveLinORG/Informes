@@ -68,6 +68,16 @@ Evidencias del Insights Contributos de los commits del informe:
 ![image](https://github.com/LiveLinORG/Informes/assets/48342953/cf95a454-2510-4ef1-87f2-d8d2ef2f060f)
 ![image](https://github.com/LiveLinORG/Informes/assets/48342953/ef107f0f-87e4-4f21-8503-8829144fac19)
 
+**TP1:**
+
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo| Desarrollo de páginas del aplicativo web |
+| Joaquín Alonso Carbajal Pozzo|Diseño de la web app, corrección y avance del informe |
+| Erick Joaquin Palomino Santa Cruz| Desarrollo de páginas del aplicativo y entrevistas|
+| Piero Alonso Martinez Villanueva |Desarrollo de páginas del aplicativo web|
+| Renzo Cesar Silva Morales |Diseño de la web app y entrevistas|
+
 # Contenido
 
 ## Tabla de contenidos
@@ -1455,9 +1465,21 @@ En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación 
 
 - 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite hospedar y desplegar sitios web estáticos de manera sencilla. 
+
+<img src="images/netlifi.jpg" alt="Netlifi" width="80%">
+
 - 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 - 5.2.2.8. Team Collaboration Insights during Sprint.
+
+  | Alumno                              | Actividad                                                  |
+  |-------------------------------------|------------------------------------------------------------|
+  | Palma Obispo, Adrián Enrique Jesús   | Desarrollo Del Aplicativo  |
+  | Palomino Santa Cruz, Erick Joaquin      | Desarrollo Del Aplicativo |
+  | Silva Morales, Renzo Cesar      | Diseño del aplicativo |
+  | Carbajal Pozzo, Joaquín Alonso  | Diseño del aplicativo|
+  | Martinez Villanueva, Piero Alonso | Desarrollo Del Aplicativo |
 
 
 ## Conclusiones
