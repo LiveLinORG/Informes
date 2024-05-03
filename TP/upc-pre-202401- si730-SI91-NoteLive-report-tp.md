@@ -80,6 +80,13 @@ Para la elaboración del informe del TP, se asignó las siguientes tareas a cada
 | Piero Alonso Martinez Villanueva |Desarrollo de páginas del aplicativo web|
 | Renzo Cesar Silva Morales |Diseño de la web app y entrevistas|
 
+Evidencias de los Insights
+Front End:
+<img src="images/tp1Front.jpg" width="80%">
+<img src="images/tp1Front2.jpg" width="80%">
+<img src="images/tp1Informe.jpg" width="80%">
+<img src="images/tp1Informe2.jpg" width="80%">
+
 # Contenido
 
 ## Tabla de contenidos
@@ -1370,6 +1377,7 @@ Durante este sprint, se completaron las siguientes tareas:
     
    - 5.2.2. Sprint 2
 	- 5.2.2.1 Sprint Planning 2
+
 | **Sprint #** | **Sprint 2** |
 | :- | :- |
 | **Sprint Planning Background** | |
