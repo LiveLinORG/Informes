@@ -83,10 +83,12 @@ Para la elaboración del informe del TP, se asignó las siguientes tareas a cada
 Evidencias de los Insights
 
 Front End:
+
 <img src="images/tp1Front.jpg" width="80%">
 <img src="images/tp1Front2.jpg" width="80%">
 
-Informe
+Informe:
+
 <img src="images/tp1Informe.jpg" width="80%">
 <img src="images/tp1Informe2.jpg" width="80%">
 
