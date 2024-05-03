@@ -1546,6 +1546,8 @@ Enlace para acceder a la landing page: [Ver enlace](https://notelive.netlify.app
 Videos de todas las entrevistas:
 - [ Ver enlace](https://youtu.be/iZBerMLXzHU)
 - [Ver enlace](https://youtu.be/eT3FQE8czCA)
+- [ Ver enlace](https://www.youtube.com/watch?v=bStDH6XQV3c)
+- [Ver enlace](https://www.youtube.com/watch?v=hK_kVTG_2ds)
 
 Repositorio GitHub LandingPage: [Ver enlace](https://github.com/LiveLinORG/FrontEnd)
 
