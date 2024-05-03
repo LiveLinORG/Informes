@@ -915,7 +915,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 - 4.6. Software Object-Oriented Design.
   - 4.6.1. Class Diagrams. <br>
     A continuación, se presenta el diagrama de clases de NoteLive elaborado en StarUML:
-    <img src="images/NoteLive-ClassDiagram.jpg">
+   <p align="center" alt="Diagrama de clases"><img src="images/class-diagram.png"></p>
     
   - 4.6.2. Class Dictionary. <br>
   
@@ -971,63 +971,6 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 	| send(content)                     | Envía un mensaje en el chat.                        |
 	| edit(content)                     | Edita un mensaje previamente enviado en el chat.    |
 	| delete(content)                   | Elimina un mensaje del chat.                        |
-
-
-    - Whiteboard:
-      
-	| Atributo    | Tipo de Dato | Descripción                                |
-	|-------------|---------------|--------------------------------------------|
-	| id          | int           | Identificador único del pizarrón.         |
-	| tools       | Tool          | Herramientas disponibles en el pizarrón. |
-	
-	| Método                             | Descripción                                |
-	|------------------------------------|--------------------------------------------|
-	| draw(tools)                        | Dibuja utilizando las herramientas.        |
-	| delete(tool)                       | Elimina una herramienta del pizarrón.     |
-
-
-    - Tool:
-      
-	| Atributo    | Tipo de Dato | Descripción                                |
-	|-------------|---------------|--------------------------------------------|
-	| id          | int           | Identificador único de la herramienta.    |
-	| texts       | Text          | Textos disponibles.                        |
-	| rectangles  | Rectangle     | Rectángulos disponibles.                   |
-	| lines       | Line          | Líneas disponibles.                        |
-	
-	| Método                             | Descripción                                |
-	|------------------------------------|--------------------------------------------|
-	| chooseTool()                       | Selecciona una herramienta.                |
-
-
-    - Text:
-      
-	| Atributo    | Tipo de Dato | Descripción                                |
-	|-------------|---------------|--------------------------------------------|
-	| content     | string        | Contenido del texto.                       |
-	| position    | point         | Posición del texto en el pizarrón.        |
-	| color       | string        | Color del texto.                           |
-	| fontSize    | int           | Tamaño de fuente del texto.                |
-	| fontFamily  | string        | Fuente del texto.                          |
-
-
-    - Rectangle:
-      
-	| Atributo    | Tipo de Dato | Descripción                                |
-	|-------------|---------------|--------------------------------------------|
-	| position    | point         | Posición del rectángulo en el pizarrón.   |
-	| color       | string        | Color del rectángulo.                      |
-	| size        | Size          | Tamaño del rectángulo.                     |
-	| filled      | bool          | Indica si el rectángulo está relleno.      |
-
-    - Line:
-      
-	| Atributo    | Tipo de Dato | Descripción                                |
-	|-------------|---------------|--------------------------------------------|
-	| start       | point         | Punto de inicio de la línea.               |
-	| end         | point         | Punto final de la línea.                   |
-	| color       | string        | Color de la línea.                         |
-	| thickness   | int           | Grosor de la línea.                        |
 
 
     - Presentation:
@@ -1088,7 +1031,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 - 4.7. Database Design.
   - 4.7.1. Database Diagram. <br>
     EL diagrama de la base de datos fue realizada en Vertabelo. A continuación, se adjunta la imagen:
-    <img src="images/NoteLive-Database-2024-04-12_20-00.png">
+    <p align="center" alt="Diagrama de base de datos"><img src="images/Database-diagram.png"></p>
     Link: <br> https://my.vertabelo.com/public-model-view/fuS8RWFvR1OHpcwngaR9so1dVVo0nB8OVzBqTJaKeoAfGmtmpp938Kf4dVDGMS5Q?x=3114&y=3451&zoom=0.5143
 
 ### 5. Capítulo V: Product Implementation, Validation & Deployment
