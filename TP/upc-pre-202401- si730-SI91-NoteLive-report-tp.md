@@ -372,6 +372,7 @@ Capítulo I: Introducción
 
 
       	  - Entrevista #2:
+           <img src="images/EntrevistaRenzo02.jpg" width="100%" align="center">
 	 
       	  Entrevistado: Moises Rodolfo Donayre Peña<br>
       	  Entrevistador: Renzo Cesar Silva Morales<br>
@@ -381,6 +382,7 @@ Capítulo I: Introducción
 
 
       	  - Entrevista #3:
+      	  <img src="images/EntrevistaRenzo03.jpg" width="100%" align="center">
 	 
       	  Entrevistado: Alvaro Gonzalo Reyna Silva<br>
       	  Entrevistador: Renzo Cesar Silva Morales<br>
