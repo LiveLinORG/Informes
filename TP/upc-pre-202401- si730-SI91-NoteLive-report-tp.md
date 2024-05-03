@@ -70,6 +70,8 @@ Evidencias del Insights Contributos de los commits del informe:
 
 **TP1:**
 
+Para la elaboración del informe del TP, se asignó las siguientes tareas a cada integrante del equipo:
+
 | Integrante                            | Tareas Designadas       |
 |-----------------------------------|--------------|
 | Adrián Enrique Jesús Palma Obispo| Desarrollo de páginas del aplicativo web |
