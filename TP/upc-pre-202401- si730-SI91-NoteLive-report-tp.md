@@ -1467,7 +1467,7 @@ En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación 
 
 Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite hospedar y desplegar sitios web estáticos de manera sencilla. 
 
-<img src="images/netlifi.jpg" alt="Netlifi" width="80%">
+<img src="images/netlify.jpg" alt="Netlify" width="70%">
 
 - 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
