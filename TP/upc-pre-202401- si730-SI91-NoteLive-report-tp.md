@@ -394,6 +394,16 @@ Capítulo I: Introducción
        En la entrevista, se abordaron varios temas relacionados con la seguridad y privacidad de los datos en plataformas en línea, particularmente en contextos educativos e institucionales. El entrevistado expresó su preocupación por la delicadeza de la información compartida en estos entornos, dado que muchas veces se utilizan correos electrónicos o identificaciones asociadas con el ámbito educativo o laboral. Se destacó la necesidad de que las plataformas respeten y protejan la privacidad de los usuarios, dado que no son programas de uso libre, sino que implican información sensible.
 	Luego, se exploraron experiencias previas con plataformas similares a LiveLin, como Canvas Student y Google Classroom. El entrevistado describió estas plataformas como accesibles pero con opciones limitadas, lo que sugiere la necesidad de explorar y aprovechar al máximo las características disponibles. Se resaltó la importancia de una interfaz intuitiva y fácil de usar para facilitar la participación de los estudiantes, especialmente aquellos que pueden tener menos familiaridad con la tecnología.
 	Además, se discutió la importancia de que una plataforma educativa sea visualmente atractiva y estimulante para los estudiantes, dado que la generación actual ha crecido rodeada de tecnología y tiende a valorar más las imágenes y los colores que el texto puro. Se sugirió que una interfaz atractiva podría aumentar el compromiso de los estudiantes con la plataforma y, por ende, con su educación.
+
+
+     - Entrevista #2: Moises Rodolfo Donayre Peña
+
+	En la entrevista se discute sobre la instalación de software adicional o si se está dispuesto a hacerlo si este ofrece más funcionalidades, a lo que se responde afirmativamente, dejando explícitamente que si es que se ofrece contenido adicional, se está dispuesto a hacer una instalación de software. Además se valora la opción del anonimato al momento de realizar las preguntaas y se le da importancia al uso en dispositivos móviles. También se remarca la importancia de la seguridad y privacidad de los datos del usuario.
+
+     - Entrevista #3: Alvaro Gonzalo Reyna Silva
+
+	El entrevistado destaca preferir una aplicación web antes que realizar una instalación de software, pero remarca estar dispuesto a realizar una instalación de software si es que este dispone una mejora en las funcionalidades que ofrece. El entrevistado también remarca la importancia a las facilidades de uso que ofrece y la importancia de un chat en la versión de dispositivos móviles.También menciona que el exito de una plataforma en el ambito educativo se basa en su capacidad para facilitar la comunicación entre estudiantes y profesores.
+
        
    - Profesores y Educadores:
      - Entrevista #1: Valeria Perez Yucra<br>
