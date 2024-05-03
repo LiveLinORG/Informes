@@ -355,7 +355,26 @@ Capítulo I: Introducción
 	  Duración: 08:15<br>
    	  Link: https://youtu.be/iZBerMLXzHU?si=GmDG8FpFuHDhCL4- <br>
       	  Resumen: La entrevistada discute la importancia de la seguridad y privacidad de los datos en plataformas en línea, especialmente en entornos 	educativos e institucionales. Se mencionan experiencias con plataformas similares a LiveLin, como Canvas Student y Google Classroom, destacando la accesibilidad pero también las limitaciones en opciones. Se subraya la importancia de una interfaz intuitiva y fácil de usar para incentivar la participación de los estudiantes, especialmente aquellos menos familiarizados con la tecnología. Finalmente, se sugiere que el éxito de una plataforma educativa radica en una interfaz visualmente atractiva, adaptada a la preferencia de los estudiantes contemporáneos por las imágenes y los colores sobre el texto.
-      	  
+
+
+      	  - Entrevista #2:
+	 
+      	  Entrevistado: Moises Rodolfo Donayre Peña<br>
+      	  Entrevistador: Renzo Cesar Silva Morales<br>
+	  Duración: 05:02<br>
+   	  Link: https://www.youtube.com/watch?v=bStDH6XQV3c <br>
+      	  Resumen: En la entrevista se discute sobre la instalación de software adicional o si se está dispuesto a hacerlo si este ofrece más funcionalidades, a lo que se responde afirmativamente, dejando explícitamente que si es que se ofrece contenido adicional, se está dispuesto a hacer una instalación de software. Además se valora la opción del anonimato al momento de realizar las preguntaas y se le da importancia al uso en dispositivos móviles. También se remarca la importancia de la seguridad y privacidad de los datos del usuario.
+
+
+      	  - Entrevista #3:
+	 
+      	  Entrevistado: Alvaro Gonzalo Reyna Silva<br>
+      	  Entrevistador: Renzo Cesar Silva Morales<br>
+	  Duración: 04:14<br>
+   	  Link: https://www.youtube.com/watch?v=hK_kVTG_2ds <br>
+      	  Resumen: El entrevistado destaca preferir una aplicación web antes que realizar una instalación de software, pero remarca estar dispuesto a realizar una instalación de software si es que este dispone una mejora en las funcionalidades que ofrece. El entrevistado también remarca la importancia a las facilidades de uso que ofrece y la importancia de un chat en la versión de dispositivos móviles.También menciona que el exito de una plataforma en el ambito educativo se basa en su capacidad para facilitar la comunicación entre estudiantes y profesores.
+ 
+ 		
       	  
     - Profesores y Educadores:
     	- Entrevista #1:
