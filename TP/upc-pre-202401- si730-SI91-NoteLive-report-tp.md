@@ -40,13 +40,10 @@
 
 ### Registro de versiones del informe
 
-| Versión   | Fecha       | Autor      | Descripción                                                                                      | 
-|-----------|-------------|------------|--------------------------------------------------------------------------------------------------|
-| 1.0       |  2024/03/24    |Palma Obispo, Adrián Enrique Jesús | Creación del documento de trabajo en formato markdown y creación del código base. | 
-| 1.1       |  2024/03/25    |Joaquin Alonso Carbajal Pozzo| Merge de pull request para las branch del trabajo de capitulos | 
-| 1.2       |  2024/03/25    |Erick Joaquin Palomino Santa Cruz |Diseño y creación de entrevistas | 
-| 1.3       |  2024/03/26    |Renzo Cesar Silva Morales |Diseño de Style Guidelines | 
-| 1.4       |  2024/04/10    |Piero Alonso Martinez Villanueva |Diagrama de Clases y Diagrama de Base de Datos |
+|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
+| - | - | - | - |
+|**1.0**|10/04/2024|<p>Carbajal Pozzo, Joaquin Alonso</p><p></p><p>Martinez Villanueva, Piero Alonso</p><p></p><p>Palma Obispo, Adrián Enrique Jesús</p><p></p><p>Palomino Santa Cruz, Erick Joaquin</p><p></p><p>Silva Morales, Renzo Cesar</p><p></p>|Creación del documento de trabajo en formato markdown y creación del código base.<br><br>Merge de pull request para las branch del trabajo de capitulos<br><br>Diseño y creación de entrevistas<br><br>Diseño de Style Guidelines<br><br>Diagrama de Clases y Diagrama de Base de Datos|
+|**2.0**|03/05/2024|<p>Carbajal Pozzo, Joaquin Alonso</p><p></p><p>Martinez Villanueva, Piero Alonso</p><p></p><p>Palma Obispo, Adrián Enrique Jesús</p><p></p><p>Palomino Santa Cruz, Erick Joaquin</p><p></p><p>Silva Morales, Renzo Cesar</p>|Primera versión de Frontend Web Application<br><br>Development Evidence for Sprint Review<br><br>Testing Suite Evidence for Sprint Review<br><br>Execution Evidence for Sprint Review<br><br>Services Documentation Evidence for Sprint Review<br><br>Software Deployment Evidence for Sprint Review|
 
 
 
