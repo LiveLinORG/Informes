@@ -397,6 +397,17 @@ Capítulo I: Introducción
   	  Duración: 15:43<br>
           Link: https://youtu.be/eT3FQE8czCA <br>
           Resumen: La señora Valeria nos cuenta como ha sido su experiencia usando plataformas para el dictado de clases en línea, nos comenta que es importante que NoteLive contenga funcionalidades esenciales para el proceso de enseñanza y aprendizaje en cada uno de los niveles de enseñanza existentes en nuestro País.
+
+
+	- Entrevista #2:
+    
+    	<img src="https://github.com/LiveLinORG/Informes/assets/127764958/23aea9f2-a52f-4726-8dd1-e7c987a1b862" width="100%" align="center">
+
+	Entrevistado: Moises Reinaldo Santa Cruz<br>
+ 	Entrevistador: Erick Joaquin Palomino Santa Cruz<br>
+  	Duracion: 9:56<br>
+   	Link: https://youtu.be/NiCX_9KP5_M?si=TtkV8eYGrlVI1TUd <br>
+    	Resumen: El señor Moises nos cuenta su experiencia como profesor y como las plataformas virtuales ayudan a mejorar el proceso de aprendizaje y a mejorar las tecnicas de enseñanza. 
            
   - 2.4.3. Análisis de entrevistas.
    - Usuarios y Estudiantes:
@@ -421,6 +432,10 @@ Capítulo I: Introducción
        Después de la entrevista, se descubrió que la profesora necesitaba varias funciones importantes de NoteLive. La maestra enfatizó la importancia de que la plataforma sea adaptable a varios niveles de enseñanza. Sugirió que la interfaz debe ser divertida y amigable para los estudiantes de niveles inferiores. Mientras tanto, para niveles superiores, como escuela secundaria, universidad o instituto, la interfaz debería ser más seria y los colores deberían ser más neutros.
 Para aumentar la versatilidad, la profesora también mencionó la necesidad de incluir herramientas como una pizarra digital y la capacidad de incorporar material multimedia, ya sea desde YouTube u otro contenido propio, en las presentaciones. Además, sugirió que la aplicación debe permitir al maestro silenciar tanto el chat de voz como el texto de los estudiantes, así como proporcionar un glosario o un buscador para ayudar a los estudiantes a resolver sus dudas.
 La posibilidad de que los estudiantes tengan su propia pizarra o anotador para tomar apuntes y comparar sus respuestas con el instructor, así como la inclusión de encuestas que evalúen la comprensión de los estudiantes de la clase dictada, son otras características significativas. Por último, el educador enfatizó la importancia de que NoteLive se diferencie de la competencia al ofrecer opciones de personalización que se adapten a las necesidades únicas de cada educador en la plataforma.
+
+	- Entrevista #2: Moises Reinaldo Suarez<br>
+ 	Durante la entrevista, Moisés discute cómo las herramientas digitales han revolucionado la educación, permitiendo a los educadores acceder a una amplia gama de recursos y estrategias para hacer que el aprendizaje sea más interactivo y efectivo. Él enfatiza la importancia de adaptarse a los avances tecnológicos para mantenerse al día con las necesidades y expectativas de los estudiantes en la era digital. Además, Moisés reflexiona sobre los desafíos y las oportunidades que enfrentan los educadores al utilizar plataformas virtuales en el aula. Destaca la necesidad de capacitar a los docentes en el uso efectivo de estas herramientas y en la creación de contenido educativo relevante y atractivo. Asimismo, enfatiza la importancia de mantener un equilibrio entre el uso de la tecnología y las metodologías tradicionales para garantizar una educación integral y de calidad.
+ 
 
 - 2.5. Needfinding.
   
@@ -1454,6 +1469,21 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
 <img src="images/netlify.jpg" alt="Netlify" width="70%">
 
 - 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+	- Menu Principal
+  	<img src="images/MainMenu.jpg" alt="Compilación del menú principal del WebApp" width="80%">
+
+ b) Vista crear sesion 
+  <img src="![image](https://github.com/LiveLinORG/Informes/assets/127764958/b9e35079-da0e-4380-8914-9c025d96115e)
+">
+
+ c) Vista sala creada
+  <img src="![image](https://github.com/LiveLinORG/Informes/assets/127764958/8285f3ac-0259-4952-9c65-fd86959ff9ed)
+">
+
+ d) Vista sala empezada
+  <img src="![image](https://github.com/LiveLinORG/Informes/assets/127764958/fda29d94-c1bb-4662-9ce6-2874e25d8a28)
+">
 
 - 5.2.2.8. Team Collaboration Insights during Sprint.
 
