@@ -1,5 +1,5 @@
 # Universidad Peruana de Ciencias Aplicadas  
-### INFORME DEL TRABAJO 1 (TB1)
+### INFORME DEL TRABAJO PARCIAL (TP)
 <p align="center">
 	
 <img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60">
@@ -96,7 +96,7 @@ Informe:
 
 ## Tabla de contenidos
 - [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-    - [INFORME DEL TRABAJO 1 (TB1)](#informe-del-trabajo-1-tb1)
+    - [INFORME DEL TRABAJO PARCIAL (TP)](#informe-del-trabajo-parcial-tp)
     - [Integrantes:](#integrantes)
     - [Registro de versiones del informe](#registro-de-versiones-del-informe)
     - [Project Report Collaboration Insights](#project-report-collaboration-insights)
