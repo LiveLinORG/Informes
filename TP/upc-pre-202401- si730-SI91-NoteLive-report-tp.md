@@ -1471,19 +1471,29 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
 - 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 	- Menu Principal
-  	<img src="images/MainMenu.jpg" alt="Compilación del menú principal del WebApp" width="80%">
+  	<img src="images/menu_principal_netlify.jpg" alt="Compilación del menú principal del WebApp" width="80%">
 
- b) Vista crear sesion 
-  <img src="![image](https://github.com/LiveLinORG/Informes/assets/127764958/b9e35079-da0e-4380-8914-9c025d96115e)
-">
+ 	- Vista registro
+   	<img src="images/registro_netlify.jpg" alt="Compilación del registro WebApp" width="80%">
 
- c) Vista sala creada
-  <img src="![image](https://github.com/LiveLinORG/Informes/assets/127764958/8285f3ac-0259-4952-9c65-fd86959ff9ed)
-">
+	- Vista inicio de sesion
+   	<img src="images/iniciar_sesion_netlify.jpg" alt="Compilación del inicio de sesion WebApp" width="80%">
 
- d) Vista sala empezada
-  <img src="![image](https://github.com/LiveLinORG/Informes/assets/127764958/fda29d94-c1bb-4662-9ce6-2874e25d8a28)
-">
+	- Vista Crear Sesion
+   	<img src="images/crear_sesion_netlify.jpg" alt="Compilación del registro WebApp" width="80%">
+
+	- Vista Sala Creada
+   	<img src="images/sala_creada_netlify.jpg" alt="Compilación del registro WebApp" width="80%">
+
+	- Vista Profesor Sesion
+   	<img src="images/professor_sesion_netlify.jpg" alt="Compilación del registro WebApp" width="80%">
+
+	- Vista Unirse Sesion
+   	<img src="images/unirse_sesion_netlify.jpg" alt="Compilación del registro WebApp" width="80%">
+
+	- Vista Sala Creada Alumno
+   	<img src="images/sala_creada_alumno_netlify.jpg" alt="Compilación del registro WebApp" width="80%">
+
 
 - 5.2.2.8. Team Collaboration Insights during Sprint.
 
