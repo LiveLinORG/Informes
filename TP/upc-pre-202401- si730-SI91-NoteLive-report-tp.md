@@ -1481,6 +1481,8 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
 ## Anexos
 Enlace para acceder a la landing page: [Ver enlace](https://notelive.netlify.app/)
 
+Enlace para acceder al Front End: [Ver enlace](https://notelivewebapp.netlify.app/)
+
 Videos de todas las entrevistas:
 - [ Ver enlace](https://youtu.be/iZBerMLXzHU)
 - [Ver enlace](https://youtu.be/eT3FQE8czCA)
