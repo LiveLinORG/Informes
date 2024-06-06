@@ -619,9 +619,11 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
  	 | US033| Registro de una cuenta nueva	       | Como usuario quiero poder crear una cuenta nueva para poder adquirir un plan e ingresar a sesiones con mis datos de forma automática | Escenario 1: Creación de cuenta **Dado** que el usuario se encuentra dentro del aplicativo **Cuando** este presione el botón de iniciar sesión **Y** presione el botón de crear cuenta **Y** llene de forma satisfactoria todos los datos que se le solicitan **Entonces** podrá crear una cuenta nueva  | Epic #2 - Funcionalidades Clave |
   	 | US034| Ver los participantes	       | Como usuario quiero poder visualizar la lista de los participantes de una sesión poder tener en cuenta la cantidad de personas que están asistiendo | Escenario 1: Visualización de la lista **Dado** que el usuario se encuentra dentro de la aplicación **Cuando** este ingrese a una sesión que aún no comienza **Entonces** podrá visualizar la lista de los participantes que están en espera | Epic #2 - Funcionalidades Clave |
   	| US035| Cargar un documento	       | Como usuario (profesor) quiero poder cargar un documento a la sesión para poder presentarle a mis alumnos los temas que se realizarán en clase | Escenario 1: Carga de documentos **Dado** que el usuario (profesor) se encuentra dentro del aplicativo **Cuando** este presione el botón de crear sesión **Y** presione el botón de subir documento **Y** cargue el documento deseado **Entonces** el documento se cargará y será visualizado por la clase cuando la sesión inicie  | Epic #2 - Funcionalidades Clave |
-	  | US036| Realizar preguntas	       | Como usuario (alumno) quiero poder realizar preguntas en la clase para que el profesor las resuelva y queden registradas en el sistema | Escenario 1: Realización de pregunta **Dado** que el usuario (alumno) se encuentra dentro una sesión activa **Cuando** este ingrese texto en la casilla de hacer una pregunta **Y** presione el botón de enviar **Entonces** la pregunta aparecerá en el lado derecho de la pantalla en forma de tarjeta  | Epic #2 - Funcionalidades Clave |
+	  | US036 | Realizar preguntas 		| Como usuario (alumno) quiero poder realizar preguntas en la clase para que el profesor las resuelva y queden registradas en el sistema | Escenario 1: Realización de pregunta **Dado** que el usuario (alumno) se encuentra dentro una sesión activa **Cuando** este ingrese texto en la casilla de hacer una pregunta **Y** presione el botón de enviar **Entonces** la pregunta aparecerá en el lado derecho de la pantalla en forma de tarjeta  | Epic #2 - Funcionalidades Clave |
  	 | US037| Mandar mensajes grupales    | Como usuario quiero poder enviar mensajes grupales para que todos los presentes puedan visualizar y comentar sobre mi comunicado | Escenario 1: Envío de mensajes **Dado** que el usuario se encuentra dentro una sesión activa **Cuando** este ingrese texto en la casilla de enviar un mensaje en el apartado de chat **Y** presione el botón de enviar **Entonces** el texto aparecerá en el lado izquierdo de la pantalla en forma de caja de chat  | Epic #2 - Funcionalidades Clave |
  	 | US038| Visualizar la diapositiva    | Como usuario (alumno) quiero poder visualizar las diapostivas que presente el profesor para estar al tanto de lo que este menciona y explica | Escenario 1: Visualizar diapositiva **Dado** que el usuario se encuentra dentro una de la aplicación **Cuando** este ingrese a una sesión **Entonces** podrá visualizar las diapositivas que el profesor haya decidido compartir  | Epic #2 - Funcionalidades Clave |
+  | US039| Modelado de las clases y endpoints | Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios. | Escenario: Definición de Clases y Endpoints Dado que: Soy un desarrollador encargado del backend de la aplicación. Cuando: Comienzo a diseñar la arquitectura de clases para el backend. Entonces: Identifico las entidades principales que formarán parte del sistema. Entonces: Defino las relaciones entre estas entidades. Entonces: Establezco los endpoints necesarios para interactuar con estas entidades. Y: Verifico que las clases estén bien estructuradas y que los endpoints cubran todas las funcionalidades requeridas por la aplicación, lo que garantiza un backend robusto y escalable.  | Epic #6 - Desarrollo del Backend |
+   | US040| Integracion del backend con el frontend    | Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de NoteLive para permitir una interacción completa y sin problemas en la aplicación. | Escenario: Integración del Backend con el Frontend Dado que: Soy un desarrollador encargado de integrar el backend con el frontend de la aplicación PocketPartners. Cuando: Comienzo el proceso de integración. Entonces: Configuro las rutas de acceso en el backend para que coincidan con las necesidades del frontend. Entonces: Implemento los controladores y servicios necesarios en el backend para procesar las solicitudes del frontend de manera adecuada. Entonces: Establezco una API RESTful que permita la transferencia de datos entre el frontend y el backend de manera eficiente y segura. Entonces: En el frontend, consumo los endpoints proporcionados por el backend utilizando tecnologías como Axios o Fetch. Y: Verifico que la integración sea exitosa al realizar pruebas de extremo a extremo, lo que garantiza una interacción completa y sin problemas en la aplicación NoteLive.  | Epic #6 - Desarrollo del Backend |
 
 - 3.3. Impact Mapping.
 	### Segmento Usuario
@@ -1448,6 +1450,325 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
   | Carbajal Pozzo, Joaquín Alonso  | Diseño del aplicativo|
   | Martinez Villanueva, Piero Alonso | Desarrollo Del Aplicativo |
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+<table>
+  <caption>Sprint #3</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>31/05/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>17:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Adrián Enrique Jesús Palma Obispo</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de LiveLin</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 3 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creara el repositiorio del Backend de LiveLin y se dividiran las tareas de este segun corresponda.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 3 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se hizo las mejoras correspondientes al TP
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 3 Velocity</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>7</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Sprint #</th>
+    <th style="border: 1px solid black;" colspan="8">Sprint 3</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;" colspan="2">User Story</th>
+    <th style="border: 1px solid black;" colspan="7">Workitem/Task</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">EPIC ID</th>
+    <th style="border: 1px solid black;">EPIC Title</th>
+    <th style="border: 1px solid black;">US-ID</th>
+    <th style="border: 1px solid black;">Title</th>
+    <th style="border: 1px solid black;">Description</th>
+    <th style="border: 1px solid black;">Task</th>
+    <th style="border: 1px solid black;">Estimation (Hours)</th>
+    <th style="border: 1px solid black;">Assigned To</th>
+    <th style="border: 1px solid black;">Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;" rowspan="4">EP-03</td>
+    <td style="border: 1px solid black;" rowspan="4">Desarrollo del Backend</td>
+    <td style="border: 1px solid black;" rowspan="2">US-25</td>
+    <td style="border: 1px solid black;" rowspan="2">Modelado de las clases y endpoints</td>
+    <td style="border: 1px solid black;" rowspan="2">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
+    <td style="border: 1px solid black;">Modelado de clases en Rider</td>
+    <td style="border: 1px solid black;" rowspan="2">3h</td>
+    <td style="border: 1px solid black;" rowspan="2">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
+    <td style="border: 1px solid black;" rowspan="2">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Desarrollar y acceder a los endpoints necesarios</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">US-26</td>
+    <td style="border: 1px solid black;">Integracion del backend con el frontend</td>
+    <td style="border: 1px solid black;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
+    <td style="border: 1px solid black;">Realizar conectividad</td>
+    <td style="border: 1px solid black;">4h</td>
+    <td style="border: 1px solid black;">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
+    <td style="border: 1px solid black;">To-Do</td>
+  </tr>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+<p align = "justify">Repositorio Backend</p>
+
+<table border="1" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr>
+  <tr>
+    <td rowspan="31">backend</td>
+    <td rowspan="31">develop</td>
+    <td>ef5601def88d0aafe73666b64d0aee21d0514ec3</td>
+    <td>chore: initial commit</td>
+    <td>30/05/2024</td>
+  </tr>
+   <tr>
+    <td>4ef73da28fb05296178734164976a34ccc638986</td>
+    <td>chore: added shared context.</td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>2956a1492786b703e8747d89983d21e0aafb3c66</td>
+    <td>feat(groupOperations): added main files for group operations.</td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>5ae474e1a2c8bac258b3ea30f08d4bcad7769b31</td>
+    <td>feat(users): added user aggregate</td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>6476aae475aacb03cec6597e4859f2b10f2c90bd</td>
+    <td>feat(users): added users bounded context</td>
+    <td>30/05/2024</td>
+  </tr>
+  <tr>
+    <td>3b5ae18bfc379633548411f9b1790578d35359e8</td>
+    <td>feat(group): added group entity and valueobject</td>
+    <td>31/05/2024</td>
+  </tr>
+  <tr>
+    <td>c7e45704bb1d3165f21c60b6878ba9d07fcac0f2</td>
+    <td>refactor(properties): change pass to database</td>
+    <td>31/05/2024</td>
+  </tr>
+  <tr>
+    <td>cff2c461033ed763d3a0bdd27a1d3613c7a7e1e5</td>
+    <td>refactor(shared): use the Getter in whole class</td>
+    <td>31/05/2024</td>
+  </tr>
+  <tr>
+    <td>cfa3d6760767a993b7bd097f8c2c2083b8742676</td>
+    <td>feat(group): added GroupCommandServiceImpl and GroupCommandService</td>
+    <td>31/05/2024</td>
+  </tr>
+  <tr>
+    <td>fd6d2e8b9398da4681ee27b14571dcf062bdeb38</td>
+    <td>feat(expenses): added the expenses feature.</td>
+    <td>01/06/2024</td>
+  </tr>
+  <tr>
+    <td>448f257a9e2dd54c85e53bf799f77252992e11cf</td>
+    <td>feat(expenses): added userid column with bugs.</td>
+    <td>01/06/2024</td>
+  </tr>
+  <tr>
+    <td>0bd963300ed2f9b1b009cc2fef61727094260b89</td>
+    <td>feat(users): added DELETE & UPDATE commands</td>
+    <td>01/06/2024</td>
+  </tr>
+  <tr>
+    <td>325ad9c4905c4abbaba38fe26027bcffacf5d7f2</td>
+    <td>fix(expenses): error on create</td>
+    <td>01/06/2024</td>
+  </tr>
+  <tr>
+    <td>ba6ab5a90e5ce3a3b9fd0f21ffced97bd5ab65d8</td>
+    <td>fix(db): error Public Key allowed</td>
+    <td>01/06/2024</td>
+  </tr>
+  <tr>
+    <td>355749f026c6c96dce6b45f83f07e63422780d75</td>
+    <td>feat: added update feature to expenses.</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>31bb6d99912e13e55c140ce5111f17577506c1cd</td>
+    <td>chore: created the payment files.</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>766624793b9d44f14a50f923abc070380aa81f2d</td>
+    <td>feat(groups): implemented the post to create a new group</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>4a7c58102711be24f62662bdb2aa84ad76c6b9ab</td>
+    <td>feat: added payments with bugs in the query section</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>c7aefeb19b641d999556ef695853cb91549dcb5e</td>
+    <td>fix: queries by id's fixed</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>3c96b7b04d314c230fe004eab45f4b7f2c239893</td>
+    <td>fix: fixed status display</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>1a786329c12e9289fb46875518cdf368cf62a97c</td>
+    <td>feat(groups): added new endpoint to get groups by id</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>f0ac51bd036aba7e5e1a0faf746154d7a4311301</td>
+    <td>doc(groups): added comments to endpoints</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>50e95f09c89acbd7b701caafac8ed4576d95dade</td>
+    <td>doc(groups): added comments to GroupAgregate</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>cb81fa2820870c9ebc30f210eb8629883431d38c</td>
+    <td>fix(groups): chagedValue on method findByName</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>7affbd98ad072146d7ee65e005b38d8f91031ca9</td>
+    <td>added docs for the new endpoint & fix some methods</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>f23f38a9186371ee6f33e6455de3999d83bee1ce</td>
+    <td>feat(group): added group_member entity</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>df4a456b228ec17dda3f239be67a88b0f66e73d1</td>
+    <td>doc(group): added documentation for entity</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>7b40ed198403d75d16fde0e76f3e94225003e6f3</td>
+    <td>feat(group member): added new endpoint POST to join a group</td>
+    <td>02/06/2024</td>
+  </tr>
+  <tr>
+    <td>0a56d2e37fb84e599b4842d7658a6628145b6097</td>
+    <td>update(groups): added List all Groups</td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>67de7e4d6847112bc11c73efbd4df8698bebbb94</td>
+    <td>feat(member group): new verb GET to get all member from a group</td>
+    <td>03/06/2024</td>
+  </tr>
+  <tr>
+    <td>c0ee5d6c0558f7ec0710aedad52c81d1ff84fd44</td>
+    <td>update(groups): get user full name</td>
+    <td>03/06/2024</td>
+  </tr>
+</table>
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+
+
+
+### 5.3.2. Registro de Entrevistas
+
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+
+
+## 5.4. Video About-the-Product
+
+
 
 ## Conclusiones
 
@@ -1483,11 +1804,16 @@ Enlace para acceder a la landing page: [Ver enlace](https://notelive.netlify.app
 
 Enlace para acceder al Front End: [Ver enlace](https://notelivewebapp.netlify.app/)
 
-Videos de todas las entrevistas:
+Enlace para acceder al Backend: [Ver enlace]()
+
+Videos de todas las entrevistas Capítulo 2:
 - [ Ver enlace](https://youtu.be/iZBerMLXzHU)
 - [Ver enlace](https://youtu.be/eT3FQE8czCA)
 - [ Ver enlace](https://www.youtube.com/watch?v=bStDH6XQV3c)
 - [Ver enlace](https://www.youtube.com/watch?v=hK_kVTG_2ds)
+
+Videos de todas las entrevistas Capítulo 5:
+- [ Ver enlace]()
 
 Repositorio GitHub LandingPage: [Ver enlace](https://github.com/LiveLinORG/FrontEnd)
 
@@ -1495,9 +1821,11 @@ Repositorio GitHub Informe: [Ver enlace](https://github.com/LiveLinORG/Informes)
 
 Figma: [Diseño en Figma para Page Wireframe ](https://www.figma.com/file/4Z0ziDhl6HGJQe6kU7grgV/Landing-Page-MockUP%2C-UI-DESIGN-Wireframe?type=design&node-id=0%3A1&mode=design&t=u6ED4go6SqCr2V73-1)
 
-[video de exposicion TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113821_upc_edu_pe/EcKIs4uw51JHlBMDvmliOsEBSJsIHQx29SvQ2n4tC37ULw?e=pBRwcw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Video de exposición TB1: [video de exposicion TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113821_upc_edu_pe/EcKIs4uw51JHlBMDvmliOsEBSJsIHQx29SvQ2n4tC37ULw?e=pBRwcw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Video de exposición TP: [Video de exposición TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/ETP28OlxVs1DskIB8ymCG90Bb1PFhQyKqvxrk8gU_dBOTQ?e=lLH97k)
+
+Video de exposición TB2: [Video de exposición TB2]()
 
 Figma: [WebApp Wireframe & Mock-Up](https://www.figma.com/file/gvGs7MxjUdjNzR6IM1BGZT/Untitled?type=design&node-id=0%3A1&mode=design&t=YWgUe305ff0ZTPIV-1)
 
