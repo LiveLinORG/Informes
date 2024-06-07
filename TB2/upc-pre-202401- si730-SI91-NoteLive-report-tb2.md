@@ -1570,7 +1570,7 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
     <td style="border: 1px solid black;" rowspan="3">US-31</td>
     <td style="border: 1px solid black;" rowspan="3">Ingreso a sala sin cuenta</td>
     <td style="border: 1px solid black;" rowspan="3">Como usuario (alumno) quiero poder ingresar a una sala sin iniciar sesión para evitar crear una cuenta y agilizar el proceso de ingreso</td>
-    <td style="border: 1px solid black;">Implementación de cuenta temporal</td>
+    <td style="border: 1px solid black;">Implementación de cuenta temporal (CREATE, DELETE)</td>
     <td style="border: 1px solid black;" rowspan="3">3h</td>
     <td style="border: 1px solid black;" rowspan="3">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
     <td style="border: 1px solid black;" rowspan="3">Done</td>
@@ -1579,13 +1579,13 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
     <td style="border: 1px solid black;">Implementación de creación de sala</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">Endpoint de agregar usuario temporal a una sala</td>
+    <td style="border: 1px solid black;">Endpoint de agregar usuario temporal a una sala.</td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;">US-32</td>
     <td style="border: 1px solid black;">Ingreso a sala con cuenta existente</td>
     <td style="border: 1px solid black;">Como usuario quiero poder ingresar a una sala con mi cuenta para utilizar los beneficios de mi pla.</td>
-    <td style="border: 1px solid black;">Endpoint de agregar usuario existente a una sala</td>
+    <td style="border: 1px solid black;">Endpoint de agregar usuario existente a una sala. (CRUD)</td>
     <td style="border: 1px solid black;">4h</td>
     <td style="border: 1px solid black;">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
     <td style="border: 1px solid black;">To-Do</td>
@@ -1594,7 +1594,7 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
     <td style="border: 1px solid black;">US-33</td>
     <td style="border: 1px solid black;">Registro de una cuenta nueva</td>
     <td style="border: 1px solid black;">Como usuario quiero poder crear una cuenta nueva para poder adquirir un plan e ingresar a sesiones con mis datos de forma automática.</td>
-    <td style="border: 1px solid black;">Endpoint de crear un nuevo usuario.</td>
+    <td style="border: 1px solid black;">Endpoint de crear un nuevo usuario. (CRUD)</td>
     <td style="border: 1px solid black;">4h</td>
     <td style="border: 1px solid black;">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
     <td style="border: 1px solid black;">To-Do</td>
@@ -1609,7 +1609,7 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
     <td style="border: 1px solid black;" rowspan="2">To-Do</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">Endpoint de agregar pregunta</td>
+    <td style="border: 1px solid black;">Endpoint de agregar pregunta (CRUD)</td>
   </tr>
   <tr style="border: 1px solid black;">
     <td style="border: 1px solid black;" rowspan="2">US-37</td>
