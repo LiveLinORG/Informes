@@ -1638,169 +1638,57 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
     <th>Committed on</th>
   </tr>
   <tr>
-    <td rowspan="31">backend</td>
-    <td rowspan="31">develop</td>
-    <td>ef5601def88d0aafe73666b64d0aee21d0514ec3</td>
-    <td>chore: initial commit</td>
-    <td>30/05/2024</td>
+    <td rowspan="8">NoteLiveBackend</td>
+    <td rowspan="8">Main</td>
+    <td>8b0654689adadde1fd56940c687e7c6d3f79e150</td>
+    <td>edit Alumno</td>
+    <td>07/06/2024</td>
   </tr>
    <tr>
-    <td>4ef73da28fb05296178734164976a34ccc638986</td>
-    <td>chore: added shared context.</td>
+    <td>c57014d6ddc6e9cf1fa3a0852e7ee25e1c375aa2</td>
+    <td>Update rider.project.model.nuget.info</td>
+    <td>06/06/2024</td>
+  </tr>
+  <tr>
+    <td>94813b72bbc5157680fa830d698d7f6428aea76f</td>
+    <td>edit</td>
+    <td>06/06/2024</td>
+  </tr>
+  <tr>
+    <td>7f121e1092359e4642c2c9c30d0e37da7f736c84</td>
+    <td>Created Aggregates for Rooms.</td>
+    <td>06/06/2024</td>
+  </tr>
+  <tr>
+    <td>740975d2012caf08b166eb873a46324b69b4fa7f</td>
+    <td>created Alumno Controller</td>
+    <td>06/06/2024</td>
+  </tr>
+  <tr>
+    <td>ceae465a56930fa4e5cffc6e5ec4999f2067637d</td>
+    <td>edit</td>
+    <td>06/06/2024</td>
+  </tr>
+  <tr>
+    <td>c295fd8395ead2911203ccdb867a6cc8923d5bb6</td>
+    <td>Update AlumnoCommand service</td>
+    <td>06/06/2024</td>
+  </tr>
+  <tr>
+    <td>5840bbb03783d1b1f29173ea6f4bc25b9242ab70</td>
+    <td>Initial Commit</td>
     <td>30/05/2024</td>
   </tr>
   <tr>
-    <td>2956a1492786b703e8747d89983d21e0aafb3c66</td>
-    <td>feat(groupOperations): added main files for group operations.</td>
-    <td>30/05/2024</td>
-  </tr>
-  <tr>
-    <td>5ae474e1a2c8bac258b3ea30f08d4bcad7769b31</td>
-    <td>feat(users): added user aggregate</td>
-    <td>30/05/2024</td>
-  </tr>
-  <tr>
-    <td>6476aae475aacb03cec6597e4859f2b10f2c90bd</td>
-    <td>feat(users): added users bounded context</td>
-    <td>30/05/2024</td>
-  </tr>
-  <tr>
-    <td>3b5ae18bfc379633548411f9b1790578d35359e8</td>
-    <td>feat(group): added group entity and valueobject</td>
-    <td>31/05/2024</td>
-  </tr>
-  <tr>
-    <td>c7e45704bb1d3165f21c60b6878ba9d07fcac0f2</td>
-    <td>refactor(properties): change pass to database</td>
-    <td>31/05/2024</td>
-  </tr>
-  <tr>
-    <td>cff2c461033ed763d3a0bdd27a1d3613c7a7e1e5</td>
-    <td>refactor(shared): use the Getter in whole class</td>
-    <td>31/05/2024</td>
-  </tr>
-  <tr>
-    <td>cfa3d6760767a993b7bd097f8c2c2083b8742676</td>
-    <td>feat(group): added GroupCommandServiceImpl and GroupCommandService</td>
-    <td>31/05/2024</td>
-  </tr>
-  <tr>
-    <td>fd6d2e8b9398da4681ee27b14571dcf062bdeb38</td>
-    <td>feat(expenses): added the expenses feature.</td>
-    <td>01/06/2024</td>
-  </tr>
-  <tr>
-    <td>448f257a9e2dd54c85e53bf799f77252992e11cf</td>
-    <td>feat(expenses): added userid column with bugs.</td>
-    <td>01/06/2024</td>
-  </tr>
-  <tr>
-    <td>0bd963300ed2f9b1b009cc2fef61727094260b89</td>
-    <td>feat(users): added DELETE & UPDATE commands</td>
-    <td>01/06/2024</td>
-  </tr>
-  <tr>
-    <td>325ad9c4905c4abbaba38fe26027bcffacf5d7f2</td>
-    <td>fix(expenses): error on create</td>
-    <td>01/06/2024</td>
-  </tr>
-  <tr>
-    <td>ba6ab5a90e5ce3a3b9fd0f21ffced97bd5ab65d8</td>
-    <td>fix(db): error Public Key allowed</td>
-    <td>01/06/2024</td>
-  </tr>
-  <tr>
-    <td>355749f026c6c96dce6b45f83f07e63422780d75</td>
-    <td>feat: added update feature to expenses.</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>31bb6d99912e13e55c140ce5111f17577506c1cd</td>
-    <td>chore: created the payment files.</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>766624793b9d44f14a50f923abc070380aa81f2d</td>
-    <td>feat(groups): implemented the post to create a new group</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>4a7c58102711be24f62662bdb2aa84ad76c6b9ab</td>
-    <td>feat: added payments with bugs in the query section</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>c7aefeb19b641d999556ef695853cb91549dcb5e</td>
-    <td>fix: queries by id's fixed</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>3c96b7b04d314c230fe004eab45f4b7f2c239893</td>
-    <td>fix: fixed status display</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>1a786329c12e9289fb46875518cdf368cf62a97c</td>
-    <td>feat(groups): added new endpoint to get groups by id</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>f0ac51bd036aba7e5e1a0faf746154d7a4311301</td>
-    <td>doc(groups): added comments to endpoints</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>50e95f09c89acbd7b701caafac8ed4576d95dade</td>
-    <td>doc(groups): added comments to GroupAgregate</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>cb81fa2820870c9ebc30f210eb8629883431d38c</td>
-    <td>fix(groups): chagedValue on method findByName</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>7affbd98ad072146d7ee65e005b38d8f91031ca9</td>
-    <td>added docs for the new endpoint & fix some methods</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>f23f38a9186371ee6f33e6455de3999d83bee1ce</td>
-    <td>feat(group): added group_member entity</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>df4a456b228ec17dda3f239be67a88b0f66e73d1</td>
-    <td>doc(group): added documentation for entity</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>7b40ed198403d75d16fde0e76f3e94225003e6f3</td>
-    <td>feat(group member): added new endpoint POST to join a group</td>
-    <td>02/06/2024</td>
-  </tr>
-  <tr>
-    <td>0a56d2e37fb84e599b4842d7658a6628145b6097</td>
-    <td>update(groups): added List all Groups</td>
-    <td>03/06/2024</td>
-  </tr>
-  <tr>
-    <td>67de7e4d6847112bc11c73efbd4df8698bebbb94</td>
-    <td>feat(member group): new verb GET to get all member from a group</td>
-    <td>03/06/2024</td>
-  </tr>
-  <tr>
-    <td>c0ee5d6c0558f7ec0710aedad52c81d1ff84fd44</td>
-    <td>update(groups): get user full name</td>
-    <td>03/06/2024</td>
+    <td>rrenzosilva/AcceptanceTest</td>
+    <td rowspan="8">Main</td>
+    <td>8dd520c</td>
+    <td>Add features - Added features 31, 32, 33, 36, 37, 39, 40.</td>
+    <td>07/06/2024</td>
   </tr>
 </table>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
-
-|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
-|----------|------|---------|--------------|-------------------|------------------|
-|rrenzosilva/<brLiveLinORG><br>/AcceptanceTest|Main|8dd520c|Add features|Added features 31, 32, 33, 36, 37, 39, 40.|07/06/2024| 
 
  ```gherkin
 Feature: US31: Ingreso a sala sin cuenta
