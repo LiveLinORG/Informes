@@ -1542,9 +1542,9 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
     <th style="border: 1px solid black;">Status (To-do/In-Process/To-Review/Done)</th>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;" rowspan="4">EP-03</td>
-    <td style="border: 1px solid black;" rowspan="4">Desarrollo del Backend</td>
-    <td style="border: 1px solid black;" rowspan="2">US-25</td>
+    <td style="border: 1px solid black;" rowspan="3">EP-03</td>
+    <td style="border: 1px solid black;" rowspan="3">Desarrollo del Backend</td>
+    <td style="border: 1px solid black;" rowspan="2">US-39</td>
     <td style="border: 1px solid black;" rowspan="2">Modelado de las clases y endpoints</td>
     <td style="border: 1px solid black;" rowspan="2">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios</td>
     <td style="border: 1px solid black;">Modelado de clases en Rider</td>
@@ -1556,13 +1556,72 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
     <td style="border: 1px solid black;">Desarrollar y acceder a los endpoints necesarios</td>
   </tr>
   <tr style="border: 1px solid black;">
-    <td style="border: 1px solid black;">US-26</td>
+    <td style="border: 1px solid black;">US-40</td>
     <td style="border: 1px solid black;">Integracion del backend con el frontend</td>
-    <td style="border: 1px solid black;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
+    <td style="border: 1px solid black;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de NoteLive para permitir una interacción completa y sin problemas en la aplicación.</td>
     <td style="border: 1px solid black;">Realizar conectividad</td>
     <td style="border: 1px solid black;">4h</td>
     <td style="border: 1px solid black;">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
     <td style="border: 1px solid black;">To-Do</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;" rowspan="9">EP-02</td>
+    <td style="border: 1px solid black;" rowspan="9">Funcionalidades Clave</td>
+    <td style="border: 1px solid black;" rowspan="3">US-31</td>
+    <td style="border: 1px solid black;" rowspan="3">Ingreso a sala sin cuenta</td>
+    <td style="border: 1px solid black;" rowspan="3">Como usuario (alumno) quiero poder ingresar a una sala sin iniciar sesión para evitar crear una cuenta y agilizar el proceso de ingreso</td>
+    <td style="border: 1px solid black;">Implementación de cuenta temporal</td>
+    <td style="border: 1px solid black;" rowspan="3">3h</td>
+    <td style="border: 1px solid black;" rowspan="3">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
+    <td style="border: 1px solid black;" rowspan="3">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Implementación de creación de sala</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Endpoint de agregar usuario temporal a una sala</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">US-32</td>
+    <td style="border: 1px solid black;">Ingreso a sala con cuenta existente</td>
+    <td style="border: 1px solid black;">Como usuario quiero poder ingresar a una sala con mi cuenta para utilizar los beneficios de mi pla.</td>
+    <td style="border: 1px solid black;">Endpoint de agregar usuario existente a una sala</td>
+    <td style="border: 1px solid black;">4h</td>
+    <td style="border: 1px solid black;">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
+    <td style="border: 1px solid black;">To-Do</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">US-33</td>
+    <td style="border: 1px solid black;">Registro de una cuenta nueva</td>
+    <td style="border: 1px solid black;">Como usuario quiero poder crear una cuenta nueva para poder adquirir un plan e ingresar a sesiones con mis datos de forma automática.</td>
+    <td style="border: 1px solid black;">Endpoint de crear un nuevo usuario.</td>
+    <td style="border: 1px solid black;">4h</td>
+    <td style="border: 1px solid black;">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
+    <td style="border: 1px solid black;">To-Do</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;" rowspan="2">US-36</td>
+    <td style="border: 1px solid black;" rowspan="2">Realizar preguntas</td>
+    <td style="border: 1px solid black;" rowspan="2">Como usuario (alumno) quiero poder realizar preguntas en la clase para que el profesor las resuelva y queden registradas en el sistema</td>
+    <td style="border: 1px solid black;">Implementación de las preguntas</td>
+    <td style="border: 1px solid black;" rowspan="2">4h</td>
+    <td style="border: 1px solid black;" rowspan="2">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
+    <td style="border: 1px solid black;" rowspan="2">To-Do</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Endpoint de agregar pregunta</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;" rowspan="2">US-37</td>
+    <td style="border: 1px solid black;" rowspan="2">Mandar mensajes grupales</td>
+    <td style="border: 1px solid black;" rowspan="2">Como usuario quiero poder enviar mensajes grupales para que todos los presentes puedan visualizar y comentar sobre mi comunicado</td>
+    <td style="border: 1px solid black;">Implementación del chat</td>
+    <td style="border: 1px solid black;" rowspan="2">4h</td>
+    <td style="border: 1px solid black;" rowspan="2">Adrián Palma - Joaquin Carbajal - Erick Palomino - Priero Martinez - Renzo Silva</td>
+    <td style="border: 1px solid black;" rowspan="2">To-Do</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Endpoint de agregar un nuevo mensaje</td>
   </tr>
 </table>
 
