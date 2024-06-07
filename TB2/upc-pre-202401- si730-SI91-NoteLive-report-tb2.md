@@ -1798,6 +1798,78 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+ ```gherkin
+Feature: US31: Ingreso a sala sin cuenta
+Como alumno, quiero poder ingresar a una sala sin iniciar sesión
+Para evitar crear una cuenta y agilizar el proceso de ingreso
+
+Scenario: Ingreso solo con nombre
+ Given que el usuario se encuentra dentro del aplicativo
+ When este presione el botón de unirse a una sesión existente
+ And coloque un pin de sesión valido
+ And ponga un nombre de sesión para ser identificado
+ Then podrá acceder a la app sin la necesidad de tener una cuenta creada
+
+Feature: US32: Ingreso a sala con cuenta existente
+Como usuario quiero poder ingresar a una sala con mi cuenta 
+Para utilizar los beneficios de mi plan
+
+Scenario: Ingreso con cuenta
+ Given que el usuario se encuentra dentro del aplicativo 
+ When este presione el botón de iniciar sesión 
+ And coloque sus credenciales 
+ Then podrá acceder a la app y a una sesión con su cuenta
+
+Feature: US33: Registro de cuenta nueva
+Como usuario, quiero poder crear una cuenta nueva 
+Para poder adquirir un plan e ingresar a sesiones con mis datos de forma automática
+
+Scenario: Creación de cuenta
+ Given que el usuario se encuentra dentro del aplicativo 
+ When este presione el botón de iniciar sesión 
+ And presione el botón de crear cuenta 
+ And llene de forma satisfactoria todos los datos que se le solicitan 
+ Then podrá crear una cuenta nueva
+
+Feature: US36: Realizar preguntas
+Como alumno, quiero poder realizar preguntas en la clase 
+Para que el profesor las resuelva y queden registradas en el sistema
+
+Scenario: Realización de pregunta
+ Given que el alumno se encuentra dentro una sesión activa 
+ When este ingrese texto en la casilla de hacer una pregunta 
+ And presione el botón de enviar 
+ Then la pregunta aparecerá en el lado derecho de la pantalla en forma de tarjeta
+
+Feature: US37: Mandar mensajes grupales
+Como usuario, quiero poder enviar mensajes grupales 
+Para que todos los presentes puedan visualizar y comentar sobre mi comunicado
+
+Scenario: Envío de mensajes
+
+ Given que el usuario se encuentra dentro una sesión activa 
+ When este ingrese texto en la casilla de enviar un mensaje en el apartado de chat 
+ And presione el botón de enviar 
+ Then el texto aparecerá en el lado izquierdo de la pantalla en forma de caja de chat
+
+Feature: US39: Modelado de las clases y endpoints
+Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, 
+Para poder alcanzar los endpoint necesarios
+
+Scenario: Creación de endpoints en el backend
+ Given que se necesita acceso a ciertas funcionalidades desde el frontend
+ When se crean los endpoints correspondientes en el backend
+ Then los endpoints están disponibles y funcionales para su uso desde el frontend
+
+Feature: US40: Integración del backend con el frontend
+Como desarrollador, quiero asegurarme de que la comunicación entre el backend y el frontend funcione correctamente
+Para poder permitir una interacción completa
+
+Scenario: Envío de solicitud con datos específicos
+ Given el frontend y el backend están correctamente configurados y desplegados
+ When se envía una solicitud desde el frontend al backend
+ Then el backend responde satisfactoriamente con los datos solicitados
+```
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
