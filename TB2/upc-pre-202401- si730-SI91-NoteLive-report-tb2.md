@@ -1798,6 +1798,10 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+|Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|rrenzosilva/<brLiveLinORG><br>/AcceptanceTest|Main|8dd520c|Add features|Added features 31, 32, 33, 36, 37, 39, 40.|07/06/2024| 
+
  ```gherkin
 Feature: US31: Ingreso a sala sin cuenta
 Como alumno, quiero poder ingresar a una sala sin iniciar sesión
@@ -1846,7 +1850,6 @@ Como usuario, quiero poder enviar mensajes grupales
 Para que todos los presentes puedan visualizar y comentar sobre mi comunicado
 
 Scenario: Envío de mensajes
-
  Given que el usuario se encuentra dentro una sesión activa 
  When este ingrese texto en la casilla de enviar un mensaje en el apartado de chat 
  And presione el botón de enviar 
