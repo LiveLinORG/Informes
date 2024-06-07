@@ -1813,8 +1813,82 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
 
 
 ## 5.3. Validation Interviews
+
+Las entrevistas de validación son una herramienta esencial para obtener feedback sobre la vista previa de nuestra aplicación web, destinada a clases en línea. Estas entrevistas nos permitirán entender mejor las necesidades y expectativas de nuestros usuarios objetivo: estudiantes universitarios y profesores. A continuación, se presentan las preguntas para cada segmento objetivo.
+
 ### 5.3.1. Diseño de Entrevistas
 
+***Preguntas para Segmento 1: Estudiantes Universitarios***
+
+En relación al grupo de estudiantes universitarios a los que apuntamos:
+
+a. **¿Qué impresión te causa la landing page de la aplicación al verla en esta vista previa?**  
+   ¿Qué te gusta y qué mejorarías?
+
+b. **¿Cómo describirías la claridad del sistema de ingreso mediante un pin para unirte a una sesión virtual, según lo ves en la vista previa?**  
+   ¿Tienes alguna duda sobre cómo funcionaría?
+
+c. **¿Qué tan intuitivo te parece el diseño de la aplicación para encontrar las sesiones en las que estarías inscrito, según la vista previa?**  
+   ¿Crees que sería fácil localizar y unirte a tus clases?
+
+d. **¿Qué tan clara y útil te parece la función de chat con el profesor y los otros alumnos, según la vista previa?**  
+   ¿Sientes que la separación de los chats es adecuada?
+
+e. **¿Cómo calificarías el diseño visual y la usabilidad de la aplicación al visualizar presentaciones (ppt o pdf) durante una clase en línea, según la vista previa?**  
+   ¿Te parece que el proceso sería claro y sin problemas?
+
+f. **¿Qué tan claro te parece el proceso de registro e inicio de sesión en la aplicación, según la vista previa?**  
+   ¿Alguna parte del proceso te resulta confusa?
+
+g. **¿Qué tan claras y útiles encuentras las diferentes opciones de membresía (básica, premium, empresarial), según la vista previa?**  
+   ¿Sientes que las diferencias entre ellas están bien explicadas?
+
+h. **¿Qué tan útil te parece la opción de enviar mensajes personales al profesor, según la vista previa?**  
+   ¿Crees que esta función sería útil para ti?
+
+i. **¿Sientes que hay alguna funcionalidad adicional que te gustaría tener en la aplicación, según la vista previa?**  
+   ¿Qué funcionalidad crees que podría mejorar tu experiencia de usuario?
+
+j. **En general, ¿cómo describirías tu satisfacción con la aplicación en esta vista previa y qué recomendarías para mejorarla?**  
+   ¿Qué cambiarías o agregarías?
+
+<br>
+
+***Preguntas para Segmento 2: Profesores y Educadores***
+
+Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y experiencia en el ámbito educativo. Agradecemos su tiempo y sus respuestas, ya que contribuirán al desarrollo de nuestro proyecto.
+
+a. **¿Qué impresión te causa la landing page de la aplicación desde una perspectiva docente al verla en esta vista previa?**  
+   ¿Qué te gusta y qué mejorarías?
+
+b. **¿Cómo describirías la claridad del sistema de ingreso de alumnos mediante un pin para tus sesiones virtuales, según lo ves en la vista previa?**  
+   ¿Es fácil ver quiénes se han unido antes de iniciar la sesión?
+
+c. **¿Qué tan intuitivo te parece el proceso de creación y gestión de sesiones virtuales, según la vista previa?**  
+   ¿Hubo algún paso que te resultara confuso?
+
+d. **¿Qué tan clara y útil te parece la función de chat con los alumnos y la posibilidad de recibir mensajes personales, según la vista previa?**  
+   ¿Sientes que la separación de los chats es adecuada?
+
+e. **¿Cómo calificarías la facilidad para cargar y presentar archivos (ppt o pdf) durante una clase en línea, según la vista previa?**  
+   ¿Te parece que el proceso sería claro y sin problemas?
+
+f. **¿Qué tan claro te parece el proceso de registro e inicio de sesión en la aplicación, según la vista previa?**  
+   ¿Alguna parte del proceso te resulta confusa?
+
+g. **¿Qué tan claras y útiles encuentras las diferentes opciones de membresía (básica, premium, empresarial) para ti y tus alumnos, según la vista previa?**  
+   ¿Sientes que las diferencias entre ellas están bien explicadas?
+
+h. **¿Qué tan útil te parece la opción de ver quiénes se han unido a una sesión antes de comenzarla, según la vista previa?**  
+   ¿Te resultaría útil para gestionar la clase?
+
+i. **¿Sientes que hay alguna funcionalidad adicional que te gustaría tener en la aplicación para mejorar tu experiencia docente, según la vista previa?**  
+   ¿Qué funcionalidad crees que podría mejorar tu experiencia de usuario?
+
+j. **En general, ¿cómo describirías tu satisfacción con la aplicación en esta vista previa y qué recomendarías para mejorarla?**  
+   ¿Qué cambiarías o agregarías?
+
+	
 
 
 ### 5.3.2. Registro de Entrevistas
