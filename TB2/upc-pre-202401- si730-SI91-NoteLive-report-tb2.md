@@ -1857,25 +1857,26 @@ j. **En general, ¿cómo describirías tu satisfacción con la aplicación en es
 ### 5.3.2. Registro de Entrevistas
  
  - Profesores y Educadores:
-    	- Entrevista #1:
+   
+   - Entrevista #1:
 
-
+	<img src="images/Validation_Interview_Profesores-1.png" width="100%" align="center">
 	  
       **Entrevistado:** Martin Perez<br>
-          **Entrevistador:** Piero Alonso Martinez Villanueva<br>
-  	  **Duración:** 18:05<br>
-          **Link:** https://youtu.be/7Q6nOVlblHI <br>
-          **Resumen:** El docente Martin nos brinda su opinión acerca de la aplicación web de NoteLive. Desde puntos a mejorar hasta funcionalidades a añadir es lo que se destaca de esta entrevista.
+      **Entrevistador:** Piero Alonso Martinez Villanueva<br>
+      **Duración:** 18:05<br>
+      **Link:** https://youtu.be/7Q6nOVlblHI <br>
+      **Resumen:** El docente Martin nos brinda su opinión acerca de la aplicación web de NoteLive. Desde puntos a mejorar hasta funcionalidades a añadir es lo que se destaca de esta entrevista.
 
    - Entrevista #2:
 
-
+	<img src="images/Validation_Interview_Profesores-2.png" width="100%" align="center">
 	  
-       **Entrevistado:** Renzo Martinez<br>
-         **Entrevistador:** Piero Alonso Martinez Villanueva<br>
-  	  **Duración:** 13:09<br>
-          **Link:** https://youtu.be/pviGcnDJQWs <br>
-          **Resumen:** El profesor Renzo apoya con la entrevista al responder las preguntas acerca de su perspectiva que percibe de NoteLive. Destaca caracteristicas importantes de la aplicación, asimismo tambien resalta algunos puntos negativos a mejorar en la aplicación 
+   **Entrevistado:** Renzo Martinez<br>
+   **Entrevistador:** Piero Alonso Martinez Villanueva<br>
+   **Duración:** 13:09<br>
+   **Link:** https://youtu.be/pviGcnDJQWs <br>
+   **Resumen:** El profesor Renzo apoya con la entrevista al responder las preguntas acerca de su perspectiva que percibe de NoteLive. Destaca caracteristicas importantes de la aplicación, asimismo tambien resalta algunos puntos negativos a mejorar en la aplicación 
 
 
 ### 5.3.3. Evaluaciones según heurísticas
