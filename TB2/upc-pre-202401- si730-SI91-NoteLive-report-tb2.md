@@ -1890,9 +1890,9 @@ j. **En general, ¿cómo describirías tu satisfacción con la aplicación en es
 
 En esta sección se elaboró un video con los aspectos más relevantes y características de la aplicación web y su funcionamiento; además de sus beneficios e interacción con el producto.
 
-<img src="images/AboutTheProduct.jpg" width="100%" align="center">
+<img src="images/AboutTheProduct.jpg" width="100%">
 
-   **Duración:** 04:05<br>
+   **Duración:** 04:55 <br>
    **Link Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/EekjwILr79tEn0qPeVZ7TwUBxy7ou1RFOYLzp-bi7v_2-Q?e=kmB2Vl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
    **Link YouTube:** https://youtu.be/l2vEE34X4pU <br>
 
