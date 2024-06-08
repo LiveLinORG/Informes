@@ -1857,8 +1857,28 @@ j. **En general, ¿cómo describirías tu satisfacción con la aplicación en es
 ### 5.3.2. Registro de Entrevistas
 
  - Estudiantes:
-   
- 
+    
+   - Entrevista #1:
+
+	<img src="images/ValidationAlumno1.jpg" width="100%" align="center">
+	  
+      **Entrevistado:** Moises Donayre<br>
+      **Entrevistador:** Renzo Cesar Silva Morales<br>
+      **Duración:** 06:12<br>
+      **Link:** https://youtu.be/s3jswrIRNNc <br>
+      **Resumen:** El entrevistado dijo que la landing page causa una impresión positiva, siendo visualmente atractiva y fácil de navegar. Apreció el diseño limpio y profesional, así como el uso efectivo de imágenes y gráficos. Sin embargo, sugirió mejorar la página añadiendo testimonios de usuarios, un video introductorio y una sección de preguntas frecuentes más completa.
+
+   - Entrevista #2:
+
+	<img src="images/ValidationAlumno2.jpg" width="100%" align="center">
+	  
+   **Entrevistado:** Mauricio Osorio<br>
+   **Entrevistador:** Renzo Cesar Silva Morales<br>
+   **Duración:** 06:42<br>
+   **Link:** https://youtu.be/0uv49iZeH7w <br>
+   **Resumen:** En general, el entrevistado expresó alta satisfacción con la aplicación en la vista previa. Recomendó añadir un tutorial interactivo para nuevos usuarios, más opciones de personalización y mejorar las notificaciones y recordatorios. También sugirió implementar funcionalidades adicionales de personalización para mejorar la experiencia general del usuario.
+
+
  - Profesores y Educadores:
    
    - Entrevista #1:
