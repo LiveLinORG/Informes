@@ -1947,6 +1947,8 @@ Video de exposición TP: [Video de exposición TP](https://upcedupe-my.sharepoin
 
 Video de exposición TB2: [Video de exposición TB2]()
 
+Video About The Product: [Video About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/EekjwILr79tEn0qPeVZ7TwUBxy7ou1RFOYLzp-bi7v_2-Q?e=kmB2Vl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 Figma: [WebApp Wireframe & Mock-Up](https://www.figma.com/file/gvGs7MxjUdjNzR6IM1BGZT/Untitled?type=design&node-id=0%3A1&mode=design&t=YWgUe305ff0ZTPIV-1)
 
 Vertabelo: [Database Diagram](https://my.vertabelo.com/public-model-view/fuS8RWFvR1OHpcwngaR9so1dVVo0nB8OVzBqTJaKeoAfGmtmpp938Kf4dVDGMS5Q?x=3114&y=3451&zoom=0.5143 )
