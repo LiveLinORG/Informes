@@ -1888,7 +1888,13 @@ j. **En general, ¿cómo describirías tu satisfacción con la aplicación en es
 
 ## 5.4. Video About-the-Product
 
+En esta sección se elaboró un video con los aspectos más relevantes y características de la aplicación web y su funcionamiento; además de sus beneficios e interacción con el producto.
 
+<img src="images/AboutTheProduct.jpg" width="100%" align="center">
+
+   **Duración:** 04:05<br>
+   **Link Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/EekjwILr79tEn0qPeVZ7TwUBxy7ou1RFOYLzp-bi7v_2-Q?e=kmB2Vl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
+   **Link YouTube:** https://youtu.be/l2vEE34X4pU <br>
 
 ## Conclusiones
 
@@ -1947,7 +1953,9 @@ Video de exposición TP: [Video de exposición TP](https://upcedupe-my.sharepoin
 
 Video de exposición TB2: [Video de exposición TB2]()
 
-Video About The Product: [Video About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/EekjwILr79tEn0qPeVZ7TwUBxy7ou1RFOYLzp-bi7v_2-Q?e=kmB2Vl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Video About The Product (Microsoft Stream): [Video About The Product MS Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/EekjwILr79tEn0qPeVZ7TwUBxy7ou1RFOYLzp-bi7v_2-Q?e=kmB2Vl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Video About The Product (YouTube): [Video About The Product YT](https://youtu.be/l2vEE34X4pU)
 
 Figma: [WebApp Wireframe & Mock-Up](https://www.figma.com/file/gvGs7MxjUdjNzR6IM1BGZT/Untitled?type=design&node-id=0%3A1&mode=design&t=YWgUe305ff0ZTPIV-1)
 
