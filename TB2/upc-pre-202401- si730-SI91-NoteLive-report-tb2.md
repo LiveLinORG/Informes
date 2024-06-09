@@ -1767,21 +1767,86 @@ Scenario: Envío de solicitud con datos específicos
 
 En la siguiente imagen podemos visualizar la ejecución local del Web Service.
 
-<img src="localswaggerEvidence.jpg">
+<img src="images/localswaggerEvidence.jpg" width="90%" align="center">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Paso 1: Creamos un correo temporal en correotemporal.org
+
+<img src="images/paso1.jpg" width="80%" align="center">
+
+Paso 2: Creamos una cuenta en smarterasp.net con el correo que creamos antes.
+
+<img src="images/paso2.jpg" width="80%" align="center">
+
+Paso 3: Verificamos la cuenta desde el correo creado.
+
+<img src="images/paso3.jpg" width="80%" align="center">
+<img src="images/paso4.jpg" width="80%" align="center">
+
+Paso 4: Iniciamos el proceso del hosting
+
+<img src="images/paso5.jpg" width="80%" align="center">
+
+Paso 5: Confirmamos los datos del hosting
+
+<img src="images/paso6.jpg" width="80%" align="center">
+
+Paso 6: Nos dirigimos a la sección de base de datos dandole click a acciones y luego a la pestaña de bases de datos
+
+<img src="images/paso7.jpg" width="80%" align="center">
+<img src="images/paso8.jpg" width="80%" align="center">
+
+Paso 7: Agregamos una nueva base de datos de MySql
+
+<img src="images/paso9.jpg" width="80%" align="center">
+
+Paso 8: Copiamos el hilo de conección para ponerlo en la configuración del Web Service
+
+<img src="images/paso10.jpg" width="80%" align="center">
+
+Paso 9: Vamos a sitios web y ponemos Manage Website y luego VS Webdeploy para descargar el perfil de configuración de la sección Publicar XML
+
+<img src="images/paso11.jpg" width="80%" align="center">
+
+Paso 10: En program.cs comentamos la sección del if para que aparezca el swagger al momento de publicar
+
+<img src="images/paso12.jpg" width="80%" align="center">
+
+Paso 11: Le damos click derecho al proyecto para que aparezca la opción Publicar, después damos click en Importar Perfil
+
+<img src="images/paso13.jpg" width="80%" align="center">
+
+Paso 12: Configuramos el deploy
+
+<img src="images/paso14.jpg" width="80%" align="center">
+
+Paso 13: Presionamos en publicar y ponemos nuestra contraseña
+
+<img src="images/paso15.jpg" width="80%" align="center">
+
+Paso 14: Esperamos hasta que se publique y se abra el navegador
+
+<img src="images/paso18.jpg" width="80%" align="center">
+
+Paso 15: Entramos de nuevo en Web Sites y apretamos el link password protection para copiar las credenciales de acceso a la página
+
+<img src="images/paso16.jpg" width="80%" align="center">
+
+Paso 16: Entramos en el link de la página y colocamos las credenciales copiadas del paso anterior y así accederemos al Web Service publicado
+
+<img src="images/paso17.jpg" width="80%" align="center">
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 En la siguiente imagen podemos ver el swagger ya desplegado en un link de acceso público.
 
-<img src="swaggerEvidence.jpg">
+<img src="images/swaggerEvidence.jpg" width="80%" align="center">
 
 En la siguiente imagen podemos ver la conección a la base de datos online desde el MySqlWorkbench.
 
-<img src="databaseEvidence.jpg">
+<img src="images/databaseEvidence.jpg" width="80%" align="center">
 
 ## 5.3. Validation Interviews
 
@@ -1959,7 +2024,7 @@ Enlace para acceder a la landing page: [Ver enlace](https://notelive.netlify.app
 Enlace para acceder al Front End: [Ver enlace](https://notelivewebapp.netlify.app/)
 
 Enlace para acceder al Backend: [Ver enlace](http://livelin-001-site1.gtempurl.com/swagger/index.html) 
-Usuario: 11181068 - Contraseña: 60-dayfreetrial
+**Usuario: 11181068 - Contraseña: 60-dayfreetrial**
 
 Videos de todas las entrevistas Capítulo 2:
 - [ Ver enlace](https://youtu.be/iZBerMLXzHU)
