@@ -77,6 +77,18 @@ Para la elaboración del informe del TP, se asignó las siguientes tareas a cada
 | Piero Alonso Martinez Villanueva |Desarrollo de páginas del aplicativo web|
 | Renzo Cesar Silva Morales |Diseño de la web app y entrevistas|
 
+**TB2:**
+
+Para la elaboración del informe del TB2, se asignó las siguientes tareas a cada integrante del equipo:
+
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo | Desarrollo del aplicativo y video about the product |
+| Joaquín Alonso Carbajal Pozzo |Corrección y avance del informe, deploy del Web App |
+| Erick Joaquin Palomino Santa Cruz| Desarrollo del aplicativo |
+| Piero Alonso Martinez Villanueva |Entrevistas y test|
+| Renzo Cesar Silva Morales |Diseño y realización de entrevistas|
+
 Evidencias de los Insights
 
 Front End:
@@ -1769,6 +1781,7 @@ En la siguiente imagen podemos visualizar la ejecución local del Web Service.
 
 <img src="images/localswaggerEvidence.jpg" width="90%" align="center">
 
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Paso 1: Creamos un correo temporal en correotemporal.org
@@ -1848,6 +1861,20 @@ En la siguiente imagen podemos ver la conección a la base de datos online desde
 
 <img src="images/databaseEvidence.jpg" width="80%" align="center">
 
+#### 5.2.3.8 Team Colaboration Insights during Sprint
+
+**Backend:**
+
+<img src="images/pulseInsightBackendSprint3.jpg" width="80%" align="center">
+
+<img src="images/contributorsInsightBackendSprint3.jpg" width="80%" align="center">
+
+**Informe:**
+
+<img src="images/pulseInsightInformeSprint3.jpg" width="80%" align="center">
+
+<img src="images/contributorsInsightInformeSprint3.jpg" width="80%" align="center">
+
 ## 5.3. Validation Interviews
 
 Las entrevistas de validación son una herramienta esencial para obtener feedback sobre la vista previa de nuestra aplicación web, destinada a clases en línea. Estas entrevistas nos permitirán entender mejor las necesidades y expectativas de nuestros usuarios objetivo: estudiantes universitarios y profesores. A continuación, se presentan las preguntas para cada segmento objetivo.
@@ -1924,8 +1951,6 @@ i. **¿Sientes que hay alguna funcionalidad adicional que te gustaría tener en 
 j. **En general, ¿cómo describirías tu satisfacción con la aplicación en esta vista previa y qué recomendarías para mejorarla?**  
    ¿Qué cambiarías o agregarías?
 
-	
-
 
 ### 5.3.2. Registro de Entrevistas
 
@@ -1977,7 +2002,43 @@ j. **En general, ¿cómo describirías tu satisfacción con la aplicación en es
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+<p>SITE o APP A EVALUAR:</p>
+<p>NoteLive:</p>
+<p>Meta: El propósito general de la evaluación es encontrar problemas existentes en NoteLive
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada
+por Jakob Nielsen.</p>
 
+<p>ESCALA DE SEVERIDAD:</p>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Nivel</th>
+    <th style="border: 1px solid black;">Descripción</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">1</td>
+    <td style="border: 1px solid black;">Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no
+	ser que exista disponibilidad de tiempo</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">2</td>
+    <td style="border: 1px solid black;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar
+	una prioridad baja resolverlo de cara al siguiente reléase
+</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">3</td>
+    <td style="border: 1px solid black;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe
+	asignar una prioridad alta.
+</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea
+	corregido antes del lanzamiento</td>
+  </tr>
+</table>
 
 ## 5.4. Video About-the-Product
 
@@ -2000,6 +2061,10 @@ En esta sección se elaboró un video con los aspectos más relevantes y caracte
   
 - La implementación de prácticas ágiles demostró ser beneficiosa para la gestión del proyecto, facilitando la adaptación a cambios y mejorando la productividad del equipo.
 
+- Para el Spring número 3, el equipo concentró todos los recursos para completar algunos endpoints que podrían ser utilizados en la parte del frontend. Asimismo, se distribuyeron las tareas para mejorar el informe y algunas otras del sprint número 2. Asimismo, se establecieron reuniones periódicas para garantizar la coherencia y la calidad del trabajo entregado en cada fase del desarrollo.
+
+- Para completar este sprint nos apoyamos en recursos y herramientas tales como Rider, Swagger y MySql. Estas herramientas nos permitieron modelar las clases y endpoints, desarrollar y acceder a los endpoints necesarios. Asimismo, se planeo la integración de pruebas unitarias y a features.
+
  ### Recomendaciones:
 
 - Continuar fomentando la comunicación abierta y transparente entre los miembros del equipo, así como la colaboración activa en la resolución de problemas.
@@ -2007,6 +2072,8 @@ En esta sección se elaboró un video con los aspectos más relevantes y caracte
 - Realizar una revisión retrospectiva al finalizar cada sprint para identificar áreas de mejora y ajustar las estrategias de trabajo según sea necesario.
   
 - Explorar herramientas y técnicas adicionales para mejorar la eficiencia y la calidad del desarrollo, como la automatización de pruebas y la implementación continua.
+
+- Empezar y mejorar la implementación del backend con el frontend para empezar las pruebas de uso de la aplicación
 
 ---
 
@@ -2041,6 +2108,8 @@ Videos de todas las entrevistas Capítulo 5:
 Repositorio GitHub LandingPage: [Ver enlace](https://github.com/LiveLinORG/FrontEnd)
 
 Repositorio GitHub Informe: [Ver enlace](https://github.com/LiveLinORG/Informes)
+
+Repositorio GitHub Backend: [Ver enlace](https://github.com/LiveLinORG/NoteLiveBackend)
 
 Figma: [Diseño en Figma para Page Wireframe ](https://www.figma.com/file/4Z0ziDhl6HGJQe6kU7grgV/Landing-Page-MockUP%2C-UI-DESIGN-Wireframe?type=design&node-id=0%3A1&mode=design&t=u6ED4go6SqCr2V73-1)
 
