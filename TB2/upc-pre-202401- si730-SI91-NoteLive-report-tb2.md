@@ -1765,7 +1765,9 @@ Scenario: Envío de solicitud con datos específicos
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+En la siguiente imagen podemos visualizar la ejecución local del Web Service.
 
+<img src="localswaggerEvidence.jpg">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -1773,7 +1775,13 @@ Scenario: Envío de solicitud con datos específicos
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+En la siguiente imagen podemos ver el swagger ya desplegado en un link de acceso público.
 
+<img src="swaggerEvidence.jpg">
+
+En la siguiente imagen podemos ver la conección a la base de datos online desde el MySqlWorkbench.
+
+<img src="databaseEvidence.jpg">
 
 ## 5.3. Validation Interviews
 
@@ -1950,7 +1958,8 @@ Enlace para acceder a la landing page: [Ver enlace](https://notelive.netlify.app
 
 Enlace para acceder al Front End: [Ver enlace](https://notelivewebapp.netlify.app/)
 
-Enlace para acceder al Backend: [Ver enlace]()
+Enlace para acceder al Backend: [Ver enlace](http://livelin-001-site1.gtempurl.com/swagger/index.html) 
+Usuario: 11181068 - Contraseña: 60-dayfreetrial
 
 Videos de todas las entrevistas Capítulo 2:
 - [ Ver enlace](https://youtu.be/iZBerMLXzHU)
@@ -1959,7 +1968,10 @@ Videos de todas las entrevistas Capítulo 2:
 - [Ver enlace](https://www.youtube.com/watch?v=hK_kVTG_2ds)
 
 Videos de todas las entrevistas Capítulo 5:
-- [ Ver enlace]()
+- [ Ver enlace](https://youtu.be/s3jswrIRNNc)
+- [ Ver enlace](https://youtu.be/0uv49iZeH7w)
+- [ Ver enlace](https://youtu.be/7Q6nOVlblHI)
+- [ Ver enlace](https://youtu.be/pviGcnDJQWs)
 
 Repositorio GitHub LandingPage: [Ver enlace](https://github.com/LiveLinORG/FrontEnd)
 
