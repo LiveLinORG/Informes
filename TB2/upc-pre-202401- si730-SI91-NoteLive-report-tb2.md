@@ -2008,6 +2008,28 @@ j. **En general, ¿cómo describirías tu satisfacción con la aplicación en es
 Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada
 por Jakob Nielsen.</p>
 
+1. Desktop landing page
+	1. Información y descripción de la aplicación y sus funcionalidades
+	2. Visualización de planes de pago y precio de la aplicación
+	3. Interacción del landing page con la aplicación
+2. Web Application
+	1. Visualización de creación de sesión
+ 	2. Visualización de unión de sesión
+
+<p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
+
+1. Desktop landing page
+	1. Redes sociales asociadas al startup
+	2. Política de privacidad y condiciones de uso
+2. Web Application
+	1. Registro de nuevo usuario
+	2. Modificación y eliminación de cuentas
+	3. Notificaciones de la aplicación
+	4. Documentación y exportación de registros
+	5. Flexibilidad de uso a través de atajos por teclado
+	6. Acceso a recursos de ayuda dentro de la aplicación
+	7. Política de privacidad y condiciones de uso
+
 <p>ESCALA DE SEVERIDAD:</p>
 <p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
 
@@ -2039,6 +2061,118 @@ por Jakob Nielsen.</p>
 	corregido antes del lanzamiento</td>
   </tr>
 </table>
+
+<p>TABLA RESUMEN:</p>
+<p>Desktop landing page</p>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">#</th>
+    <th style="border: 1px solid black;">Problema</th>
+    <th style="border: 1px solid black;">Escala de severidad</th>
+	  <th style="border: 1px solid black;">Heurística/Principio violada(o)</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">1</td>
+    <td style="border: 1px solid black;">Los botones de la barra superior no funcionan</td>
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Usability: Control y libertad del usuario</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">2</td>
+    <td style="border: 1px solid black;">La barra inferior se sobrepone al contenido.</td>
+    <td style="border: 1px solid black;">1</td>
+    <td style="border: 1px solid black;">Usability: Prevención de errores</td>
+  </tr>
+</table>
+
+<p>Problema #01: Los botones de la barra superior no funcionan.</p>
+<p>Escala de Severidad: 04</p>
+<p>Principio violado: </p>
+<p>Heurística relacionada: Usability - Control y libertad del usuario</p>
+<p>Descripción del problema: Cuando se trata de hacer uso de los botones de la barra superior para acceder a las distintas secciones de la landing page, estas no nos redirigen a nada, por lo que el usuario podría pensar que estas secciones no existe.</p>
+<img src="images/Problema1.1.jpg" alt="Imagen de Botones" width="50%">
+<p>Recomendación: Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se
+recomienda redirigir de manera clara y visible al usuario a lo largo de la página de inicio.</p>
+
+<p>Problema #02: La barra inferior se sobrepone al contenido.</p>
+<p>Escala de Severidad: 01</p>
+<p>Principio violado: </p>
+<p>Heurística relacionada: Usability - Prevención de errores</p>
+<p>Descripción del problema: Cuando se ingresa a la página principal de la landing page, se puede visualizar a primera vista que el footer se coloca encima del docuemnto, empeorando la visibilidad de las diferentes secciones.</p>
+<img src="images/Problema1.2.jpg" alt="Imagen de Footer" width="50%">
+<p>Recomendación: Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que la sección del footer se encuentre correctamente colocada, sin interferir con el texto.</p>
+
+
+<p>Web Application</p>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">#</th>
+    <th style="border: 1px solid black;">Problema</th>
+    <th style="border: 1px solid black;">Escala de severidad</th>
+	  <th style="border: 1px solid black;">Heurística/Principio violada(o)</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">1</td>
+    <td style="border: 1px solid black;">El botón de inicio de sesión no funciona y no aparece ningún mensaje de error</td>
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Visibilidad del estado del sistema</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">2</td>
+    <td style="border: 1px solid black;">El chat no funciona</td>
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Visibilidad del estado del sistema</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">3</td>
+    <td style="border: 1px solid black;">Al ingresar a una sala no hay como salir de ella</td>
+    <td style="border: 1px solid black;">3</td>
+    <td style="border: 1px solid black;">Control y libertad del usuario</td>
+  </tr>
+  </tr>
+	<tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Cuando nos unimos a una sala y el profesor da a iniciar, no se inicia en la vista del alumno, por lo que no puede conectarse al documento del profesor.</td>
+    <td style="border: 1px solid black;">4</td>
+    <td style="border: 1px solid black;">Visibilidad del estado del sistema</td>
+  </tr>
+</table>
+
+<p>Problema #01: El botón de inicio de sesión no funciona y no aparece ningún mensaje de error</p>
+<p>Escala de Severidad: 04</p>
+<p>Principio violado: </p>
+<p>Heurística relacionada: Usability - Visibilidad del estado del sistema</p>
+<p>Descripción del problema: Cuando se crea una cuenta y tratas de iniciar sesión, al colocar tus credenciales y presionar en ingresar, no sucede nada.</p>
+<img src="images/Problema2.1.jpg" width="50%">
+<p>Recomendación: Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se
+recomienda realizar correctamente la acción o colocar un mensaje de error.</p>
+
+<p>Problema #02: El chat no funciona</p>
+<p>Escala de Severidad: 04</p>
+<p>Principio violado: </p>
+<p>Heurística relacionada: Usability - Visibilidad del estado del sistema</p>
+<p>Descripción del problema: Cuando se quiere mandar un mensaje, después de llenar la sección del mesaje y apretar enviar, no sucede nada.</p>
+<img src="images/Problema2.2.jpg" width="50%">
+<p>Recomendación: Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que se realice la corrección del código para implementar esta funcionalidad</p>
+
+<p>Problema #03: Al ingresar a una sala no hay como salir de ella</p>
+<p>Escala de Severidad: 03</p>
+<p>Principio violado: </p>
+<p>Heurística relacionada: Usability - Control y libertad del usuario</p>
+<p>Descripción del problema: Cuando se ingresa a una sala desde la vista del profesor, no hay como salir de ésta misma sin abandonar la plataforma.</p>
+<img src="images/Problema2.3.jpg" width="50%">
+<p>Recomendación: Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se
+recomienda diseñar e implementar un botón de salir al menú principal.</p>
+
+<p>Problema #04: Cuando nos unimos a una sala y el profesor da a iniciar, no se inicia en la vista del alumno, por lo que no puede conectarse al documento del profesor.</p>
+<p>Escala de Severidad: 04</p>
+<p>Principio violado: </p>
+<p>Heurística relacionada: Usability - Visibilidad del estado del sistema</p>
+<p>Descripción del problema: Cuando se ingresa a una sala con el pin, después de que el profesor le de a iniciar sala, no ocurre nada en la vista del alumno.</p>
+<img src="images/Problema2.4.jpg" width="50%">
+<p>Recomendación: Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que se haga las correcciones del código para que se detecte cuándo se ha iniciado el room.</p>
 
 ## 5.4. Video About-the-Product
 
