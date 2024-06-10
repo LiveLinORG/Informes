@@ -2257,6 +2257,10 @@ Video About The Product (Microsoft Stream): [Video About The Product MS Stream](
 
 Video About The Product (YouTube): [Video About The Product YT](https://youtu.be/l2vEE34X4pU)
 
+Video About The Team (Microsoft Stream): [Video About The Team MS Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121881_upc_edu_pe/ESaEJzRCUANOpEPHUfO4mWYBHP2QK4xK5l_MH-w7rO7nyQ?e=LLWeIp)
+
+Video About The Team (YouTube): [Video About The Team YT](https://youtu.be/qFNIb53L1O8)
+
 Figma: [WebApp Wireframe & Mock-Up](https://www.figma.com/file/gvGs7MxjUdjNzR6IM1BGZT/Untitled?type=design&node-id=0%3A1&mode=design&t=YWgUe305ff0ZTPIV-1)
 
 Vertabelo: [Database Diagram](https://my.vertabelo.com/public-model-view/fuS8RWFvR1OHpcwngaR9so1dVVo0nB8OVzBqTJaKeoAfGmtmpp938Kf4dVDGMS5Q?x=3114&y=3451&zoom=0.5143 )
