@@ -2255,7 +2255,9 @@ Video de exposición TB1: [video de exposicion TB1](https://upcedupe-my.sharepoi
 
 Video de exposición TP: [Video de exposición TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/ETP28OlxVs1DskIB8ymCG90Bb1PFhQyKqvxrk8gU_dBOTQ?e=lLH97k)
 
-Video de exposición TB2: [Video de exposición TB2]()
+Video de exposición TB2 (Microsoft Stream): [Video de exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121881_upc_edu_pe/ETgeAU4c6XNAkzkWHjdfipgBhVqsELV8dKyKui1j_bwQHg?e=c9C0jY)
+
+Video de exposición TB2 (YouTube): [Video de exposición TB2](https://youtu.be/XY8msJ_KBxY)
 
 Video About The Product (Microsoft Stream): [Video About The Product MS Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/EekjwILr79tEn0qPeVZ7TwUBxy7ou1RFOYLzp-bi7v_2-Q?e=kmB2Vl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
