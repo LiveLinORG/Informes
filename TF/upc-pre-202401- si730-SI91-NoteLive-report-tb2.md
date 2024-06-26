@@ -673,9 +673,9 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
  	 | US038 | Visualizar la diapositiva            | Como usuario (alumno) quiero poder visualizar las diapositivas que presente el profesor para estar al tanto de lo que este menciona y explica           | **Escenario 1: Visualizar diapositiva**<br>**Dado** que el usuario se encuentra dentro de la aplicación<br>**Cuando** este ingrese a una sesión<br>**Entonces** podrá visualizar las diapositivas que el profesor haya decidido compartir                                | Epic #2 - Funcionalidades Clave           |
  	 | US039 | Modelado de las clases y endpoints   | Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios.                     | **Escenario: Definición de Clases y Endpoints**<br>**Dado que**: Soy un desarrollador encargado del backend de la aplicación.<br>**Cuando**: Comienzo a diseñar la arquitectura de clases para el backend.<br>**Entonces**: Identifico las entidades principales que formarán parte del sistema.<br>**Entonces**: Defino las relaciones entre estas entidades.<br>**Entonces**: Establezco los endpoints necesarios para interactuar con estas entidades.<br>**Y**: Verifico que las clases estén bien estructuradas y que los endpoints cubran todas las funcionalidades requeridas por la aplicación, lo que garantiza un backend robusto y escalable.                       | Epic #6 - Desarrollo del Backend          |
  	 | US040 | Integración del backend con el frontend | Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de NoteLive para permitir una interacción completa y sin problemas en la aplicación. | **Escenario: Integración del Backend con el Frontend**<br>**Dado que**: Soy un desarrollador encargado de integrar el backend con el frontend de la aplicación PocketPartners.<br>**Cuando**: Comienzo el proceso de integración.<br>**Entonces**: Configuro las rutas de acceso en el backend para que coincidan con las necesidades del frontend.<br>**Entonces**: Implemento los controladores y servicios necesarios en el backend para procesar las solicitudes del frontend de manera adecuada.<br>**Entonces**: Establezco una API RESTful que permita la transferencia de datos entre el frontend y el backend de manera eficiente y segura.<br>**Entonces**: En el frontend, consumo los endpoints proporcionados por el backend utilizando tecnologías como Axios o Fetch.<br>**Y**: Verifico que la integración sea exitosa al realizar pruebas de extremo a extremo, lo que garantiza una interacción completa y sin problemas en la aplicación NoteLive. | Epic #6 - Desarrollo del Backend |
-	| US041 | Creación de cuenta | Como usuario, quiero ser capaz de crear una cuenta nueva en la aplicación para poder utilizar los servicios que ofrece NoteLive. | **Escenario : Creación de cuenta exitosa**<br>**Dado que** soy un usuario que se encuentra en la página de creación de cuenta de NoteLive<br>**Cuando** rellene mis datos en las casillas de creación de cuenta<br>**Y** de click en el botón de crear cuenta<br>**Entonces** mi cuenta será creada y me redirigirá a la pantalla de inicio de sesión. |
-	| US042 | Inicio de sesión en la aplicación | Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece NoteLive. | **Escenario : Inicio de sesión exitoso**<br>**Dado que** soy un usuario que tiene una cuenta en NoteLive<br>**Cuando** rellene mis datos en las casillas de inicio de sesión<br>**Y** de click en el botón de iniciar sesión<br>**Entonces** mi sesión iniciará y me redirigirá hacia la página principal de la aplicación. |
-	| US042 | Cierre de sesión en la aplicación | Como usuario, quiero ser capaz de cerrar sesión en la aplicación para mantener mis datos protegidos. | **Escenario : Cierre de sesión exitoso**<br>**Dado que** soy un usuario que tiene una sesión iniciada en NoteLive<br>**Cuando** e click en el botón de cerrar sesión<br>>**Entonces** mi sesión se cerrará y me redirigirá a la pantalla de inicio de sesión. |
+	| US041 | Creación de cuenta | Como usuario, quiero ser capaz de crear una cuenta nueva en la aplicación para poder utilizar los servicios que ofrece NoteLive. | **Escenario : Creación de cuenta exitosa**<br>**Dado que** soy un usuario que se encuentra en la página de creación de cuenta de NoteLive<br>**Cuando** rellene mis datos en las casillas de creación de cuenta<br>**Y** de click en el botón de crear cuenta<br>**Entonces** mi cuenta será creada y me redirigirá a la pantalla de inicio de sesión. | Epic #7 - Authorization |
+	| US042 | Inicio de sesión en la aplicación | Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece NoteLive. | **Escenario : Inicio de sesión exitoso**<br>**Dado que** soy un usuario que tiene una cuenta en NoteLive<br>**Cuando** rellene mis datos en las casillas de inicio de sesión<br>**Y** de click en el botón de iniciar sesión<br>**Entonces** mi sesión iniciará y me redirigirá hacia la página principal de la aplicación. | Epic #7 - Authorization |
+	| US043 | Cierre de sesión en la aplicación | Como usuario, quiero ser capaz de cerrar sesión en la aplicación para mantener mis datos protegidos. | **Escenario : Cierre de sesión exitoso**<br>**Dado que** soy un usuario que tiene una sesión iniciada en NoteLive<br>**Cuando** e click en el botón de cerrar sesión<br>>**Entonces** mi sesión se cerrará y me redirigirá a la pantalla de inicio de sesión. | Epic #7 - Authorization |
 
 
 
@@ -1916,6 +1916,342 @@ En la siguiente imagen podemos ver la conección a la base de datos online desde
 <img src="images/pulseInsightInformeSprint3.jpg" width="80%" align="center">
 
 <img src="images/contributorsInsightInformeSprint3.jpg" width="80%" align="center">
+
+
+### 5.2.4 Sprint 4
+#### 5.2.4.1 Sprint Planning 4
+
+<table>
+  <caption>Sprint #4</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>14/05/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>17:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Adrián Enrique Jesús Palma Obispo</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de LiveLin</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 4 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se harán las correcciones al Frontend y Backend además de realizar la conexión entre estos.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 4 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se hicierons las correcciones correspondientes al TB2, además se cumplió con la mejora del Backend y Frontend.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Velocity</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>7</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.2 Sprint Backlog 4
+
+En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuestro aplicativo. La herramienta para gestionar a los miembros del equipo y visualizar los avanzes del proyecto sera unicamente la tabla mostrada a continuación.
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">Sprint #</th>
+    <th style="border: 1px solid black;" colspan="9">Sprint 4</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;" colspan="2">User Story</th>
+    <th style="border: 1px solid black;" colspan="8">Workitem/Task</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black;">EPIC ID</th>
+    <th style="border: 1px solid black;">EPIC Title</th>
+    <th style="border: 1px solid black;">US-ID</th>
+    <th style="border: 1px solid black;">Title</th>
+    <th style="border: 1px solid black;">Description</th>
+    <th style="border: 1px solid black;">Task Id</th>
+    <th style="border: 1px solid black;">Task Description</th>
+    <th style="border: 1px solid black;">Estimation (Hours)</th>
+    <th style="border: 1px solid black;">Assigned To</th>
+    <th style="border: 1px solid black;">Status (To-do/In-Process/To-Review/Done)</th>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="10">EP-06</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="10">Desarrollo del Backend</td>
+    <td style="border: 1px solid black;" rowspan="7">US-39</td>
+    <td style="border: 1px solid black;" rowspan="7">Modelado de las clases y endpoints</td>
+    <td style="border: 1px solid black;" rowspan="7">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios.</td>
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Endpoint Chat</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Adrian Palma</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-02</td>
+    <td style="border: 1px solid black;">Endpoint PDF</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Adrian Palma</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-03</td>
+    <td style="border: 1px solid black;">Endpoint Question</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Adrian Palma</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-04</td>
+    <td style="border: 1px solid black;">Endpoint Room</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Adrian Palma</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-05</td>
+    <td style="border: 1px solid black;">Endpoint User</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Erick Palomino</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-06</td>
+    <td style="border: 1px solid black;">Despliegue en SmarterASP</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Joaquín Carbajal</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-07</td>
+    <td style="border: 1px solid black;">Despligue en Netlify</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Erick Palomino</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;"rowspan="3">US-40</td>
+    <td style="border: 1px solid black;"rowspan="3">Integracion del backend con el frontend</td>
+    <td style="border: 1px solid black;"rowspan="3">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de NoteLive para permitir una interacción completa y sin problemas en la aplicación</td>
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla de los usuarios</td>
+    <td style="border: 1px solid black;">1h</td>
+    <td style="border: 1px solid black;">Adrian Palma</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-02</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla de los Rooms</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Erick Palomino</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-03</td>
+    <td style="border: 1px solid black;">Conectar el backend con la pantalla Expenses</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Erick Palomino</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">EP-07</td>
+    <td style="border: 1px solid black; text-align: center; vertical-align: middle;" rowspan="16">Authorization</td>
+    <td style="border: 1px solid black;">US-41</td>
+    <td style="border: 1px solid black;">Creación de cuenta</td>
+    <td style="border: 1px solid black;">Como usuario, quiero ser capaz de crear una cuenta nueva en la aplicación para poder utilizar los servicios que ofrece NoteLive.</td>
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Sign-up route</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Adrian Palma</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;"rowspan="2">US-42</td>
+    <td style="border: 1px solid black;"rowspan="2">Inicio de sesión</td>
+    <td style="border: 1px solid black;"rowspan="2">Como usuario, deseo tener la capacidad de finalizar la sesión en mi cuenta después de utilizar la aplicación, con el fin de garantizar que algun externo pueda acceder a mis datos de la aplicación ni a la información personal que he proporcionado en ella.</td>
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Sign-in route</td>
+    <td style="border: 1px solid black;">3h</td>
+    <td style="border: 1px solid black;">Erick Palomino</td>
+    <td style="border: 1px solid black;">Done</td>
+    </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">TS-02</td>
+    <td style="border: 1px solid black;">Contraseña hasheada</td>
+    <td style="border: 1px solid black;">2h</td>
+    <td style="border: 1px solid black;">Adrian Palma</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;"rowspan="2">US-43</td>
+    <td style="border: 1px solid black;"rowspan="2">Cierre de sesión en la aplicación</td>
+    <td style="border: 1px solid black;"rowspan="2">Como usuario, deseo tener la capacidad de finalizar la sesión en mi cuenta después de utilizar la aplicación, con el fin de garantizar que algun externo pueda acceder a mis datos de la aplicación ni a la información personal que he proporcionado en ella.</td>
+    <td style="border: 1px solid black;">TS-01</td>
+    <td style="border: 1px solid black;">Sign-out</td>
+    <td style="border: 1px solid black;">3h</td>
+    <td style="border: 1px solid black;">Erick Palomino</td>
+    <td style="border: 1px solid black;">Done</td>
+    </tr>
+  <tr>
+    <td style="border: 1px solid black;">TS-02</td>
+    <td style="border: 1px solid black;">Implementacion del Authorizacion Bounded Context en el frontend</td>
+    <td style="border: 1px solid black;">3h</td>
+    <td style="border: 1px solid black;">Adrian Palma</td>
+    <td style="border: 1px solid black;">Done</td>
+  </tr>
+</table>
+
+#### 5.2.4.3 Development Evidence For Sprint Review
+
+<p align = "justify">Repositorio Backend</p>
+
+<table border="1" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr>
+  <tr>
+    <td rowspan="9">NoteLiveBackend</td>
+    <td rowspan="9">main</td>
+    <td>ddc0d222b041b2c2cda2cdfd9ed837cf5cb05663</td>
+    <td>Add: Fix bugs user in room foreign key</td>
+    <td>26/06/2024</td>
+  </tr>
+   <tr>
+    <td>0b381bcaf7915b1e0ebcbcd8d559d4e636ba9781</td>
+    <td>Fix: HttpRequests and commands</td>
+    <td>25/06/2024</td>
+  </tr>
+  <tr>
+    <td>feda5b1a75c113f4b5ac1bf1b3b574a13849cf68</td>
+    <td>Fix: foreign keys</td>
+    <td>25/06/2024</td>
+  </tr>
+  <tr>
+    <td>11ec84ec3f0859a6026ca6db1f9d2a9db6e0b46e</td>
+    <td>Fix: Signup htpp, post room, get users</td>
+    <td>18/06/2024</td>
+  </tr>
+  <tr>
+    <td>2df4a891b521866b3b168213a38755e8c4fff046</td>
+    <td>refactor(cors): optimize the cors config</td>
+    <td>25/06/2024</td>
+  </tr>
+  <tr>
+    <td>ef0d35733e4bb46c6926e4a7cad45567faf9d744</td>
+    <td>Add:Commandservices and queryservices</td>
+    <td>25/06/2024</td>
+  </tr>
+  <tr>
+    <td>451e497b533a3507e1d6642ae47ef03155518142</td>
+    <td>Add: Chat Function</td>
+    <td>23/06/2024</td>
+  </tr>
+  <tr>
+    <td>9ed4bbf779ae8d7275c58a36173d84a8ace2efa4</td>
+    <td>Fix: Iam</td>
+    <td>22/06/2024</td>
+  </tr>
+  <tr>
+    <td>8cded3dbd23c2643485c747e890d0320d9af6c94</td>
+    <td>Add: Iam</td>
+    <td>21/06/2024</td>
+  </tr>
+</table>
+
+<p align = "justify">Repositorio Frontend</p>
+
+<table border="1" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Committed on</th>
+  </tr>
+  <tr>
+    <td rowspan="30">Pocket Partners</td>
+    <td rowspan="30">develop</td>
+    <td>a4dbd0f8f38777bad55fc6c7801707168296430c</td>
+    <td>Add: Chat funcionality</td>
+    <td>23/06/2024</td>
+  </tr>
+  <tr>
+    <td>27573964d9ae77f052f1b58532babffda5e2eade</td>
+    <td>Add: ChatReady for controller</td>
+    <td>23/06/2024</td>
+  </tr>
+  <tr>
+    <td>a65f6dd76bdde6b4f828728a7574a112a86e428e</td>
+    <td>Feat: Updgrade Post Service</td>
+    <td>7/06/2024</td>
+  </tr>
+  <tr>
+    <td>4f4e3b89e1dde9d831d7ea662adbefff0ab07df5</td>
+    <td>add: prototype reactive pinvalue</td>
+    <td>05/05/2024</td>
+  <tr>
+    <td>b457bf1cafccc23c9cfb9a08d104879cfd084156</td>
+    <td>Fix: service implementation</td>
+    <td>04/05/2024</td>
+  </tr>
+  <tr>
+    <td>7ffb1d16d82f02d6aaf2fd99290e4d7fb621fa78</td>
+    <td>fix: comments</td>
+    <td>04/05/2024</td>
+  </tr>
+  <tr>
+    <td>998f9d1addc8d6ccd9117a651b53d7abe362c16a</td>
+    <td>Update WaitingProfessorRoom.vue</td>
+    <td>04/05/2024</td>
+  </tr>
+  <tr>
+    <td>7c102b96df13076ebc4d3811a6564b129dbed0bb</td>
+    <td>fix:waiting</td>
+    <td>04/05/2024</td>
+  </tr>
+  
+</table>
 
 ## 5.3. Validation Interviews
 
