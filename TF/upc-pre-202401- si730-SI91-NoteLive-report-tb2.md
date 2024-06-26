@@ -44,7 +44,8 @@
 | - | - | - | - |
 |**1.0**|10/04/2024|<p>Carbajal Pozzo, Joaquin Alonso</p><p></p><p>Martinez Villanueva, Piero Alonso</p><p></p><p>Palma Obispo, Adrián Enrique Jesús</p><p></p><p>Palomino Santa Cruz, Erick Joaquin</p><p></p><p>Silva Morales, Renzo Cesar</p><p></p>|Creación del documento de trabajo en formato markdown y creación del código base.<br><br>Merge de pull request para las branch del trabajo de capitulos<br><br>Diseño y creación de entrevistas<br><br>Diseño de Style Guidelines<br><br>Diagrama de Clases y Diagrama de Base de Datos|
 |**2.0**|03/05/2024|<p>Carbajal Pozzo, Joaquin Alonso</p><p></p><p>Martinez Villanueva, Piero Alonso</p><p></p><p>Palma Obispo, Adrián Enrique Jesús</p><p></p><p>Palomino Santa Cruz, Erick Joaquin</p><p></p><p>Silva Morales, Renzo Cesar</p>|Primera versión de Frontend Web Application<br><br>Development Evidence for Sprint Review<br><br>Testing Suite Evidence for Sprint Review<br><br>Execution Evidence for Sprint Review<br><br>Services Documentation Evidence for Sprint Review<br><br>Software Deployment Evidence for Sprint Review|
-
+|**3.0**|09/06/2024|<p>Carbajal Pozzo, Joaquin Alonso</p><p></p><p>Martinez Villanueva, Piero Alonso</p><p></p><p>Palma Obispo, Adrián Enrique Jesús</p><p></p><p>Palomino Santa Cruz, Erick Joaquin</p><p></p><p>Silva Morales, Renzo Cesar</p><p></p>|Primera versión de Backend<br><br>Development Evidence for Sprint Review<br><br>Execution Evidence for Sprint Review<br><br>Services Documentation Evidence for Sprint Review<br><br>Software Deployment Evidence for Sprint Review|
+|**4.0**|26/06/2024|<p>Carbajal Pozzo, Joaquin Alonso</p><p></p><p>Martinez Villanueva, Piero Alonso</p><p></p><p>Palma Obispo, Adrián Enrique Jesús</p><p></p><p>Palomino Santa Cruz, Erick Joaquin</p><p></p><p>Silva Morales, Renzo Cesar</p><p></p>|Mejoras al Frontend y Backend<br><br>Conexión del Frontend al backend<br><br>Development Evidence for Sprint Review<br><br>Testing Suite Evidence for Sprint Review<br><br>Execution Evidence for Sprint Review<br><br>Services Documentation Evidence for Sprint Review<br><br>Software Deployment Evidence for Sprint Review|
 
 
 ### Project Report Collaboration Insights
@@ -84,10 +85,10 @@ Para la elaboración del informe del TB2, se asignó las siguientes tareas a cad
 | Integrante                            | Tareas Designadas       |
 |-----------------------------------|--------------|
 | Adrián Enrique Jesús Palma Obispo | Desarrollo del aplicativo y video about the product |
-| Joaquín Alonso Carbajal Pozzo |Corrección y avance del informe, deploy del Web App |
+| Joaquín Alonso Carbajal Pozzo |Corrección y avance del informe, deploy del Backend |
 | Erick Joaquin Palomino Santa Cruz| Desarrollo del aplicativo |
-| Piero Alonso Martinez Villanueva |Entrevistas y test|
-| Renzo Cesar Silva Morales |Diseño y realización de entrevistas|
+| Piero Alonso Martinez Villanueva |Diseño y realización de entrevistas|
+| Renzo Cesar Silva Morales |Entrevistas y test|
 
 Evidencias de los Insights
 
@@ -100,6 +101,40 @@ Informe:
 
 <img src="images/tp1Informe.jpg" width="80%">
 <img src="images/tp1Informe2.jpg" width="80%">
+
+Backend:
+
+<img src="images/pulseInsightBackendSprint3.jpg" width="80%" align="center">
+<img src="images/contributorsInsightBackendSprint3.jpg" width="80%" align="center">
+
+**TF:**
+
+Para la elaboración del informe del TF, se asignó las siguientes tareas a cada integrante del equipo:
+
+| Integrante                            | Tareas Designadas       |
+|-----------------------------------|--------------|
+| Adrián Enrique Jesús Palma Obispo | Correción del backend |
+| Joaquín Alonso Carbajal Pozzo |Corrección y avance del informe, deploy del Backend |
+| Erick Joaquin Palomino Santa Cruz| Conexión con el frontend |
+| Piero Alonso Martinez Villanueva |Corrección y avance del informe|
+| Renzo Cesar Silva Morales |Creación de la presentación|
+
+Evidencias de los Insights
+
+Front End:
+
+<img src="images/tp1Front.jpg" width="80%">
+<img src="images/tp1Front2.jpg" width="80%">
+
+Informe:
+
+<img src="images/tp1Informe.jpg" width="80%">
+<img src="images/tp1Informe2.jpg" width="80%">
+
+Backend:
+
+<img src="images/pulseInsightBackendSprint3.jpg" width="80%" align="center">
+<img src="images/contributorsInsightBackendSprint3.jpg" width="80%" align="center">
 
 # Contenido
 
