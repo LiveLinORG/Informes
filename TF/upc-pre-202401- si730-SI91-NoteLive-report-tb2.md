@@ -1,5 +1,5 @@
 # Universidad Peruana de Ciencias Aplicadas  
-### INFORME DEL TRABAJO PARCIAL (TP)
+### INFORME DEL TRABAJO FINAL (TF)
 <p align="center">
 	
 <img src="https://github.com/TripTeamOrganization/Informes/assets/134337719/c8a24a74-515a-436b-b7b9-ea1b2e418e60">
