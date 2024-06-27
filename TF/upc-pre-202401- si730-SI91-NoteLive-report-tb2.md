@@ -2255,6 +2255,10 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
+<img src="images/testUnitario1.jpg" width="80%">
+
+<img src="images/testUnitario2.jpg" width="80%">
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 <img src="images/MainMenu.jpg" alt="Compilación del menú principal del WebApp" width="80%">
@@ -2267,7 +2271,9 @@ En el cuarto y último Sprint, se seguira con el desarrollo del Backend de nuest
 
 <img src="images/SesionMenu.jpg" alt="Compilación del menú de la sesión del WebApp" width="80%">
 
-<img src="images/localswaggerEvidence.jpg" width="90%" align="center">
+<img src="images/backendSprint4.1.jpg" width="90%" align="center">
+
+<img src="images/backendSprint4.2.jpg" width="90%" align="center">
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review'
@@ -2373,7 +2379,7 @@ Paso 16: Entramos en el link de la página y colocamos las credenciales copiadas
 
     En la siguiente imagen podemos ver el swagger ya desplegado en un link de acceso público.
 
-<img src="images/swaggerEvidence.jpg" width="80%" align="center">
+<img src="images/backendSprint4.2.jpg" width="80%" align="center">
 
 En la siguiente imagen podemos ver la conección a la base de datos online desde el MySqlWorkbench.
 
