@@ -1110,8 +1110,13 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 	    - Una carpeta “js” la cual contiene nuestros scripts en un archivo “index.js”
 	  Además, para el despliegue utilizando GitHub, también implementamos Node.js para el deployment mediante puertos abiertos TCP.
 - 5.2. Landing Page, Services & Applications Implementation.
-  - 5.2.1. Sprint n
+  - 5.2.1. Sprint 1
     - 5.2.1.1. Sprint Planning.
+      Durante el sprint se acordó realizar lo siguiente:
+      
+    <img src="images/sprint-backlog1.png" width="100%" align="center">
+    
+     Link: https://trello.com/b/7QNE4ED2/notelive-sprint-1
       
 | **Sprint #** | **Sprint 1** |
 | :- | :- |
@@ -1393,6 +1398,11 @@ Durante este sprint, se completaron las siguientes tareas:
     
    - 5.2.2. Sprint 2
 	- 5.2.2.1 Sprint Planning 2
+	Durante el sprint se acordó realizar lo siguiente:
+
+     	<img src="images/sprint-backlog2.png" width="100%" align="center">
+      
+    	 Link: https://trello.com/b/aUm5nYRf/notelive-sprint-2
 
 | **Sprint #** | **Sprint 2** |
 | :- | :- |
@@ -1506,6 +1516,12 @@ Se hizo uso de Netlify, un servicio publico de MakerLoop, Inc. Netlify permite h
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
+
+Durante el sprint se acordó realizar lo siguiente:
+
+<img src="images/sprint-backlog3.png" width="100%" align="center">
+
+Link: https://trello.com/b/uUf9jGFj/notelive-sprint-3
 
 <table>
   <caption>Sprint #3</caption>
@@ -1920,6 +1936,12 @@ En la siguiente imagen podemos ver la conección a la base de datos online desde
 
 ### 5.2.4 Sprint 4
 #### 5.2.4.1 Sprint Planning 4
+
+Durante el sprint se acordó realizar lo siguiente:
+
+<img src="images/sprint-backlog4.png" width="100%" align="center">
+
+Link: https://trello.com/b/L6yKdlve/notelive-sprint-4
 
 <table>
   <caption>Sprint #4</caption>
