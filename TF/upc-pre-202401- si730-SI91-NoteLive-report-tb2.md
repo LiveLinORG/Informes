@@ -1120,7 +1120,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 - 4.7. Database Design.
   - 4.7.1. Database Diagram. <br>
     EL diagrama de la base de datos fue realizada en Vertabelo. A continuación, se adjunta la imagen:
-    <p align="center" alt="Diagrama de base de datos"><img src="images/Database-diagram.png"></p>
+    <p align="center" alt="Diagrama de base de datos"><img src="images/diagramaBDDSprint4.png"></p>
     Link: <br> https://my.vertabelo.com/public-model-view/fuS8RWFvR1OHpcwngaR9so1dVVo0nB8OVzBqTJaKeoAfGmtmpp938Kf4dVDGMS5Q?x=3114&y=3451&zoom=0.5143
 
 ### 5. Capítulo V: Product Implementation, Validation & Deployment
@@ -2880,6 +2880,10 @@ Video de exposición TP: [Video de exposición TP](https://upcedupe-my.sharepoin
 Video de exposición TB2 (Microsoft Stream): [Video de exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121881_upc_edu_pe/ETgeAU4c6XNAkzkWHjdfipgBhVqsELV8dKyKui1j_bwQHg?e=c9C0jY)
 
 Video de exposición TB2 (YouTube): [Video de exposición TB2](https://youtu.be/XY8msJ_KBxY)
+
+Video de exposición TF (Microsoft Stream): [Video de exposición TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121881_upc_edu_pe/ERQWNOfeX5JKm3wx4SweuVkBnw9O-RZ-02uRAJCbijBEQQ?e=S7pwg1)
+
+Video de exposición TF (YouTube): [Video de exposición TB2](https://youtu.be/WjHKgBGam1Y)
 
 Video About The Product (Microsoft Stream): [Video About The Product MS Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/EekjwILr79tEn0qPeVZ7TwUBxy7ou1RFOYLzp-bi7v_2-Q?e=kmB2Vl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
