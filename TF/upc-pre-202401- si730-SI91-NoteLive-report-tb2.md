@@ -687,7 +687,16 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
   	![Imagen de WhatsApp 2024-04-14 a las 01 05 45_86012070](https://github.com/LiveLinORG/Informes/assets/127764958/628807a3-47f0-4a2b-89b9-45547d44fdb5)
 
   
-- 3.4. Product Backlog.
+- 3.4. Product Backlog. <br>
+
+  	En el siguiente enlace podrá encontrar el Product Backlog realizado en Pivotal Tracker con más detalle, cada User Storie esta ordenada en orden de prioridad en base a sus puntos de dificultad:
+
+	<img src="images/pivotal-tracker.png" width="100%" align="center">
+
+ 	Link: https://www.pivotaltracker.com/n/projects/2707970
+	 
+
+- Product Backlog de la Aplicación Web:
   
 	|Historia De Usuario|Descripción|
 	|:----|:----|
@@ -721,6 +730,7 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
 	|Integración con Plataformas de Aprendizaje|Como usuario, me gustaría que NoteLive se integre con otras plataformas de aprendizaje en línea para facilitar la gestión de contenido y la comunicación con mis profesores y compañeros de clase.|
 	|Sincronización de Notas y Comentarios|Como usuario, quiero que mis notas y comentarios realizados en NoteLive se sincronicen automáticamente en todos mis dispositivos para poder acceder a ellos desde cualquier lugar y en cualquier momento.|
 	|Protección de Datos Personales|Como usuario, deseo que NoteLive garantice la protección de mis datos personales y la privacidad de mis interacciones en la plataforma mediante medidas de seguridad robustas y cumplimiento de regulaciones de privacidad.|
+
 - Product Backlog de Landing Page:
 	| User Story                           | Descripción                                                                                                          |
 	|--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -2803,3 +2813,4 @@ Vertabelo: [Database Diagram](https://my.vertabelo.com/public-model-view/fuS8RWF
 
 Trello (Springs): https://trello.com/b/mTZh8vb4/notelive
 
+Pivotal Tracker (Product Backlog): https://www.pivotaltracker.com/n/projects/2707970
