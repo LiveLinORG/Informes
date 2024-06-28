@@ -908,7 +908,61 @@ La posibilidad de que los estudiantes tengan su propia pizarra o anotador para t
     ![image](https://github.com/LiveLinORG/Informes/assets/48342953/28cc65b9-ab2a-43a8-acea-a8a5cc12b246)
     ![image](https://github.com/LiveLinORG/Informes/assets/48342953/5a3aa1e8-d121-4cee-8c0a-79243615336d)
 
- 
+ - 4.4. Web Applications UX/UI Design.
+  - 4.4.1. Web Applications Wireframes.
+    
+    Wireframe principal, donde se decidirá si se creará una sesión o se unirá a una ya existente.
+    <p align="center"><img src="images/wireframeMain.jpg" alt="Wireframe Principal" width="80%"></p>
+    
+    Wireframe de unión, donde se introduce el pin de la sesión y el nombre del participante.
+    <p align="center"><img src="images/wireframeJoin.jpg" alt="Wireframe de Unión" width="80%"></p>
+    
+    Wireframe de creación, donde se presenta el pin de la sesión, se ve la cantidad de participantes, sus nombre y se sube el doumento a visualizar.
+    <p align="center"><img src="images/wireframeCreate.jpg" alt="Wireframe de Creación" width="80%"></p>
+    
+    Wireframe de uso, donde se vizualizará el documento subido, se podrá realizar preguntas y hacer comentarios en tiempo real.
+    <p align="center"><img src="images/wireframeUse.jpg" alt="Wireframe de Uso" width="80%"></p>
+    
+  - 4.4.2. Web Applications Wireflow Diagrams.
+    
+    El usuario busca crear una sesión, por lo que presiona el botón de creación de sesión. Luego de compartir el pin de la sesión con sus alumnos y subir la presentación de la clase, presionará el botón de inicio. Luego podrá hacer uso de la herramienta.
+    <p align="center"><img src="images/wireflowCrear.png" alt="Wireframe de Creación" width="80%"></p>
+    
+    El usuario busca unirse a una sesión existente, por lo que presiona el botón de unirse. Luego de ingresar el pin que le fue compartido e ingresar un nombre, podrá presionar le botón de ingresar. Luego podrá hacer uso de la herramienta.
+    <p align="center"><img src="images/wireflowUnirse.png" alt="Wireframe de Unión" width="80%"></p>
+    
+  - 4.4.3. Web Applications Mock-ups.
+    
+    Mock-Up De la página principal
+    <p align="center"><img src="images/mock-upMain.jpg" alt="Mock-Up Principal" width="80%"></p>
+    
+    Mock-Up de la página de unión
+    <p align="center"><img src="images/mock-upJoin.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin1.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin2.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin3.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin4.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin5.jpg" alt="Mock-Up Unión" width="80%"></p>
+    <p align="center"><img src="images/mock-upJoin6.jpg" alt="Mock-Up Unión" width="80%"></p>
+    
+    Mock-Up de la página de creación
+    <p align="center"><img src="images/mock-upCreate.jpg" alt="Mock-Up Creación" width="80%"></p>
+    <p align="center"><img src="images/mock-upCreate1.jpg" alt="Mock-Up Creación" width="80%"></p>
+    <p align="center"><img src="images/mock-upCreate2.jpg" alt="Mock-Up Creación" width="80%"></p>
+    <p align="center"><img src="images/mock-upCreate3.jpg" alt="Mock-Up Creación" width="80%"></p>
+    
+    Mock-Up de la página de uso
+    <p align="center"><img src="images/mock-upUse.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse1.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse2.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.1.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.2.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.3.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.1.2.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.2.3.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.1.3.jpg" alt="Mock-Up Uso" width="80%"></p>
+    <p align="center"><img src="images/mock-upUse3.4.jpg" alt="Mock-Up Uso" width="80%"></p>
     
   - 4.4.4. Web Applications User Flow Diagrams.
  
