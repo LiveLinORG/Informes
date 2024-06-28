@@ -117,7 +117,7 @@ Para la elaboración del informe del TF, se asignó las siguientes tareas a cada
 | Joaquín Alonso Carbajal Pozzo |Corrección y avance del informe, deploy del Backend |
 | Erick Joaquin Palomino Santa Cruz| Conexión con el frontend |
 | Piero Alonso Martinez Villanueva |Corrección y avance del informe|
-| Renzo Cesar Silva Morales |Creación de la presentación|
+| Renzo Cesar Silva Morales |Creación de la presentación, organización del Frontend y Backend.|
 
 Evidencias de los Insights
 
