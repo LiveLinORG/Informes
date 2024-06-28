@@ -2799,7 +2799,7 @@ En esta sección se elaboró un video con los aspectos más relevantes y caracte
 
    **Duración:** 04:55 <br>
    **Link Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/EekjwILr79tEn0qPeVZ7TwUBxy7ou1RFOYLzp-bi7v_2-Q?e=kmB2Vl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
-   **Link YouTube:** https://youtu.be/l2vEE34X4pU <br>
+   **Link YouTube:** [ABOUT THE PRODUCT ULTIMO SPPRINT](https://youtu.be/j-oJ-PKCuSk) <br>
 
 ## Conclusiones
 
