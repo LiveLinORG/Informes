@@ -2846,7 +2846,7 @@ Se han identificado varias estrategias clave para mejorar y optimizar sprints y 
 
 
 ## Anexos
-Enlace para acceder a la landing page: [Ver enlace](https://notelive.netlify.app/)
+Enlace para acceder a la landing page: [Ver enlace](https://livelinorg.github.io/FrontEnd/)
 
 Enlace para acceder al Front End: [Ver enlace](https://notelivewebapp.netlify.app/)
 
